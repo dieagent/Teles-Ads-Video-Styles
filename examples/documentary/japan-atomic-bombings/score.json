@@ -1,0 +1,260 @@
+{
+  "title": "Why Hiroshima and Nagasaki?",
+  "premise": "Why did the United States use atomic bombs on Hiroshima and Nagasaki in August 1945?",
+  "fiction": false,
+  "style": "documentary",
+  "styleReason": "The supplied snakebite reference uses an opening paradox, cinematic 3D illustrated scenes, explanatory maps and mechanisms, color-coded chapters, and an evidence-based answer; that grammar can explain a historical decision without copying its subjects.",
+  "targetSeconds": 125,
+  "story": {
+    "goal": "Explain why the US used atomic bombs on two Japanese cities.",
+    "obstacle": "A one-cause account conflates official rationale, surrender chronology, and civilian consequences.",
+    "turn": "The Soviet offensive and internal debate make the single-cause explanation insufficient.",
+    "payoff": "State the official rationale, the debated causal picture, and the human cost separately."
+  },
+  "timing": {
+    "status": "planned",
+    "voiceFile": null
+  },
+  "sources": [
+    {
+      "id": "R1",
+      "kind": "official",
+      "claim": "US National Archives chronology of Potsdam declaration, two bombings, Soviet invasion, surrender dates, and continuing debate.",
+      "url": "https://visit.archives.gov/whats-on/explore-exhibits/atomic-bombing-hiroshima-and-nagasaki",
+      "published": "2020",
+      "use": "Dates, official rationale, archive-page evidence insert, and historical debate."
+    },
+    {
+      "id": "R2",
+      "kind": "official",
+      "claim": "US National Park Service account of the ultimatum, invasion planning, bombing, Soviet entry and debate over necessity.",
+      "url": "https://home.nps.gov/wwii/learn/historyculture/august-1945.htm",
+      "published": "2020-05-12",
+      "use": "Context for stated US rationale and multi-factor ending."
+    },
+    {
+      "id": "R3",
+      "kind": "official",
+      "claim": "Hiroshima city estimates approximately 140,000 deaths there by end of 1945 and notes uncertainty and radiation harm.",
+      "url": "https://www.city.hiroshima.lg.jp/english/peace/1029920/1009857.html",
+      "published": "",
+      "use": "Civilian impact with appropriate number and scope."
+    }
+  ],
+  "jokes": [],
+  "beats": [
+    {
+      "id": "B1",
+      "act": "setup",
+      "voice": "एक बम गिरा, फिर दूसरा। अगर जापान पहले ही हार के करीब था, तो अमेरिका ने हिरोशिमा और नागासाकी पर एटम बम क्यों गिराए?",
+      "visual": "Blackness opens to two paper city models. A map pin hits Hiroshima, then Nagasaki. The question card arrives in the source's bold upper-left style. No mushroom-cloud spectacle.",
+      "motion": "Open from black; two paper city models and pins arrive on the spoken city names.",
+      "caption": "WHY TWO BOMBS?",
+      "sound": "Low impact at first pin; bed ducks for question.",
+      "purpose": "Open the question and locate the two cities.",
+      "sourceIds": [
+        "R1",
+        "R2"
+      ],
+      "jokeIds": [],
+      "start": null,
+      "end": null,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B2",
+      "act": "setup",
+      "voice": "1945 की गर्मियों में यूरोप का युद्ध खत्म हो चुका था। लेकिन प्रशांत महासागर में जापान और मित्र देशों की लड़ाई जारी थी।",
+      "visual": "Warm amber globe turns from Europe to the Pacific; isolated moving fronts become a compact map, not a stock war montage.",
+      "motion": "Rotate amber globe from Europe toward Pacific; moving front becomes map.",
+      "caption": "A WAR STILL ON",
+      "sound": "Quiet globe travel cue beneath voice.",
+      "purpose": "Establish unfinished Pacific war context.",
+      "sourceIds": [
+        "R2"
+      ],
+      "jokeIds": [],
+      "start": null,
+      "end": null,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B3",
+      "act": "setup",
+      "voice": "छब्बीस जुलाई को मित्र देशों ने पॉट्सडैम घोषणा दी: जापान से आत्मसमर्पण की मांग। जापानी नेतृत्व ने वह शर्त तब स्वीकार नहीं की।",
+      "visual": "Parchment declaration slides over a dimensional map; a small date pin lights. Show the document as illustration, not a fake facsimile.",
+      "motion": "Slide parchment over map; date pin illuminates on the spoken date.",
+      "caption": "THE ULTIMATUM",
+      "sound": "Paper slide and date tick.",
+      "purpose": "Explain the ultimatum and rejection.",
+      "sourceIds": [
+        "R1",
+        "R2"
+      ],
+      "jokeIds": [],
+      "start": null,
+      "end": null,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B4",
+      "act": "escalation",
+      "voice": "अमेरिकी नेतृत्व को डर था कि जापान के मुख्य द्वीपों पर हमला बहुत महंगा पड़ेगा। बम का इस्तेमाल युद्ध जल्दी खत्म कराने का उनका घोषित तर्क था।",
+      "visual": "Red decision-room model: invasion arrows approach islands, then freeze as an alternative atomic marker enters. Label the sentence as a stated rationale, not proven sole motive.",
+      "motion": "Push into decision room; invasion arrows freeze; alternative marker enters.",
+      "caption": "THE U.S. RATIONALE",
+      "sound": "Restrained low pulse; no triumph cue.",
+      "purpose": "Attribute the US government's stated reason.",
+      "sourceIds": [
+        "R1",
+        "R2"
+      ],
+      "jokeIds": [],
+      "start": null,
+      "end": null,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B5",
+      "act": "escalation",
+      "voice": "छह अगस्त की सुबह हिरोशिमा पर पहला बम गिरा। शहर के लोग अपने रोज़ के काम में थे। एक ही क्षण में घर, सड़कें और ज़िंदगियां तबाह हो गईं।",
+      "visual": "Blue-gray morning street illustration, close personal objects; shockwave shown through paper layers and light, then cut to absence. No invented real-person testimony.",
+      "motion": "Track morning street objects; compress paper layers on shockwave and cut to absence.",
+      "caption": "AUG 6 · HIROSHIMA",
+      "sound": "Music thins; one distant low impact.",
+      "purpose": "Show the first bombing and civilian setting.",
+      "sourceIds": [
+        "R1",
+        "R3"
+      ],
+      "jokeIds": [],
+      "start": null,
+      "end": null,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B6",
+      "act": "escalation",
+      "voice": "तीन दिन बाद नागासाकी पर दूसरा बम गिरा। उन्हीं दिनों सोवियत सेना ने जापान के कब्ज़े वाले मंचूरिया पर भी हमला किया।",
+      "visual": "Split map: Nagasaki lights on one side, Manchuria front advances on the other. The two movements happen in parallel, not as one causing the other.",
+      "motion": "Split map; Nagasaki and Manchuria markers animate independently in parallel.",
+      "caption": "AUG 9 · TWO SHOCKS",
+      "sound": "Two soft map impacts, separated.",
+      "purpose": "Show second bombing and Soviet offensive in same period.",
+      "sourceIds": [
+        "R1",
+        "R2"
+      ],
+      "jokeIds": [],
+      "start": null,
+      "end": null,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B7",
+      "act": "escalation",
+      "voice": "अब सवाल बदलता है: जापान के फैसले पर किसका कितना असर था? बम, सोवियत हमला, युद्ध की हालत और सरकार के भीतर की बहस—इतिहासकार आज भी इनके वजन पर असहमत हैं।",
+      "visual": "Four physical tokens move toward a decision hinge; no token is declared the winner. Make the uncertainty visual.",
+      "motion": "Four physical tokens approach a hinge without a single winner.",
+      "caption": "WHAT FORCED SURRENDER?",
+      "sound": "Pulse slows; near-silence on debate.",
+      "purpose": "Make the causal debate explicit.",
+      "sourceIds": [
+        "R1",
+        "R2"
+      ],
+      "jokeIds": [],
+      "start": null,
+      "end": null,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B8",
+      "act": "escalation",
+      "voice": "राष्ट्रीय अभिलेखागार की यह समयरेखा तारीखें साफ़ रखती है: छह अगस्त हिरोशिमा, नौ अगस्त नागासाकी और सोवियत हमला, पंद्रह अगस्त आत्मसमर्पण की घोषणा।",
+      "visual": "Bring in the **real** National Archives page capture (archive-page.png). Crop a production copy to publisher, title and date paragraphs; highlight the exact dates while narrator says them. Keep the raw capture and source URL.",
+      "motion": "Push into untouched archive screenshot crop and highlight the exact three dated lines.",
+      "caption": "THE RECORD",
+      "sound": "Paper lift and small evidence clicks.",
+      "purpose": "Provide inspectable primary-institution chronology.",
+      "sourceIds": [
+        "R1"
+      ],
+      "jokeIds": [],
+      "start": null,
+      "end": null,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B9",
+      "act": "escalation",
+      "voice": "लेकिन तारीखें अकेले मंशा साबित नहीं करतीं। अमेरिका की आधिकारिक वजह और जापान के आत्मसमर्पण का पूरा कारण, दोनों एक ही बात नहीं हैं।",
+      "visual": "Archive page folds into two dimensional columns: “stated reason” and “surrender factors.” Thin lines connect them without collapsing them together.",
+      "motion": "Fold archive page into two separate columns; draw but do not merge connector lines.",
+      "caption": "MOTIVE ≠ CAUSE",
+      "sound": "Dry fold sound; music low.",
+      "purpose": "Separate stated motive from historical causation.",
+      "sourceIds": [
+        "R1",
+        "R2"
+      ],
+      "jokeIds": [],
+      "start": null,
+      "end": null,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B10",
+      "act": "escalation",
+      "voice": "और सबसे ज़रूरी बात आंकड़ों के पीछे लोग हैं। हिरोशिमा शहर के मुताबिक, 1945 के अंत तक वहाँ लगभग एक लाख चालीस हज़ार लोगों की मौत हो चुकी थी। सही संख्या आज भी तय नहीं है।",
+      "visual": "Go quiet. Paper city returns with thousands of warm points of light going dark; one family doorway remains. Small credit `CITY OF HIROSHIMA` beneath the number.",
+      "motion": "Slow pullback; warm city lights darken; hold the single doorway.",
+      "caption": "THE HUMAN COST",
+      "sound": "Near-silence under number; soft air.",
+      "purpose": "Center the civilian cost and uncertainty.",
+      "sourceIds": [
+        "R3"
+      ],
+      "jokeIds": [],
+      "start": null,
+      "end": null,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B11",
+      "act": "payoff",
+      "voice": "तो जवाब है: अमेरिका ने जापान को जल्द आत्मसमर्पण कराने के लिए बम इस्तेमाल किए; उसी समय सोवियत हमला भी हुआ। कौन-सा कारण निर्णायक था, इस पर बहस बाकी है। लेकिन शहरों की तबाही बहस नहीं है।",
+      "visual": "Four tokens reappear; two city models resolve to empty street grids. The card changes from red to bone white.",
+      "motion": "Return to four tokens, then dissolve city models into empty grids; red cools to bone.",
+      "caption": "THE ANSWER",
+      "sound": "Warm but unresolved harmonic release.",
+      "purpose": "Answer the question with qualified causation.",
+      "sourceIds": [
+        "R1",
+        "R2",
+        "R3"
+      ],
+      "jokeIds": [],
+      "start": null,
+      "end": null,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B12",
+      "act": "payoff",
+      "voice": "अगर आपको उस फैसले को समझाने के लिए सिर्फ़ एक रिकॉर्ड दिखाना हो, आप कौन-सा चुनेंगे?",
+      "visual": "Final slow push to a blank archive folder where a sourced record could be placed; question remains legible, sound fades after speech.",
+      "motion": "Slow push toward archive folder; hold question until voice ends.",
+      "caption": "WHICH RECORD?",
+      "sound": "One soft archive-close sound after speech.",
+      "purpose": "Invite an evidence-based response.",
+      "sourceIds": [
+        "R1"
+      ],
+      "jokeIds": [],
+      "start": null,
+      "end": null,
+      "intentionalSilence": false
+    }
+  ]
+}

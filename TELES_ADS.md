@@ -4,7 +4,7 @@
 
 Use `/director what if Modi became president of the USA` for a researched story, original character-specific jokes, a timed shot script and a video made in a selected style. The [director skill](.claude/skills/teles-director/SKILL.md) researches both the person's own humor and public jokes, then chooses one of the reference styles below. See the [worked script](examples/director/modi-us-president/SCRIPT.md), [source ledger](examples/director/modi-us-president/RESEARCH.md) and [open-source research](docs/DIRECTOR_OPEN_SOURCE.md). The example is explicitly fictional satire.
 
-Use one command to match a **specific supplied video**, then give a new topic. Ten primary commands map one-to-one to the ten supplied clips. Two additional commands use distinct, short segments of videos 04 and 05. All twelve video-style skills and the director skill live in `.claude/skills/`; the slash commands live in `.claude/commands/`.
+Use one command to match a **specific supplied video**, then give a new topic. Ten primary commands map one-to-one to the ten original supplied clips. Two additional commands use distinct, short segments of videos 04 and 05. The new `/documentary` command maps to the separately supplied snakebite explainer. All thirteen video-style skills and the director skill live in `.claude/skills/`; the slash commands live in `.claude/commands/`.
 
 | Command | Video-number alias | Exact reference treatment | Source |
 |---|---|---|---|
@@ -20,10 +20,11 @@ Use one command to match a **specific supplied video**, then give a new topic. T
 | `/rainmyth` | `/ref10` | Kuchisake-onna comic 3D short | [video 10](examples/reference-videos/source-10.mp4) |
 | `/labnote` | — | Fact-card opening of video 04 | [video 04](examples/reference-videos/source-04.mp4) |
 | `/pulpchronicle` | — | Reversal passage of video 05 | [video 05](examples/reference-videos/source-05.mp4) |
+| `/documentary` | — | Hindi/Hinglish cinematic illustrated evidence explainer | [snakebite video](examples/documentary/reference/snakebite-source.mp4) |
 
 Example: `/zackd why I'm afraid` uses the 3D characters, red/black kinetic type and comparison-to-insight rhythm of video 08. The **subject and words are new**. For a direct numbered request, `/ref08 why I'm afraid` routes to the same skill.
 
-Each skill has a source-specific timed beat map, image and type rules, voice and sound behavior, and a worked example in [examples/styles](examples/styles/). The [source map](examples/SOURCE_MAP.md) links original filenames to numbered files; [sixteen-frame sheets](examples/style-atlas/) and [machine transcripts](examples/TRANSCRIPTS.json) support the analysis. Check exact transcript words and factual claims before publication.
+Each skill has a source-specific timed beat map, image and type rules, voice and sound behavior, and a worked example. The original twelve examples are in [examples/styles](examples/styles/). The new [documentary example](examples/documentary/README.md) includes the original clip, 24-frame sheet, 14 full-size screenshots, a deep design specification, a real archive-page screenshot, and a complete Hiroshima/Nagasaki script and shot score. Use `/documentary what happened in Japan why USA nuke him` as the one-line input pattern; the agent researches the precise question and makes a new video in that style. The [source map](examples/SOURCE_MAP.md) links the original ten filenames to numbered files; [sixteen-frame sheets](examples/style-atlas/) and [machine transcripts](examples/TRANSCRIPTS.json) support their analysis. Check exact transcript words and factual claims before publication.
 
 ## Production rule
 

@@ -1,0 +1,26 @@
+# Worked `/documentary` script: Why Hiroshima and Nagasaki?
+
+**Format:** 9:16, Hindi/Hinglish male or neutral original narrator, roughly 115–130 seconds after recording. English uppercase keyword cards. Deliberate 3D-illustrated look and mechanism-led edit from the [snakebite source](../reference/snakebite-source.mp4). This is a **complete writing and shot example**; the voice and final video have not been generated.
+
+## Full narration and direction
+
+| Beat | Narration — speak the whole line | Large card | Original visual and motion | Evidence |
+|---|---|---|---|---|
+| B1 | “एक बम गिरा, फिर दूसरा। अगर जापान पहले ही हार के करीब था, तो अमेरिका ने हिरोशिमा और नागासाकी पर एटम बम क्यों गिराए?” | `WHY TWO BOMBS?` | Blackness opens to two paper city models. A map pin hits Hiroshima, then Nagasaki. The question card arrives in the source's bold upper-left style. No mushroom-cloud spectacle. | R1, R2 |
+| B2 | “1945 की गर्मियों में यूरोप का युद्ध खत्म हो चुका था। लेकिन प्रशांत महासागर में जापान और मित्र देशों की लड़ाई जारी थी।” | `A WAR STILL ON` | Warm amber globe turns from Europe to the Pacific; isolated moving fronts become a compact map, not a stock war montage. | R2 |
+| B3 | “छब्बीस जुलाई को मित्र देशों ने पॉट्सडैम घोषणा दी: जापान से आत्मसमर्पण की मांग। जापानी नेतृत्व ने वह शर्त तब स्वीकार नहीं की।” | `THE ULTIMATUM` | Parchment declaration slides over a dimensional map; a small date pin lights. Show the document as illustration, not a fake facsimile. | R1, R2 |
+| B4 | “अमेरिकी नेतृत्व को डर था कि जापान के मुख्य द्वीपों पर हमला बहुत महंगा पड़ेगा। बम का इस्तेमाल युद्ध जल्दी खत्म कराने का उनका घोषित तर्क था।” | `THE U.S. RATIONALE` | Red decision-room model: invasion arrows approach islands, then freeze as an alternative atomic marker enters. Label the sentence as a stated rationale, not proven sole motive. | R1, R2 |
+| B5 | “छह अगस्त की सुबह हिरोशिमा पर पहला बम गिरा। शहर के लोग अपने रोज़ के काम में थे। एक ही क्षण में घर, सड़कें और ज़िंदगियां तबाह हो गईं।” | `AUG 6 · HIROSHIMA` | Blue-gray morning street illustration, close personal objects; shockwave shown through paper layers and light, then cut to absence. No invented real-person testimony. | R1, R3 |
+| B6 | “तीन दिन बाद नागासाकी पर दूसरा बम गिरा। उन्हीं दिनों सोवियत सेना ने जापान के कब्ज़े वाले मंचूरिया पर भी हमला किया।” | `AUG 9 · TWO SHOCKS` | Split map: Nagasaki lights on one side, Manchuria front advances on the other. The two movements happen in parallel, not as one causing the other. | R1, R2 |
+| B7 | “अब सवाल बदलता है: जापान के फैसले पर किसका कितना असर था? बम, सोवियत हमला, युद्ध की हालत और सरकार के भीतर की बहस—इतिहासकार आज भी इनके वजन पर असहमत हैं।” | `WHAT FORCED SURRENDER?` | Four physical tokens move toward a decision hinge; no token is declared the winner. Make the uncertainty visual. | R1, R2 |
+| B8 | “राष्ट्रीय अभिलेखागार की यह समयरेखा तारीखें साफ़ रखती है: छह अगस्त हिरोशिमा, नौ अगस्त नागासाकी और सोवियत हमला, पंद्रह अगस्त आत्मसमर्पण की घोषणा।” | `THE RECORD` | Bring in the **real** [National Archives page capture](archive-page.png). Crop a production copy to publisher, title and date paragraphs; highlight the exact dates while narrator says them. Keep the raw capture and source URL. | R1 |
+| B9 | “लेकिन तारीखें अकेले मंशा साबित नहीं करतीं। अमेरिका की आधिकारिक वजह और जापान के आत्मसमर्पण का पूरा कारण, दोनों एक ही बात नहीं हैं।” | `MOTIVE ≠ CAUSE` | Archive page folds into two dimensional columns: “stated reason” and “surrender factors.” Thin lines connect them without collapsing them together. | R1, R2 |
+| B10 | “और सबसे ज़रूरी बात आंकड़ों के पीछे लोग हैं। हिरोशिमा शहर के मुताबिक, 1945 के अंत तक वहाँ लगभग एक लाख चालीस हज़ार लोगों की मौत हो चुकी थी। सही संख्या आज भी तय नहीं है।” | `THE HUMAN COST` | Go quiet. Paper city returns with thousands of warm points of light going dark; one family doorway remains. Small credit `CITY OF HIROSHIMA` beneath the number. | R3 |
+| B11 | “तो जवाब है: अमेरिका ने जापान को जल्द आत्मसमर्पण कराने के लिए बम इस्तेमाल किए; उसी समय सोवियत हमला भी हुआ। कौन-सा कारण निर्णायक था, इस पर बहस बाकी है। लेकिन शहरों की तबाही बहस नहीं है।” | `THE ANSWER` | Four tokens reappear; two city models resolve to empty street grids. The card changes from red to bone white. | R1, R2, R3 |
+| B12 | “अगर आपको उस फैसले को समझाने के लिए सिर्फ़ एक रिकॉर्ड दिखाना हो, आप कौन-सा चुनेंगे?” | `WHICH RECORD?` | Final slow push to a blank archive folder where a sourced record could be placed; question remains legible, sound fades after speech. | R1 |
+
+## Edit notes
+
+The narration above is the complete spoken draft. Do not pad it to a preselected duration. Record the take, mark exact phrase timing in [the score](score.json), and adapt each scene's duration to the speech. The source clip's large type should only emphasize a claim while the map, model or archive is visibly doing explanatory work. Reserve the strongest red for the decision/danger turn; make Hiroshima and Nagasaki respectful, not a fireball spectacle. A real page screenshot appears only in B8 because it proves the dated sequence. B9 immediately clarifies what that document cannot establish by itself.
+
+The final export needs a fresh historical fact review, original visuals, recorded voice, caption synchronization, mix review and on-screen/source-description credits. This folder intentionally does not pretend those outputs already exist.

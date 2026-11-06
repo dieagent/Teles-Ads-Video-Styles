@@ -1,6 +1,6 @@
 # Teles Ads
 
-Use `/director <one-line idea>` for research, story, jokes, style selection and a voice-to-shot production score. Twelve source-specific short-video skills, ten direct video-number aliases, ten supplied video references, sixteen-frame sheets, timed breakdowns and worked examples support production. Start with [the command catalog](TELES_ADS.md).
+Use `/director <one-line idea>` for research, story, jokes when appropriate, style selection and a voice-to-shot production score. Use `/documentary <question>` for a researched Hindi/Hinglish cinematic illustrated explainer in the newly supplied snakebite video's editing style. Thirteen source-specific short-video skills, ten direct video-number aliases, the supplied video references, frame sheets, timed breakdowns and worked examples support production. Start with [the command catalog](TELES_ADS.md) or inspect [the documentary example](examples/documentary/README.md).
 
 This repository also preserves the Arc Lab Series v1.0.2 source below.
 
