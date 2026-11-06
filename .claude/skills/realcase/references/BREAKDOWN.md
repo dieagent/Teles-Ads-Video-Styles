@@ -38,6 +38,16 @@ The contact sheet samples approximately 0%, 20%, 40%, 60% and 80% of the 29.7-se
 | 17.8 s | A bottle is shown alone against clean blue, with visible tampering language. |
 | 23.8 s | A store shelf multiplies the product and widens the scale. |
 
+## Observed narration and script
+
+A chronological poisoned-drink case: victim, hospital, multiple deaths, poison mechanism, warning response and unresolved culprit.
+
+Tense, factual-sounding narrator with one visual scene per clause and no long reflective pauses.
+
+An automated English transcript found about 83 spoken words across 29.4 seconds (about 2.8 words per second overall). This is a planning estimate, not a locked voice schedule. [Time-coded machine transcript](../../../../examples/TRANSCRIPTS.json) requires human correction before quoting or fact checking.
+
+The reference describes a real incident; substantiate all facts and avoid invented specifics.
+
 ## Timing method
 
 Use the final recorded voice duration as the edit clock. Put each visual on the word or phrase it illustrates; hold a picture only while the thought remains active. Plan an intentional sound-only pause only when the beat benefits from it. Test the first 5 seconds, a middle transition and the ending at phone size before full rendering.

@@ -8,7 +8,7 @@ Rainy blue-gray streets, simple round-headed 3D characters, dark umbrella silhou
 
 ## Story grammar
 
-Set a local legend in an ordinary street, reveal a threat, give the child a response, then name the creature and end on a small survival line.
+Set up a familiar folklore question, reveal the threat, then let a child reverse the expected danger with exaggerated action. Name the creature near the end and close on an irreverent warning.
 
 ## Motion and edit
 
@@ -16,7 +16,7 @@ Rain streaks throughout; lateral street travel, character turns and a short thre
 
 ## Voice and sound direction
 
-Campfire-style narrator, rain bed, light suspense pulse, clear separation between character action and creature reveal.
+Comic narrator and brief character dialogue, rain bed, playful action impacts, and a pause for the reversal joke.
 
 ## Five-beat shape
 
@@ -37,6 +37,16 @@ The contact sheet samples approximately 0%, 20%, 40%, 60% and 80% of the 56.9-se
 | 22.8 s | A child in blue reacts in the same wet street. |
 | 34.1 s | The creature name appears in a large red title over action. |
 | 45.5 s | The child stands apart as the warning closes. |
+
+## Observed narration and script
+
+A folklore hook becomes a third-person comic fight scene. It mixes repeated creature dialogue, slang, a jujitsu reversal, the creature name, and an irreverent safety sign-off.
+
+Animated character dialogue plus playful, fast narrator. Rain is a persistent bed; action beats need clear impacts and space for jokes.
+
+An automated English transcript found about 130 spoken words across 57.4 seconds (about 2.3 words per second overall). This is a planning estimate, not a locked voice schedule. [Time-coded machine transcript](../../../../examples/TRANSCRIPTS.json) requires human correction before quoting or fact checking.
+
+Keep the comedy and folklore framing clear. Verify any claim presented as traditional lore.
 
 ## Timing method
 

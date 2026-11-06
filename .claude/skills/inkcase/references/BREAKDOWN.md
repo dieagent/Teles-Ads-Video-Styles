@@ -38,6 +38,16 @@ The contact sheet samples approximately 0%, 20%, 40%, 60% and 80% of the 33.2-se
 | 19.9 s | The group interaction gets closer and more expressive. |
 | 26.6 s | The officer returns alone with a paper and a loaded final word. |
 
+## Observed narration and script
+
+A provocative question names Eichmann, lists administrative acts, jumps to the arrest and trial, then ends on Arendt’s “banality of evil” interpretation.
+
+Fast grave narration, roughly one claim per panel and almost no breathing room; use restraint in music and dramatic effects.
+
+An automated English transcript found about 101 spoken words across 33.1 seconds (about 3.1 words per second overall). This is a planning estimate, not a locked voice schedule. [Time-coded machine transcript](../../../../examples/TRANSCRIPTS.json) requires human correction before quoting or fact checking.
+
+This subject includes Holocaust atrocities. Verify facts and avoid sensational or misleading visualization.
+
 ## Timing method
 
 Use the final recorded voice duration as the edit clock. Put each visual on the word or phrase it illustrates; hold a picture only while the thought remains active. Plan an intentional sound-only pause only when the beat benefits from it. Test the first 5 seconds, a middle transition and the ending at phone size before full rendering.

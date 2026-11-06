@@ -13,9 +13,9 @@ Twelve short-video style commands, built on a copy of Arc Lab Series v1.0.2. Ten
 | `/sagacut` | Saga Cut | Illustrated historical adventure | 5 |
 | `/medarchive` | Med Archive | Horizontal archival mini explainer | 6 |
 | `/inkcase` | Ink Case | Illustrated dramatic casefile | 7 |
-| `/zackd` | Zackd | Dark kinetic thought short | 8 |
+| `/zackd` | Zackd | Dark kinetic business or thought explainer | 8 |
 | `/realcase` | Real Case | Realistic incident reconstruction | 9 |
-| `/rainmyth` | Rain Myth | Stylized 3D urban folklore | 10 |
+| `/rainmyth` | Rain Myth | Stylized 3D comic folklore | 10 |
 | `/labnote` | Lab Note | Editorial science process explainer | 2+4 |
 | `/pulpchronicle` | Pulp Chronicle | Illustrated adventure casefile | 5+7 |
 

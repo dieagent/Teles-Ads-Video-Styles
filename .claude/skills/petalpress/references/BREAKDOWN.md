@@ -8,7 +8,7 @@ Aged ivory paper, delicate serif headings, botanical cutouts, dark forest green 
 
 ## Story grammar
 
-Frame one object as a curiosity, teach its visual language, then tell a compact rise-and-fall story with recurring motifs.
+Use a sample botanical story as the visual hook, then reveal the numbered production method behind it. The object remains a recurring visual example.
 
 ## Motion and edit
 
@@ -37,6 +37,16 @@ The contact sheet samples approximately 0%, 20%, 40%, 60% and 80% of the 47-seco
 | 18.8 s | A grid separates the flower, figures and props into layers. |
 | 28.2 s | The flower returns as a composed hero object. |
 | 37.6 s | “Then the Market Wilted” turns the same motif into collapse. |
+
+## Observed narration and script
+
+The opening claims the example is code animated, then counts five production steps and ends with an image-cost claim and comment CTA. The tulip story appears as the visual demonstration.
+
+Tutorial voice with explicit “Step” markers. Art transitions act as examples of the spoken method, not as a full independent flower narrative.
+
+An automated English transcript found about 107 spoken words across 46.7 seconds (about 2.3 words per second overall). This is a planning estimate, not a locked voice schedule. [Time-coded machine transcript](../../../../examples/TRANSCRIPTS.json) requires human correction before quoting or fact checking.
+
+Do not assume the flower images prove the historical story or the production costs for a different project.
 
 ## Timing method
 

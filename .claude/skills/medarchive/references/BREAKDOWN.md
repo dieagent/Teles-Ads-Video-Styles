@@ -38,6 +38,16 @@ The contact sheet samples approximately 0%, 20%, 40%, 60% and 80% of the 15.5-se
 | 9.3 s | A scientific specimen fills the pale frame. |
 | 12.4 s | The specimen remains while short labels appear near it. |
 
+## Observed narration and script
+
+A three-sentence micro-history: year and discovery, named scientist and observation, then the mold/penicillin reveal.
+
+About sixteen seconds, close to continuous narration. Each sentence gets a distinct visual family.
+
+An automated English transcript found about 30 spoken words across 15.9 seconds (about 1.9 words per second overall). This is a planning estimate, not a locked voice schedule. [Time-coded machine transcript](../../../../examples/TRANSCRIPTS.json) requires human correction before quoting or fact checking.
+
+Verify medical history before reuse.
+
 ## Timing method
 
 Use the final recorded voice duration as the edit clock. Put each visual on the word or phrase it illustrates; hold a picture only while the thought remains active. Plan an intentional sound-only pause only when the beat benefits from it. Test the first 5 seconds, a middle transition and the ending at phone size before full rendering.

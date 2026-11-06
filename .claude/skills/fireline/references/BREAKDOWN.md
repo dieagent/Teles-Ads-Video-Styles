@@ -38,6 +38,16 @@ The contact sheet samples approximately 0%, 20%, 40%, 60% and 80% of the 33.1-se
 | 19.9 s | A very close blurred insert briefly isolates broken glass. |
 | 26.5 s | The person reaches and closes a door as flames fill the edge. |
 
+## Observed narration and script
+
+Instructional second-person safety sequence. It moves from immediate action to a door test, an alternate window route, then a conditional door route.
+
+Direct, urgent narrator; clauses largely occupy continuous 6–7 second blocks. Background action must literally demonstrate each safety phrase.
+
+An automated English transcript found about 99 spoken words across 32.8 seconds (about 3.0 words per second overall). This is a planning estimate, not a locked voice schedule. [Time-coded machine transcript](../../../../examples/TRANSCRIPTS.json) requires human correction before quoting or fact checking.
+
+Do not repeat the source’s safety wording in a new video without checking current fire-safety guidance.
+
 ## Timing method
 
 Use the final recorded voice duration as the edit clock. Put each visual on the word or phrase it illustrates; hold a picture only while the thought remains active. Plan an intentional sound-only pause only when the beat benefits from it. Test the first 5 seconds, a middle transition and the ending at phone size before full rendering.

@@ -38,6 +38,16 @@ The contact sheet samples approximately 0%, 20%, 40%, 60% and 80% of the 49.7-se
 | 29.8 s | A sailor portrait fills the vertical frame. |
 | 39.8 s | A new parchment title and signpost close on mystery. |
 
+## Observed narration and script
+
+A historical-sounding Viking hook, era and place, raid sequence, reversal to trade/exploration, punchline, then a brief project-file promotion.
+
+Broad documentary cadence with multi-second sentences and a stronger music bed at the adventure turns; the final promotion is a separate beat.
+
+An automated English transcript found about 108 spoken words across 49.8 seconds (about 2.2 words per second overall). This is a planning estimate, not a locked voice schedule. [Time-coded machine transcript](../../../../examples/TRANSCRIPTS.json) requires human correction before quoting or fact checking.
+
+Research history independently; the supplied video is a style reference rather than a scholarly source.
+
 ## Timing method
 
 Use the final recorded voice duration as the edit clock. Put each visual on the word or phrase it illustrates; hold a picture only while the thought remains active. Plan an intentional sound-only pause only when the beat benefits from it. Test the first 5 seconds, a middle transition and the ending at phone size before full rendering.

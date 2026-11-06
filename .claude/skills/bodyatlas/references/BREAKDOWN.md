@@ -8,7 +8,7 @@ Off-white paper, cobalt and red typography, anatomical cutout art, bold circles 
 
 ## Story grammar
 
-Teach one mechanism in visible stages: name the body system, isolate components, then animate their relationship.
+Open with one science fact as proof of concept, then teach the numbered visual production method using the same artwork.
 
 ## Motion and edit
 
@@ -37,6 +37,16 @@ The contact sheet samples approximately 0%, 20%, 40%, 60% and 80% of the 39.9-se
 | 16.0 s | A code-style card shows the design grammar. |
 | 23.9 s | A six-image grid separates illustrated forms. |
 | 31.9 s | The final composition restores the red circle and blue form. |
+
+## Observed narration and script
+
+A short octopus fact leads directly into a five-step explanation of how the illustrated video was produced. The science image is the demonstration; the main structure is process.
+
+Fast explanatory voice; numbered steps arrive every few seconds from about the midpoint onward. Keep labels and transitions crisp.
+
+An automated English transcript found about 100 spoken words across 38.9 seconds (about 2.6 words per second overall). This is a planning estimate, not a locked voice schedule. [Time-coded machine transcript](../../../../examples/TRANSCRIPTS.json) requires human correction before quoting or fact checking.
+
+Verify biological facts before publishing a science explanation.
 
 ## Timing method
 

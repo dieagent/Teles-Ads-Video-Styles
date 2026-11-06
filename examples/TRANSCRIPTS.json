@@ -1,0 +1,592 @@
+{
+  "source-01": {
+    "language": "en",
+    "lines": [
+      {
+        "start": 0.0,
+        "end": 6.16,
+        "text": "If you're trapped in a house fire, you should drop to the floor to avoid inhaling toxic smoke."
+      },
+      {
+        "start": 6.16,
+        "end": 13.12,
+        "text": "To escape, check if the door is hot with the back of your hand and look for smoke coming through the cracks."
+      },
+      {
+        "start": 13.12,
+        "end": 17.76,
+        "text": "If there's a fire behind the door, opening it will only make it spread."
+      },
+      {
+        "start": 17.76,
+        "end": 24.8,
+        "text": "Instead, find a window. If you can't open it, smash it and lay a blanket over the broken glass to escape."
+      },
+      {
+        "start": 24.8,
+        "end": 32.8,
+        "text": "But if the door is cool and there's no smoke, open it slowly and close it behind you to prevent the fire from spreading."
+      }
+    ]
+  },
+  "source-02": {
+    "language": "en",
+    "lines": [
+      {
+        "start": 0.0,
+        "end": 3.76,
+        "text": "The most famous wave in Japanese art is printed in a blue from Berlin."
+      },
+      {
+        "start": 3.76,
+        "end": 7.44,
+        "text": "Prussian Blue was discovered there by accident, around 1706."
+      },
+      {
+        "start": 7.44,
+        "end": 10.4,
+        "text": "That reel? No AI video model touched it."
+      },
+      {
+        "start": 10.4,
+        "end": 13.44,
+        "text": "Claude made the whole thing and animated every single frame in code."
+      },
+      {
+        "start": 14.4,
+        "end": 17.12,
+        "text": "I started with a handful of Ukiyo eprints I loved."
+      },
+      {
+        "start": 17.12,
+        "end": 18.96,
+        "text": "Waves, cranes, that big red sun."
+      },
+      {
+        "start": 19.92,
+        "end": 22.4,
+        "text": "Claude studied them and wrote the style down once."
+      },
+      {
+        "start": 22.4,
+        "end": 25.92,
+        "text": "The Prussian Blue, the Vermilion, the black outlines, the paper."
+      },
+      {
+        "start": 26.88,
+        "end": 31.2,
+        "text": "I connected Claude to a foul.ai so it could generate every scene in that style,"
+      },
+      {
+        "start": 31.2,
+        "end": 32.96,
+        "text": "one picture for every line of the story."
+      },
+      {
+        "start": 33.92,
+        "end": 38.24,
+        "text": "Claude pulled each picture apart, so the wave, the ship, and the printmaker can all move on their own."
+      },
+      {
+        "start": 39.44,
+        "end": 44.16,
+        "text": "After that, it's just code. Every piece slides in, drifts, and lands right on the voice."
+      },
+      {
+        "start": 45.52,
+        "end": 48.88,
+        "text": "Six scenes, 24 seconds, and not a single keyframe set by hand."
+      },
+      {
+        "start": 49.92,
+        "end": 50.56,
+        "text": "Want the skill?"
+      },
+      {
+        "start": 50.56,
+        "end": 52.96,
+        "text": "Comment style, and I'll send it over."
+      }
+    ]
+  },
+  "source-03": {
+    "language": "en",
+    "lines": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "This is not an AI video. Every single frame was animated in code by Claude."
+      },
+      {
+        "start": 5.12,
+        "end": 9.36,
+        "text": "Step 1. Find a style you love. One image or one video is enough."
+      },
+      {
+        "start": 10.4,
+        "end": 14.48,
+        "text": "Step 2. Hand it to Claude, and it learns the palette, the textures, and the shapes."
+      },
+      {
+        "start": 15.52,
+        "end": 20.08,
+        "text": "Step 3. Val.ai paints every scene in that style for about 19 cents a scene."
+      },
+      {
+        "start": 21.2,
+        "end": 26.48,
+        "text": "Step 4. Claude cuts each scene into layers, tulips, coins, merchants, all separate."
+      },
+      {
+        "start": 27.12,
+        "end": 31.52,
+        "text": "Step 5. Claude animates every layer in code, synced to the voice."
+      },
+      {
+        "start": 32.56,
+        "end": 37.12,
+        "text": "This whole story costs 56 cents in images. No timeline, no keyframes, just code."
+      },
+      {
+        "start": 37.12,
+        "end": 46.74,
+        "text": "Comment style, and I'll send you the skill."
+      }
+    ]
+  },
+  "source-04": {
+    "language": "en",
+    "lines": [
+      {
+        "start": 0.0,
+        "end": 5.76,
+        "text": "An octopus has three hearts, two pump blood to its gills, the third feeds its body and"
+      },
+      {
+        "start": 5.76,
+        "end": 8.12,
+        "text": "it stops when the octopus swims."
+      },
+      {
+        "start": 8.12,
+        "end": 10.08,
+        "text": "No AI video model made this."
+      },
+      {
+        "start": 10.08,
+        "end": 14.68,
+        "text": "A foul.ai drew the art and Claude animated every frame in code."
+      },
+      {
+        "start": 14.68,
+        "end": 15.68,
+        "text": "Step 1."
+      },
+      {
+        "start": 15.68,
+        "end": 16.68,
+        "text": "Pick a look you love."
+      },
+      {
+        "start": 16.68,
+        "end": 19.68,
+        "text": "Here, two ink riser graph posters."
+      },
+      {
+        "start": 19.68,
+        "end": 20.68,
+        "text": "Step 2."
+      },
+      {
+        "start": 20.68,
+        "end": 26.16,
+        "text": "Claude studies the references and saves the style, colors, texture, type."
+      },
+      {
+        "start": 26.16,
+        "end": 27.16,
+        "text": "Step 3."
+      },
+      {
+        "start": 27.16,
+        "end": 30.64,
+        "text": "A foul.ai prints every scene in that style."
+      },
+      {
+        "start": 30.64,
+        "end": 31.64,
+        "text": "Step 4."
+      },
+      {
+        "start": 31.64,
+        "end": 35.12,
+        "text": "Claude cuts each scene into layers, every part separate."
+      },
+      {
+        "start": 35.12,
+        "end": 36.28,
+        "text": "Step 5."
+      },
+      {
+        "start": 36.28,
+        "end": 38.92,
+        "text": "Claude animates every layer in code, synced to the voice."
+      }
+    ]
+  },
+  "source-05": {
+    "language": "en",
+    "lines": [
+      {
+        "start": 0.0,
+        "end": 6.8,
+        "text": "Before superheroes, before special forces, there were the Vikings."
+      },
+      {
+        "start": 6.8,
+        "end": 11.04,
+        "text": "It's the 8th century. From the freezing lands of Scandinavia,"
+      },
+      {
+        "start": 11.04,
+        "end": 14.4,
+        "text": "long shifts suddenly appear on the horizon."
+      },
+      {
+        "start": 14.4,
+        "end": 20.72,
+        "text": "Fast, silent, and terrifying. They attacked villages, took treasure,"
+      },
+      {
+        "start": 20.72,
+        "end": 24.8,
+        "text": "and disappeared back into the sea before anyone could stop them."
+      },
+      {
+        "start": 24.8,
+        "end": 29.12,
+        "text": "But here's the crazy part. Vikings weren't just brutal warriors."
+      },
+      {
+        "start": 29.12,
+        "end": 34.08,
+        "text": "They were also explorers, traders, and some of the greatest sailors of their time."
+      },
+      {
+        "start": 34.08,
+        "end": 40.08,
+        "text": "They traveled farther than almost anyone, and even reached North America centuries before Columbus."
+      },
+      {
+        "start": 40.08,
+        "end": 44.32,
+        "text": "The Vikings didn't just raid history. They sailed straight into it."
+      },
+      {
+        "start": 44.32,
+        "end": 49.76,
+        "text": "The editors making work like this started with a project file from urnedits.com."
+      }
+    ]
+  },
+  "source-06": {
+    "language": "en",
+    "lines": [
+      {
+        "start": 0.0,
+        "end": 4.88,
+        "text": "In 1928, one accidental discovery changed medicine forever."
+      },
+      {
+        "start": 4.88,
+        "end": 10.32,
+        "text": "When scientist Alexander Fleming returned to his lab, he noticed something strange."
+      },
+      {
+        "start": 10.32,
+        "end": 15.92,
+        "text": "Bacteria were dying around a mold. That mold became penicillin."
+      }
+    ]
+  },
+  "source-07": {
+    "language": "en",
+    "lines": [
+      {
+        "start": 0.0,
+        "end": 4.32,
+        "text": "Did you know a man helped murder millions of people and genuinely believed he was just"
+      },
+      {
+        "start": 4.32,
+        "end": 5.6,
+        "text": "doing paperwork?"
+      },
+      {
+        "start": 5.6,
+        "end": 7.92,
+        "text": "Adolf Eichmann coordinated the trains."
+      },
+      {
+        "start": 7.92,
+        "end": 9.88,
+        "text": "He scheduled the deportations."
+      },
+      {
+        "start": 9.88,
+        "end": 13.8,
+        "text": "He signed the forms that moved Jewish families across Europe to the death camps."
+      },
+      {
+        "start": 13.8,
+        "end": 18.16,
+        "text": "When Mossad agents grabbed him off a street in Buenos Aires in 1960 and brought him to"
+      },
+      {
+        "start": 18.16,
+        "end": 21.12,
+        "text": "Jerusalem, he didn't deny the Holocaust."
+      },
+      {
+        "start": 21.12,
+        "end": 24.12,
+        "text": "He said he was just a logistics man following orders."
+      },
+      {
+        "start": 24.12,
+        "end": 26.84,
+        "text": "Hannah Arendt watched every hour of that trial."
+      },
+      {
+        "start": 26.84,
+        "end": 28.96,
+        "text": "She called it the banality of evil."
+      },
+      {
+        "start": 28.96,
+        "end": 29.96,
+        "text": "Not a monster."
+      },
+      {
+        "start": 29.96,
+        "end": 31.52,
+        "text": "Just a bureaucrat."
+      },
+      {
+        "start": 31.52,
+        "end": 33.08,
+        "text": "That was the most terrifying part."
+      }
+    ]
+  },
+  "source-08": {
+    "language": "en",
+    "lines": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Before Amazon delivered to your door, this man was already doing it with a piece of paper."
+      },
+      {
+        "start": 5.0,
+        "end": 11.6,
+        "text": "In 1896, Richard Sears discovered that people in small towns had limited access to products in their places."
+      },
+      {
+        "start": 11.6,
+        "end": 14.8,
+        "text": "So he created a simple solution, a mail order catalog."
+      },
+      {
+        "start": 14.8,
+        "end": 18.8,
+        "text": "Customers could choose what they wanted, send their order, and wait for it to arrive."
+      },
+      {
+        "start": 18.8,
+        "end": 24.3,
+        "text": "Soon, Sears was selling almost everything, watches, clothes, tools, and even houses."
+      },
+      {
+        "start": 24.3,
+        "end": 26.2,
+        "text": "It became a retail empire."
+      },
+      {
+        "start": 26.2,
+        "end": 28.6,
+        "text": "And the secret wasn't inventing a new product."
+      },
+      {
+        "start": 28.6,
+        "end": 31.2,
+        "text": "It was finding a new way to reach customers."
+      },
+      {
+        "start": 31.2,
+        "end": 34.6,
+        "text": "Editors, learn faster inside a real project file."
+      },
+      {
+        "start": 34.6,
+        "end": 37.4,
+        "text": "Grab yours on urnedits.com."
+      }
+    ]
+  },
+  "source-09": {
+    "language": "en",
+    "lines": [
+      {
+        "start": 0.0,
+        "end": 6.88,
+        "text": "The man gulped down the energy drink on his way to a fishing trip, but soon he started to feel sick."
+      },
+      {
+        "start": 6.88,
+        "end": 11.28,
+        "text": "He was rushed to the hospital, but the next day he stopped breathing."
+      },
+      {
+        "start": 11.28,
+        "end": 16.48,
+        "text": "He was one of 12 people who died after buying drinks from vending machines."
+      },
+      {
+        "start": 16.48,
+        "end": 21.68,
+        "text": "Each one had been poisoned with a deadly herbicide, leading to a painful death."
+      },
+      {
+        "start": 21.68,
+        "end": 26.96,
+        "text": "In a panic, millions of stickers were used to warn people to check for tampering,"
+      },
+      {
+        "start": 26.96,
+        "end": 29.36,
+        "text": "but the poisoner was never caught."
+      }
+    ]
+  },
+  "source-10": {
+    "language": "en",
+    "lines": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Am I pretty?"
+      },
+      {
+        "start": 2.0,
+        "end": 5.36,
+        "text": "In this Japanese legend, there is no right answer."
+      },
+      {
+        "start": 5.36,
+        "end": 7.68,
+        "text": "She waits for kids walking home alone."
+      },
+      {
+        "start": 7.68,
+        "end": 9.68,
+        "text": "Tonight, it's little Timmy."
+      },
+      {
+        "start": 10.4,
+        "end": 12.4,
+        "text": "Am I pretty?"
+      },
+      {
+        "start": 12.4,
+        "end": 15.04,
+        "text": "Say no, and she cuts you, say yes,"
+      },
+      {
+        "start": 15.04,
+        "end": 17.52,
+        "text": "and she shows you what's under the mask."
+      },
+      {
+        "start": 17.52,
+        "end": 19.52,
+        "text": "No bitch."
+      },
+      {
+        "start": 19.52,
+        "end": 22.08,
+        "text": "Little Timmy just bitch slapped her."
+      },
+      {
+        "start": 22.08,
+        "end": 24.8,
+        "text": "And little Timmy was no bitch."
+      },
+      {
+        "start": 24.8,
+        "end": 26.0,
+        "text": "She is furious."
+      },
+      {
+        "start": 26.0,
+        "end": 27.6,
+        "text": "The scissors come out."
+      },
+      {
+        "start": 27.68,
+        "end": 30.8,
+        "text": "Luckily, he had been training Brazilian jujitsu since he was four."
+      },
+      {
+        "start": 31.52,
+        "end": 33.92,
+        "text": "He takes her back, lifts her onto his shoulders,"
+      },
+      {
+        "start": 33.92,
+        "end": 36.16,
+        "text": "and puts her in an Argentine backbreaker."
+      },
+      {
+        "start": 37.52,
+        "end": 38.32,
+        "text": "She taps out."
+      },
+      {
+        "start": 39.2,
+        "end": 42.0,
+        "text": "Kuchisake Ona, the slit-mouth woman,"
+      },
+      {
+        "start": 42.0,
+        "end": 44.32,
+        "text": "has not asked anyone that question since."
+      },
+      {
+        "start": 45.04,
+        "end": 47.36,
+        "text": "Angi, this kid has so much aura."
+      },
+      {
+        "start": 48.16,
+        "end": 49.6,
+        "text": "So remember kids,"
+      },
+      {
+        "start": 49.6,
+        "end": 52.0,
+        "text": "walk home in pairs, stay in school,"
+      },
+      {
+        "start": 52.0,
+        "end": 53.6,
+        "text": "and don't be a punk-ass."
+      },
+      {
+        "start": 53.6,
+        "end": 57.44,
+        "text": "Be like Timmy."
+      }
+    ]
+  }
+}

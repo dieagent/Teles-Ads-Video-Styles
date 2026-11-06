@@ -4,11 +4,11 @@
 
 ## Visual system
 
-Near-black backgrounds, blood-red voids, a tiny bright central subject, giant blunt type, fisheye face insert, sky-blue release frame.
+Near-black backgrounds, blood-red voids, a tiny bright central subject, giant blunt type, fisheye face insert, sky-blue promotional end frame.
 
 ## Story grammar
 
-A single emotional claim escalates through stark symbolic images, then opens into a contrasting release or call to action.
+Open with a familiar comparison, identify a problem, reveal a simple solution, show its scale, state the business lesson, then separate the promotional CTA. A personal topic can use the same contrast and typography without claiming to be the source story.
 
 ## Motion and edit
 
@@ -37,6 +37,16 @@ The contact sheet samples approximately 0%, 20%, 40%, 60% and 80% of the 37.7-se
 | 15.1 s | The frame collapses to near black and a distant light. |
 | 22.6 s | One white word appears against black. |
 | 30.2 s | The last beat opens into bright clouds and oversized red type. |
+
+## Observed narration and script
+
+The actual clip is a business-history explainer about a mail-order catalog: familiar modern comparison, 1896 problem, catalog solution, scale, business lesson, then a course CTA.
+
+Brisk didactic voice over stark black/red visuals. Key words punch on screen; the final CTA changes from story to promotion.
+
+An automated English transcript found about 106 spoken words across 37.4 seconds (about 2.8 words per second overall). This is a planning estimate, not a locked voice schedule. [Time-coded machine transcript](../../../../examples/TRANSCRIPTS.json) requires human correction before quoting or fact checking.
+
+The example topic “why I’m afraid” is a new application of the visual grammar, not the source’s spoken story.
 
 ## Timing method
 

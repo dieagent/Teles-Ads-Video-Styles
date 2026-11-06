@@ -38,6 +38,16 @@ The contact sheet samples approximately 0%, 20%, 40%, 60% and 80% of the 54.5-se
 | 32.7 s | “Pulled into pieces” with many separated tiny assets. |
 | 43.6 s | A results card gives 24 seconds, 6 scenes and 0 hand keyframes. |
 
+## Observed narration and script
+
+A cultural hook about Prussian Blue becomes a behind-the-scenes process: chosen look, art, separated layers, coded animation, numerical result, then a comment CTA.
+
+Confident maker voice; most steps are 2–5 seconds, with short gaps between groups. Picture and spoken step should arrive together.
+
+An automated English transcript found about 158 spoken words across 53.0 seconds (about 3.0 words per second overall). This is a planning estimate, not a locked voice schedule. [Time-coded machine transcript](../../../../examples/TRANSCRIPTS.json) requires human correction before quoting or fact checking.
+
+Treat brand, cost and workflow claims as claims about that creator’s project, not universal production facts.
+
 ## Timing method
 
 Use the final recorded voice duration as the edit clock. Put each visual on the word or phrase it illustrates; hold a picture only while the thought remains active. Plan an intentional sound-only pause only when the beat benefits from it. Test the first 5 seconds, a middle transition and the ending at phone size before full rendering.

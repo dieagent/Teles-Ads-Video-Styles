@@ -15,4 +15,6 @@ The ten videos were supplied by the user. Each source is kept unchanged; the JPE
 | [09](reference-videos/source-09.mp4) | video_2026-11-06_14-30-13 (9).mp4 | 29.7 s | 720×1280 | AAC | [contact](style-atlas/source-09-contact.jpg) |
 | [10](reference-videos/source-10.mp4) | video_2026-11-06_14-30-13.mp4 | 56.9 s | 720×1280 | AAC | [contact](style-atlas/source-10-contact.jpg) |
 
+[Automated time-coded English transcript](TRANSCRIPTS.json): generated with a local speech model. It can mishear names, tools and dates; verify against the original audio before using exact words.
+
 Do not treat these clips as factual sources for a new video's claims.
