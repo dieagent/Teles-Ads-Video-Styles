@@ -1,59 +1,38 @@
-# Zackd style breakdown
+# Reference 08: Sears-style kinetic 3D history
 
-**Basis:** Observed. **Reference:** 8. **Format:** Dark kinetic thought short. The screenshot sheet samples five points across the clip. The analysis is based on visible frames and captions; exact narration words and mix levels are not asserted.
+**Original file:** `video_2026-11-06_14-30-13 (8).mp4`. **Runtime:** about 38 s. **Frame:** 9:16. This is a reconstruction of the clip’s visual and spoken structure, grounded in the supplied video and the [time-coded machine transcript](../../../../examples/TRANSCRIPTS.json). Exact words and factual claims require listening and independent verification.
 
-## Visual system
+## What makes this video recognizable
 
-Near-black backgrounds, blood-red voids, a tiny bright central subject, giant blunt type, fisheye face insert, sky-blue promotional end frame.
+1. **Hook:** Start with a familiar modern comparison, then reveal a historical person who solved the same customer problem earlier.
+2. **Visual identity:** Stylized, cartoonlike 3D human scenes alternate with black and crimson voids. Giant white/red block type punches selected words; bright cyan sky fields open the beginning and promotional ending. An old catalog and product objects become hero props.
+3. **Narrative architecture:** Modern comparison → historical date/person → customer problem → simple new delivery mechanism → scale of products → business principle → clearly separate course CTA.
+4. **Motion and transitions:** Cut between character reenactment and almost empty high-contrast type. Make products pop into isolated dark spaces; change visual mode on a major idea, not on every syllable.
+5. **Voice and sound:** Fast, conversational explainer narrator, hard hits on business turns, brief quiet before the business principle, brighter sales sound only in the outro.
 
-## Story grammar
+## Source timeline
 
-Open with a familiar comparison, identify a problem, reveal a simple solution, show its scale, state the business lesson, then separate the promotional CTA. A personal topic can use the same contrast and typography without claiming to be the source story.
+| Approximate interval | What is on screen | What the narration is doing |
+|---|---|---|
+| 0–5 s | 3D delivery scene and modern analogy | Set familiar frame |
+| 5–12 s | Historical portrait/date and red problem space | Establish person and constraint |
+| 12–19 s | Catalog close-up and order flow | Reveal simple solution |
+| 19–26 s | Product parade then dark scale card | Show expansion |
+| 26–31 s | Minimal type and small object | State the principle |
+| 31–38 s | Bright sky and separate promotional CTA | Only if requested |
 
-## Motion and edit
+The intervals describe the *source*, not compulsory timestamps for a new voice take. Transfer the order and relationships, then retime to the new recording.
 
-Abrupt high-contrast scene replacement, zoom into central subject, text punches on key words; little decorative movement.
+## Evidence
 
-## Voice and sound direction
+- [Full source video](../../../../examples/reference-videos/source-08.mp4)
+- [Sixteen-frame storyboard sheet](../../../../examples/style-atlas/source-08-storyboard.jpg)
+- [Five-frame contact sheet](../../../../examples/style-atlas/source-08-contact.jpg)
+- [Full-size midpoint still](../../../../examples/style-atlas/source-08-key.jpg)
+- [Worked topic adaptation](../../../../examples/styles/zackd/EXAMPLE.md)
 
-Close, personal voice with intentional micro-pauses; bass impact on the red reveal, near-silence before the bright final frame.
+## Adaptation rule
 
-## Five-beat shape
+For a personal question such as “why I’m afraid,” use the modern comparison → underlying problem → simple mechanism → consequence → insight rhythm; keep 3D scenes and red/black typography. Do not claim it is the source story.
 
-1. Unsettling face or question
-2. Red void and central symbol
-3. Dark near-empty beat
-4. Single-word assertion
-5. Bright exit/reframe
-
-## Sampled frame evidence
-
-The contact sheet samples approximately 0%, 20%, 40%, 60% and 80% of the 37.7-second clip. The observations below are visual, not a full shot-by-shot transcript.
-
-| Approx. time | Visible event |
-|---:|---|
-| 0.0 s | A distorted monochrome face appears in a circular window. |
-| 7.5 s | A red void supports a small dark central object. |
-| 15.1 s | The frame collapses to near black and a distant light. |
-| 22.6 s | One white word appears against black. |
-| 30.2 s | The last beat opens into bright clouds and oversized red type. |
-
-## Observed narration and script
-
-The actual clip is a business-history explainer about a mail-order catalog: familiar modern comparison, 1896 problem, catalog solution, scale, business lesson, then a course CTA.
-
-Brisk didactic voice over stark black/red visuals. Key words punch on screen; the final CTA changes from story to promotion.
-
-An automated English transcript found about 106 spoken words across 37.4 seconds (about 2.8 words per second overall). This is a planning estimate, not a locked voice schedule. [Time-coded machine transcript](../../../../examples/TRANSCRIPTS.json) requires human correction before quoting or fact checking.
-
-The example topic “why I’m afraid” is a new application of the visual grammar, not the source’s spoken story.
-
-## Timing method
-
-Use the final recorded voice duration as the edit clock. Put each visual on the word or phrase it illustrates; hold a picture only while the thought remains active. Plan an intentional sound-only pause only when the beat benefits from it. Test the first 5 seconds, a middle transition and the ending at phone size before full rendering.
-
-## Boundaries
-
-Do not use the creator name as a claim of authorship; this is an internal command name for a visual treatment.
-
-For exact frames and the complete reference video, see [the example](../../../../examples/styles/zackd/EXAMPLE.md).
+The reference is a commerce-history explainer; the example topic is a new application of its audiovisual grammar.

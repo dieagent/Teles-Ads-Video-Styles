@@ -1,32 +1,46 @@
-# Papertrail: worked example
+# /papertrail: Ukiyo-e process breakdown
 
-**Try:** `/papertrail How we built a city guide from six illustrated scenes`
+**Source-specific command:** `/papertrail How I made an animated city postcard`
 
-**Reference basis:** Observed, 2. The source clip is stored at [source-02.mp4](../../reference-videos/source-02.mp4). Screenshots are analysis samples, not assets to paste into a new production.
+The [original clip](../../reference-videos/source-02.mp4) runs about 54 s in 9:16. Its source-specific structure is below. This new prompt uses the same audiovisual grammar with new wording and original visuals.
 
-![Five sampled frames from source 02](../../style-atlas/source-02-contact.jpg)
+![Sixteen samples across the exact reference video](../../style-atlas/source-02-storyboard.jpg)
 
-![Full-size midpoint frame from source 02](../../style-atlas/source-02-key.jpg)
+![Full-size midpoint frame](../../style-atlas/source-02-key.jpg)
 
-## Visual notes
+## Source beat map
 
-Warm cream paper, oversized black serif headline, rust red emphasis, travel postcard and cut-paper objects, tiny labeled step headers. Objects slide and stack as paper layers; cards swap quickly while type holds; transitions feel like arranging a desk.
+| Source interval | Source visual role | Script role |
+|---|---|---|
+| 0–10 s | Wave and pigment collage, then process claim | Give proof-of-style and curiosity |
+| 10–20 s | Large typography and reference postcard deck | Explain the chosen look |
+| 20–34 s | Code-style rule card and scene-art grid | Describe consistency and asset creation |
+| 34–45 s | Isolated pieces move, then the assembled image animates | Explain layer separation and code motion |
+| 45–54 s | Large metrics, then a comment-style card | Quantify the result and call to action |
 
-## Sample script and matching shots
+## Original script sketch
 
-| Beat | Spoken line | Visual action | Sound cue |
-|---|---|---|---|
-| 1 | First, choose a look. | The result or hook. | Voice first; a subtle cue only at the visual change. |
-| 2 | Make each element separately. | The look board. | Voice first; a subtle cue only at the visual change. |
-| 3 | Stack the scenes in layers. | The asset creation step. | Voice first; a subtle cue only at the visual change. |
-| 4 | Now the city can move. | Layers and assembly. | Voice first; a subtle cue only at the visual change. |
+These are new example lines, not a transcript of the source. They show how spoken meaning maps to a shot. Measure an actual voice recording before assigning final seconds.
 
-The lines are an **original example**, not a transcript. Record them, measure each take, then assign real timestamps. Do not stretch the edit to a guessed runtime. End with the fifth beat as a visual resolution or question, with a final spoken line if the story needs one.
+| Beat | Spoken draft | Matching image |
+|---|---|---|
+| 1 | This city postcard looks hand printed. | Finished animated street collage |
+| 2 | First I chose the paper and ink. | Reference deck, cream paper and palette |
+| 3 | Then I drew every scene to match. | Grid of consistent art cards |
+| 4 | I separated signs, people and trains. | Objects pull apart into layers |
+| 5 | The pieces move to the voice. | Assembled animated scene |
+| 6 | Five scenes. One visual language. | Large result card, then optional CTA |
 
-## Production check
+## New-topic production brief
 
-- Every image changes in response to its line or a clearly planned silent beat.
-- Captions follow actual speech, and the first screen can be read on a phone.
-- The music remains below voice; no background cue competes with a key word.
-- The last frame resolves the short rather than lingering over empty space.
-- Do not claim the exact tool or hand-work count from the reference unless the new project actually used it.
+**Hook:** Open with a compact cultural or material fact shown as an animated collage before explaining how that very clip was made.
+
+**Visual rules:** Ivory paper field, black high-contrast serif headings, rust-red emphasis, Prussian blue waves and small cut-paper objects. Large circular color disks, postcard grids, code-card inserts and spare labels.
+
+**Voice and sound:** Confident maker narration; short paper-slide and stamp cues at transitions, no distracting music under step labels.
+
+**Adaptation:** For a new topic, first show a short finished sample, then teach exactly how that sample was assembled. Keep claims about tools and cost tied to the actual project.
+
+Draft original lines against these beat roles; record them and replace the source intervals with real voice timings. Each shot must illustrate its current phrase. Use the source as a style reference, not a set of frames to reuse.
+
+**Check:** Do not promise a tool, cost or hand-keyframe count that the new project did not actually achieve.

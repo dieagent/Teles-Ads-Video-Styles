@@ -1,32 +1,45 @@
-# Body Atlas: worked example
+# /bodyatlas: Octopus infographic tutorial
 
-**Try:** `/bodyatlas How a heartbeat moves blood`
+**Source-specific command:** `/bodyatlas How I animated a whale-heart fact card`
 
-**Reference basis:** Observed, 4. The source clip is stored at [source-04.mp4](../../reference-videos/source-04.mp4). Screenshots are analysis samples, not assets to paste into a new production.
+The [original clip](../../reference-videos/source-04.mp4) runs about 40 s in 9:16. Its source-specific structure is below. This new prompt uses the same audiovisual grammar with new wording and original visuals.
 
-![Five sampled frames from source 04](../../style-atlas/source-04-contact.jpg)
+![Sixteen samples across the exact reference video](../../style-atlas/source-04-storyboard.jpg)
 
-![Full-size midpoint frame from source 04](../../style-atlas/source-04-key.jpg)
+![Full-size midpoint frame](../../style-atlas/source-04-key.jpg)
 
-## Visual notes
+## Source beat map
 
-Off-white paper, cobalt and red typography, anatomical cutout art, bold circles and outlines, blue tentacle/heart shapes. Layered diagrams, red circular wipes, small organ pieces assembling; hold enough time for labels to be read.
+| Source interval | Source visual role | Script role |
+|---|---|---|
+| 0–8 s | Three hearts / heart stops / moving blood graphic sequence | Deliver the science hook |
+| 8–15 s | Large process claim and octopus motif | Pivot to how it was made |
+| 15–21 s | Reference poster collage | Pick a look |
+| 21–31 s | Rule card then printed art grid | Teach style consistency and scene creation |
+| 31–40 s | Separated organs and tentacles then assembled animated octopus | Prove layer animation |
 
-## Sample script and matching shots
+## Original script sketch
 
-| Beat | Spoken line | Visual action | Sound cue |
-|---|---|---|---|
-| 1 | Your heart is a pump. | Name the system. | Voice first; a subtle cue only at the visual change. |
-| 2 | One beat pushes blood onward. | Show the striking motif. | Voice first; a subtle cue only at the visual change. |
-| 3 | The blood carries oxygen. | State the mechanism. | Voice first; a subtle cue only at the visual change. |
-| 4 | Then it returns for another trip. | Isolate component assets. | Voice first; a subtle cue only at the visual change. |
+These are new example lines, not a transcript of the source. They show how spoken meaning maps to a shot. Measure an actual voice recording before assigning final seconds.
 
-The lines are an **original example**, not a transcript. Record them, measure each take, then assign real timestamps. Do not stretch the edit to a guessed runtime. End with the fifth beat as a visual resolution or question, with a final spoken line if the story needs one.
+| Beat | Spoken draft | Matching image |
+|---|---|---|
+| 1 | A whale has a heart the size of a small car. | Huge anatomical fact card; fact must be checked |
+| 2 | The beat moves blood through its body. | Second bold organ card |
+| 3 | I built the illustration in five parts. | Process pivot and art layers |
+| 4 | I matched every scene to one poster style. | Style card and scene grid |
+| 5 | Then I animated each part to the voice. | Layer motion and assembled heart |
 
-## Production check
+## New-topic production brief
 
-- Every image changes in response to its line or a clearly planned silent beat.
-- Captions follow actual speech, and the first screen can be read on a phone.
-- The music remains below voice; no background cue competes with a key word.
-- The last frame resolves the short rather than lingering over empty space.
-- Do not infer medical facts from the video art; check the final explanation with reliable sources.
+**Hook:** Teach one striking science fact with bold anatomical art in the first eight seconds, then reveal the art-making process.
+
+**Visual rules:** Off-white paper, huge cobalt and scarlet serif/block type, three-heart octopus imagery, red circles, blue tentacles, science-poster reference cards and isolated organ/limb grids.
+
+**Voice and sound:** Energetic instructor voice; light rhythmic bed and a punch on each big fact word, then softer craft cues for the five steps.
+
+**Adaptation:** Pick one verified fact that can be visualized in three graphic cards; use its art as the object of the tutorial.
+
+Draft original lines against these beat roles; record them and replace the source intervals with real voice timings. Each shot must illustrate its current phrase. Use the source as a style reference, not a set of frames to reuse.
+
+**Check:** Verify all biological claims independently.

@@ -1,6 +1,6 @@
 # Teles Ads
 
-A library of twelve short-video commands with ten supplied video references, screenshot sheets, deep style breakdowns and original worked examples. Start with [the command catalog](TELES_ADS.md).
+Twelve source-specific short-video skills, ten direct video-number aliases, ten supplied video references, sixteen-frame sheets, timed breakdowns and worked examples. Start with [the command catalog](TELES_ADS.md).
 
 This repository also preserves the Arc Lab Series v1.0.2 source below.
 

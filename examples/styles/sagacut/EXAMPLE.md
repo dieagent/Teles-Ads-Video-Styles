@@ -1,32 +1,46 @@
-# Saga Cut: worked example
+# /sagacut: Viking parchment documentary
 
-**Try:** `/sagacut The captain who sold a map to nowhere`
+**Source-specific command:** `/sagacut The sailors who crossed an impossible sea`
 
-**Reference basis:** Observed, 5. The source clip is stored at [source-05.mp4](../../reference-videos/source-05.mp4). Screenshots are analysis samples, not assets to paste into a new production.
+The [original clip](../../reference-videos/source-05.mp4) runs about 50 s in 9:16. Its source-specific structure is below. This new prompt uses the same audiovisual grammar with new wording and original visuals.
 
-![Five sampled frames from source 05](../../style-atlas/source-05-contact.jpg)
+![Sixteen samples across the exact reference video](../../style-atlas/source-05-storyboard.jpg)
 
-![Full-size midpoint frame from source 05](../../style-atlas/source-05-key.jpg)
+![Full-size midpoint frame](../../style-atlas/source-05-key.jpg)
 
-## Visual notes
+## Source beat map
 
-Parchment-toned fantasy history, sepia figures, dark ink shadows, red serif emphasis, teal sea and ships, strong vignette. Ship sails slide over teal water, characters and treasure objects parallax, camera pushes into an illustration.
+| Source interval | Source visual role | Script role |
+|---|---|---|
+| 0–7 s | Hero character on parchment with a historical claim | Set the mythic frame |
+| 7–15 s | Era title, Scandinavian coast, ships on teal sea | Place and threaten |
+| 15–25 s | Village and treasure objects; departure to sea | Show the raid sequence |
+| 25–34 s | Portraits and revised claim about the people | Reverse the simple stereotype |
+| 34–44 s | Map/reach/ship image and line of synthesis | Show wider legacy |
+| 44–50 s | Clearly separated project-file end card | Promotion only if requested |
 
-## Sample script and matching shots
+## Original script sketch
 
-| Beat | Spoken line | Visual action | Sound cue |
-|---|---|---|---|
-| 1 | The captain found a map. | Introduce the person or artifact. | Voice first; a subtle cue only at the visual change. |
-| 2 | It named an island no one knew. | Bring ships into view. | Voice first; a subtle cue only at the visual change. |
-| 3 | By dawn, three ships followed him. | Reveal the opportunity. | Voice first; a subtle cue only at the visual change. |
-| 4 | At sunset, the island moved. | Show a named role or obstacle. | Voice first; a subtle cue only at the visual change. |
+These are new example lines, not a transcript of the source. They show how spoken meaning maps to a shot. Measure an actual voice recording before assigning final seconds.
 
-The lines are an **original example**, not a transcript. Record them, measure each take, then assign real timestamps. Do not stretch the edit to a guessed runtime. End with the fifth beat as a visual resolution or question, with a final spoken line if the story needs one.
+| Beat | Spoken draft | Matching image |
+|---|---|---|
+| 1 | Before the maps were complete, they sailed. | Rugged portrait on parchment |
+| 2 | The northern sea was their road. | Wide teal water and ships |
+| 3 | Some came to raid. | Village and treasure inserts |
+| 4 | But others crossed to trade. | Reversal word card and new character |
+| 5 | Their routes redrew the world they knew. | Travel map and final ship silhouette |
 
-## Production check
+## New-topic production brief
 
-- Every image changes in response to its line or a clearly planned silent beat.
-- Captions follow actual speech, and the first screen can be read on a phone.
-- The music remains below voice; no background cue competes with a key word.
-- The last frame resolves the short rather than lingering over empty space.
-- Do not present a fictional historical tale as documented history.
+**Hook:** Open with a grand historical contrast and a single rugged character or artifact before revealing the place and era.
+
+**Visual rules:** Weathered parchment, sepia illustrated figures, vignette and grunge, bold red/dark historical serif type, deep teal sea, longships, treasure and map inserts.
+
+**Voice and sound:** Gravelly documentary narration with sea/wind texture, martial pulse for raids, lift at the reversal, then a clean tonal change for the promotion.
+
+**Adaptation:** Use the same threat-to-reversal history arc for a researched subject. Keep an ad outro only when the user asks for one.
+
+Draft original lines against these beat roles; record them and replace the source intervals with real voice timings. Each shot must illustrate its current phrase. Use the source as a style reference, not a set of frames to reuse.
+
+**Check:** Research historical claims; do not present the supplied narration as an authoritative source.

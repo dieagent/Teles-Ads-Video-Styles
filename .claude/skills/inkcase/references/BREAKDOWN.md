@@ -1,59 +1,37 @@
-# Ink Case style breakdown
+# Reference 07: Illustrated moral casefile
 
-**Basis:** Observed. **Reference:** 7. **Format:** Illustrated dramatic casefile. The screenshot sheet samples five points across the clip. The analysis is based on visible frames and captions; exact narration words and mix levels are not asserted.
+**Original file:** `video_2026-11-06_14-30-13 (7).mp4`. **Runtime:** about 33 s. **Frame:** 9:16. This is a reconstruction of the clip’s visual and spoken structure, grounded in the supplied video and the [time-coded machine transcript](../../../../examples/TRANSCRIPTS.json). Exact words and factual claims require listening and independent verification.
 
-## Visual system
+## What makes this video recognizable
 
-Dark comic-book interiors, illustrated expressive faces, warm streetlamps, centered all-caps captions with red emphasis.
+1. **Hook:** Ask a provocative historical question while showing the person performing an ordinary administrative act.
+2. **Visual identity:** Consistent hand-painted comic panels with warm brown offices and streets, expressive faces, official papers and maps. Centered bold white all-caps captions, selected key words red.
+3. **Narrative architecture:** Question → identify person → list concrete acts → arrest and trial → the subject’s defense → an observer’s interpretation → quiet, chilling final restatement.
+4. **Motion and transitions:** One close visual per clause. Alternate desk, map, signature, street and observer; return to the subject for the final moral turn. Captions are large and change word by word.
+5. **Voice and sound:** Grave, nearly continuous narration; restrained room tone and minimal low hits. Do not use triumphant music or sensational effects.
 
-## Story grammar
+## Source timeline
 
-A character-led moral or historical case moves from official duty to a consequential action and then to judgment.
+| Approximate interval | What is on screen | What the narration is doing |
+|---|---|---|
+| 0–6 s | Official at desk and direct question | Set moral tension |
+| 6–14 s | Map, paperwork and signing hand | Make actions concrete |
+| 14–21 s | Street arrest and courtroom context | Jump to consequences |
+| 21–27 s | Defense and observer portrait | Show competing interpretations |
+| 27–33 s | Subject alone and final observer reaction | Land the argument |
 
-## Motion and edit
+The intervals describe the *source*, not compulsory timestamps for a new voice take. Transfer the order and relationships, then retime to the new recording.
 
-Illustrated panels cut on spoken phrases; small camera push, expression change and rain or light movement make static art feel alive.
+## Evidence
 
-## Voice and sound direction
+- [Full source video](../../../../examples/reference-videos/source-07.mp4)
+- [Sixteen-frame storyboard sheet](../../../../examples/style-atlas/source-07-storyboard.jpg)
+- [Five-frame contact sheet](../../../../examples/style-atlas/source-07-contact.jpg)
+- [Full-size midpoint still](../../../../examples/style-atlas/source-07-key.jpg)
+- [Worked topic adaptation](../../../../examples/styles/inkcase/EXAMPLE.md)
 
-Grave narrator with tight subtitle timing; low atmosphere, sparse hits at the signature and reveal.
+## Adaptation rule
 
-## Five-beat shape
+Choose a documented ethical case with a clear action and interpretation. Keep the distinction between fact and analysis visible.
 
-1. Official portrait
-2. Decisive act close-up
-3. Public reaction
-4. Conflict between people
-5. Final judgment or question
-
-## Sampled frame evidence
-
-The contact sheet samples approximately 0%, 20%, 40%, 60% and 80% of the 33.2-second clip. The observations below are visual, not a full shot-by-shot transcript.
-
-| Approx. time | Visible event |
-|---:|---|
-| 0.0 s | A uniformed illustrated officer faces the camera with captions. |
-| 6.6 s | The camera moves to his writing hand and official document. |
-| 13.3 s | A street group and the same officer shift the social context. |
-| 19.9 s | The group interaction gets closer and more expressive. |
-| 26.6 s | The officer returns alone with a paper and a loaded final word. |
-
-## Observed narration and script
-
-A provocative question names Eichmann, lists administrative acts, jumps to the arrest and trial, then ends on Arendt’s “banality of evil” interpretation.
-
-Fast grave narration, roughly one claim per panel and almost no breathing room; use restraint in music and dramatic effects.
-
-An automated English transcript found about 101 spoken words across 33.1 seconds (about 3.1 words per second overall). This is a planning estimate, not a locked voice schedule. [Time-coded machine transcript](../../../../examples/TRANSCRIPTS.json) requires human correction before quoting or fact checking.
-
-This subject includes Holocaust atrocities. Verify facts and avoid sensational or misleading visualization.
-
-## Timing method
-
-Use the final recorded voice duration as the edit clock. Put each visual on the word or phrase it illustrates; hold a picture only while the thought remains active. Plan an intentional sound-only pause only when the beat benefits from it. Test the first 5 seconds, a middle transition and the ending at phone size before full rendering.
-
-## Boundaries
-
-Do not identify a real person or historical act without verification.
-
-For exact frames and the complete reference video, see [the example](../../../../examples/styles/inkcase/EXAMPLE.md).
+The reference concerns Holocaust atrocities. Verify details and depict victims respectfully.

@@ -1,59 +1,37 @@
-# Body Atlas style breakdown
+# Reference 04: Octopus infographic tutorial
 
-**Basis:** Observed. **Reference:** 4. **Format:** Graphic medical infographic. The screenshot sheet samples five points across the clip. The analysis is based on visible frames and captions; exact narration words and mix levels are not asserted.
+**Original file:** `video_2026-11-06_14-30-13 (4).mp4`. **Runtime:** about 40 s. **Frame:** 9:16. This is a reconstruction of the clip’s visual and spoken structure, grounded in the supplied video and the [time-coded machine transcript](../../../../examples/TRANSCRIPTS.json). Exact words and factual claims require listening and independent verification.
 
-## Visual system
+## What makes this video recognizable
 
-Off-white paper, cobalt and red typography, anatomical cutout art, bold circles and outlines, blue tentacle/heart shapes.
+1. **Hook:** Teach one striking science fact with bold anatomical art in the first eight seconds, then reveal the art-making process.
+2. **Visual identity:** Off-white paper, huge cobalt and scarlet serif/block type, three-heart octopus imagery, red circles, blue tentacles, science-poster reference cards and isolated organ/limb grids.
+3. **Narrative architecture:** Three fast scientific fact cards → “not a video model” process reveal → five numbered steps: look, style rule, printed scenes, cut layers, animate in code.
+4. **Motion and transitions:** Snap between large fact words at speech speed. From the process reveal onward, slow enough for reference cards and code strip. Red circular wipes and separate tentacles bridge cards.
+5. **Voice and sound:** Energetic instructor voice; light rhythmic bed and a punch on each big fact word, then softer craft cues for the five steps.
 
-## Story grammar
+## Source timeline
 
-Open with one science fact as proof of concept, then teach the numbered visual production method using the same artwork.
+| Approximate interval | What is on screen | What the narration is doing |
+|---|---|---|
+| 0–8 s | Three hearts / heart stops / moving blood graphic sequence | Deliver the science hook |
+| 8–15 s | Large process claim and octopus motif | Pivot to how it was made |
+| 15–21 s | Reference poster collage | Pick a look |
+| 21–31 s | Rule card then printed art grid | Teach style consistency and scene creation |
+| 31–40 s | Separated organs and tentacles then assembled animated octopus | Prove layer animation |
 
-## Motion and edit
+The intervals describe the *source*, not compulsory timestamps for a new voice take. Transfer the order and relationships, then retime to the new recording.
 
-Layered diagrams, red circular wipes, small organ pieces assembling; hold enough time for labels to be read.
+## Evidence
 
-## Voice and sound direction
+- [Full source video](../../../../examples/reference-videos/source-04.mp4)
+- [Sixteen-frame storyboard sheet](../../../../examples/style-atlas/source-04-storyboard.jpg)
+- [Five-frame contact sheet](../../../../examples/style-atlas/source-04-contact.jpg)
+- [Full-size midpoint still](../../../../examples/style-atlas/source-04-key.jpg)
+- [Worked topic adaptation](../../../../examples/styles/bodyatlas/EXAMPLE.md)
 
-Clear instructor voice, gentle rhythmic pulse below it, modest cues on transitions; pronunciation and scientific claims checked.
+## Adaptation rule
 
-## Five-beat shape
+Pick one verified fact that can be visualized in three graphic cards; use its art as the object of the tutorial.
 
-1. Name the system
-2. Show the striking motif
-3. State the mechanism
-4. Isolate component assets
-5. Animate the relationship
-
-## Sampled frame evidence
-
-The contact sheet samples approximately 0%, 20%, 40%, 60% and 80% of the 39.9-second clip. The observations below are visual, not a full shot-by-shot transcript.
-
-| Approx. time | Visible event |
-|---:|---|
-| 0.0 s | A bright red circle and biological cutouts anchor the opening. |
-| 8.0 s | Blue and red letterforms sit over a tentacle motif. |
-| 16.0 s | A code-style card shows the design grammar. |
-| 23.9 s | A six-image grid separates illustrated forms. |
-| 31.9 s | The final composition restores the red circle and blue form. |
-
-## Observed narration and script
-
-A short octopus fact leads directly into a five-step explanation of how the illustrated video was produced. The science image is the demonstration; the main structure is process.
-
-Fast explanatory voice; numbered steps arrive every few seconds from about the midpoint onward. Keep labels and transitions crisp.
-
-An automated English transcript found about 100 spoken words across 38.9 seconds (about 2.6 words per second overall). This is a planning estimate, not a locked voice schedule. [Time-coded machine transcript](../../../../examples/TRANSCRIPTS.json) requires human correction before quoting or fact checking.
-
-Verify biological facts before publishing a science explanation.
-
-## Timing method
-
-Use the final recorded voice duration as the edit clock. Put each visual on the word or phrase it illustrates; hold a picture only while the thought remains active. Plan an intentional sound-only pause only when the beat benefits from it. Test the first 5 seconds, a middle transition and the ending at phone size before full rendering.
-
-## Boundaries
-
-Do not infer medical facts from the video art; check the final explanation with reliable sources.
-
-For exact frames and the complete reference video, see [the example](../../../../examples/styles/bodyatlas/EXAMPLE.md).
+Verify all biological claims independently.

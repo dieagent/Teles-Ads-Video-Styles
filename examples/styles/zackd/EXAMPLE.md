@@ -1,32 +1,46 @@
-# Zackd: worked example
+# /zackd: Sears-style kinetic 3D history
 
-**Try:** `/zackd Why I'm afraid of being forgotten`
+**Source-specific command:** `/zackd Why I'm afraid of being forgotten`
 
-**Reference basis:** Observed, 8. The source clip is stored at [source-08.mp4](../../reference-videos/source-08.mp4). Screenshots are analysis samples, not assets to paste into a new production.
+The [original clip](../../reference-videos/source-08.mp4) runs about 38 s in 9:16. Its source-specific structure is below. This new prompt uses the same audiovisual grammar with new wording and original visuals.
 
-![Five sampled frames from source 08](../../style-atlas/source-08-contact.jpg)
+![Sixteen samples across the exact reference video](../../style-atlas/source-08-storyboard.jpg)
 
-![Full-size midpoint frame from source 08](../../style-atlas/source-08-key.jpg)
+![Full-size midpoint frame](../../style-atlas/source-08-key.jpg)
 
-## Visual notes
+## Source beat map
 
-Near-black backgrounds, blood-red voids, a tiny bright central subject, giant blunt type, fisheye face insert, sky-blue release frame. Abrupt high-contrast scene replacement, zoom into central subject, text punches on key words; little decorative movement.
+| Source interval | Source visual role | Script role |
+|---|---|---|
+| 0–5 s | 3D delivery scene and modern analogy | Set familiar frame |
+| 5–12 s | Historical portrait/date and red problem space | Establish person and constraint |
+| 12–19 s | Catalog close-up and order flow | Reveal simple solution |
+| 19–26 s | Product parade then dark scale card | Show expansion |
+| 26–31 s | Minimal type and small object | State the principle |
+| 31–38 s | Bright sky and separate promotional CTA | Only if requested |
 
-## Sample script and matching shots
+## Original script sketch
 
-| Beat | Spoken line | Visual action | Sound cue |
-|---|---|---|---|
-| 1 | I'm afraid of disappearing. | Unsettling face or question. | Voice first; a subtle cue only at the visual change. |
-| 2 | Not all at once. | Red void and central symbol. | Voice first; a subtle cue only at the visual change. |
-| 3 | Just one missed memory at a time. | Dark near-empty beat. | Voice first; a subtle cue only at the visual change. |
-| 4 | So I leave something behind. | Single-word assertion. | Voice first; a subtle cue only at the visual change. |
+These are new example lines, not a transcript of the source. They show how spoken meaning maps to a shot. Measure an actual voice recording before assigning final seconds.
 
-The lines are an **original example**, not a transcript. Record them, measure each take, then assign real timestamps. Do not stretch the edit to a guessed runtime. End with the fifth beat as a visual resolution or question, with a final spoken line if the story needs one.
+| Beat | Spoken draft | Matching image |
+|---|---|---|
+| 1 | We can reach anyone in a second. | Bright 3D modern delivery image |
+| 2 | So why am I afraid of being forgotten? | Red/black problem void and giant question type |
+| 3 | I keep waiting for someone else to remember. | Character close-up and tiny central object |
+| 4 | But I can leave a story they can carry. | Simple mechanism represented by a book or message |
+| 5 | Maybe being remembered starts with showing up. | Minimal insight card, then bright release |
 
-## Production check
+## New-topic production brief
 
-- Every image changes in response to its line or a clearly planned silent beat.
-- Captions follow actual speech, and the first screen can be read on a phone.
-- The music remains below voice; no background cue competes with a key word.
-- The last frame resolves the short rather than lingering over empty space.
-- Do not use the creator name as a claim of authorship; this is an internal command name for a visual treatment.
+**Hook:** Start with a familiar modern comparison, then reveal a historical person who solved the same customer problem earlier.
+
+**Visual rules:** Stylized, cartoonlike 3D human scenes alternate with black and crimson voids. Giant white/red block type punches selected words; bright cyan sky fields open the beginning and promotional ending. An old catalog and product objects become hero props.
+
+**Voice and sound:** Fast, conversational explainer narrator, hard hits on business turns, brief quiet before the business principle, brighter sales sound only in the outro.
+
+**Adaptation:** For a personal question such as “why I’m afraid,” use the modern comparison → underlying problem → simple mechanism → consequence → insight rhythm; keep 3D scenes and red/black typography. Do not claim it is the source story.
+
+Draft original lines against these beat roles; record them and replace the source intervals with real voice timings. Each shot must illustrate its current phrase. Use the source as a style reference, not a set of frames to reuse.
+
+**Check:** The reference is a commerce-history explainer; the example topic is a new application of its audiovisual grammar.

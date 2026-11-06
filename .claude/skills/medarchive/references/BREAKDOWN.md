@@ -1,59 +1,35 @@
-# Med Archive style breakdown
+# Reference 06: Fleming fifteen-second archive
 
-**Basis:** Observed. **Reference:** 6. **Format:** Horizontal archival mini explainer. The screenshot sheet samples five points across the clip. The analysis is based on visible frames and captions; exact narration words and mix levels are not asserted.
+**Original file:** `video_2026-11-06_14-30-13 (6).mp4`. **Runtime:** about 16 s. **Frame:** 16:9. This is a reconstruction of the clip’s visual and spoken structure, grounded in the supplied video and the [time-coded machine transcript](../../../../examples/TRANSCRIPTS.json). Exact words and factual claims require listening and independent verification.
 
-## Visual system
+## What makes this video recognizable
 
-16:9 letterbox, pale olive and mustard paper, old city silhouettes, cutout hand imagery, a seated historical figure, scientific specimen close-ups.
+1. **Hook:** Lead with a year and a claim about an accidental discovery.
+2. **Visual identity:** True horizontal frame, pale yellow-green paper, red rectangular panels, old city skyline, cutout scientist portrait, circular microscope/petri specimen and tiny yellow labels.
+3. **Narrative architecture:** Exactly three short narrated ideas: date and discovery → person and observation → visual evidence and named result.
+4. **Motion and transitions:** The first skyline moves laterally, the scientist slides onto a red field, then the specimen enlarges and labels appear. Avoid vertical-short caption placement and padding.
+5. **Voice and sound:** One continuous calm factual voice, very little pause across the three sentences; crisp transitional swooshes only.
 
-## Story grammar
+## Source timeline
 
-Compress one historical development into a short horizontal sequence: era, claim, person, visual proof.
+| Approximate interval | What is on screen | What the narration is doing |
+|---|---|---|
+| 0–5 s | Year/city collage and claim | Set date and importance |
+| 5–10 s | Scientist portrait against red/pale panels | Name the observer and strange clue |
+| 10–16 s | Specimen close-up with labels | Explain the finding and name its result |
 
-## Motion and edit
+The intervals describe the *source*, not compulsory timestamps for a new voice take. Transfer the order and relationships, then retime to the new recording.
 
-Fast collage transitions within a narrow central image band; scale and pan on archival-style materials.
+## Evidence
 
-## Voice and sound direction
+- [Full source video](../../../../examples/reference-videos/source-06.mp4)
+- [Sixteen-frame storyboard sheet](../../../../examples/style-atlas/source-06-storyboard.jpg)
+- [Five-frame contact sheet](../../../../examples/style-atlas/source-06-contact.jpg)
+- [Full-size midpoint still](../../../../examples/style-atlas/source-06-key.jpg)
+- [Worked topic adaptation](../../../../examples/styles/medarchive/EXAMPLE.md)
 
-Very compact narration for about fifteen seconds; sentence boundaries match the four visual changes; understated archival texture.
+## Adaptation rule
 
-## Five-beat shape
+Choose a different verified discovery that fits three sentences and three visual families. Keep a 16:9 export.
 
-1. Date or setting
-2. Big claim on screen
-3. Human figure or inventor
-4. Scientific image
-5. Last detail or implication
-
-## Sampled frame evidence
-
-The contact sheet samples approximately 0%, 20%, 40%, 60% and 80% of the 15.5-second clip. The observations below are visual, not a full shot-by-shot transcript.
-
-| Approx. time | Visible event |
-|---:|---|
-| 0.0 s | A skyline and date establish the era in a narrow horizontal image. |
-| 3.1 s | A mustard field and hands surround a large medical claim. |
-| 6.2 s | A seated older man appears as the human figure. |
-| 9.3 s | A scientific specimen fills the pale frame. |
-| 12.4 s | The specimen remains while short labels appear near it. |
-
-## Observed narration and script
-
-A three-sentence micro-history: year and discovery, named scientist and observation, then the mold/penicillin reveal.
-
-About sixteen seconds, close to continuous narration. Each sentence gets a distinct visual family.
-
-An automated English transcript found about 30 spoken words across 15.9 seconds (about 1.9 words per second overall). This is a planning estimate, not a locked voice schedule. [Time-coded machine transcript](../../../../examples/TRANSCRIPTS.json) requires human correction before quoting or fact checking.
-
-Verify medical history before reuse.
-
-## Timing method
-
-Use the final recorded voice duration as the edit clock. Put each visual on the word or phrase it illustrates; hold a picture only while the thought remains active. Plan an intentional sound-only pause only when the beat benefits from it. Test the first 5 seconds, a middle transition and the ending at phone size before full rendering.
-
-## Boundaries
-
-The reference date and medical premise are stylistic cues only; research any real-world claim before using it.
-
-For exact frames and the complete reference video, see [the example](../../../../examples/styles/medarchive/EXAMPLE.md).
+Fact-check the date, person and discovery.

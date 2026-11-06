@@ -1,32 +1,45 @@
-# Ink Case: worked example
+# /inkcase: Illustrated moral casefile
 
-**Try:** `/inkcase The guard who signed the order`
+**Source-specific command:** `/inkcase The clerk who signed an unjust order`
 
-**Reference basis:** Observed, 7. The source clip is stored at [source-07.mp4](../../reference-videos/source-07.mp4). Screenshots are analysis samples, not assets to paste into a new production.
+The [original clip](../../reference-videos/source-07.mp4) runs about 33 s in 9:16. Its source-specific structure is below. This new prompt uses the same audiovisual grammar with new wording and original visuals.
 
-![Five sampled frames from source 07](../../style-atlas/source-07-contact.jpg)
+![Sixteen samples across the exact reference video](../../style-atlas/source-07-storyboard.jpg)
 
-![Full-size midpoint frame from source 07](../../style-atlas/source-07-key.jpg)
+![Full-size midpoint frame](../../style-atlas/source-07-key.jpg)
 
-## Visual notes
+## Source beat map
 
-Dark comic-book interiors, illustrated expressive faces, warm streetlamps, centered all-caps captions with red emphasis. Illustrated panels cut on spoken phrases; small camera push, expression change and rain or light movement make static art feel alive.
+| Source interval | Source visual role | Script role |
+|---|---|---|
+| 0–6 s | Official at desk and direct question | Set moral tension |
+| 6–14 s | Map, paperwork and signing hand | Make actions concrete |
+| 14–21 s | Street arrest and courtroom context | Jump to consequences |
+| 21–27 s | Defense and observer portrait | Show competing interpretations |
+| 27–33 s | Subject alone and final observer reaction | Land the argument |
 
-## Sample script and matching shots
+## Original script sketch
 
-| Beat | Spoken line | Visual action | Sound cue |
-|---|---|---|---|
-| 1 | He wore the badge with pride. | Official portrait. | Voice first; a subtle cue only at the visual change. |
-| 2 | Then he signed the order. | Decisive act close-up. | Voice first; a subtle cue only at the visual change. |
-| 3 | The crowd knew what it meant. | Public reaction. | Voice first; a subtle cue only at the visual change. |
-| 4 | Did he have a choice? | Conflict between people. | Voice first; a subtle cue only at the visual change. |
+These are new example lines, not a transcript of the source. They show how spoken meaning maps to a shot. Measure an actual voice recording before assigning final seconds.
 
-The lines are an **original example**, not a transcript. Record them, measure each take, then assign real timestamps. Do not stretch the edit to a guessed runtime. End with the fifth beat as a visual resolution or question, with a final spoken line if the story needs one.
+| Beat | Spoken draft | Matching image |
+|---|---|---|
+| 1 | How much harm can one signature do? | Official hand and document |
+| 2 | The clerk processed the order. | Desk, map and papers |
+| 3 | Families felt the consequence. | Street-level aftermath, depicted respectfully |
+| 4 | Later, he said he only followed procedure. | Hearing room and face close-up |
+| 5 | The record shows why the choice mattered. | Return to signed page and quiet closing image |
 
-## Production check
+## New-topic production brief
 
-- Every image changes in response to its line or a clearly planned silent beat.
-- Captions follow actual speech, and the first screen can be read on a phone.
-- The music remains below voice; no background cue competes with a key word.
-- The last frame resolves the short rather than lingering over empty space.
-- Do not identify a real person or historical act without verification.
+**Hook:** Ask a provocative historical question while showing the person performing an ordinary administrative act.
+
+**Visual rules:** Consistent hand-painted comic panels with warm brown offices and streets, expressive faces, official papers and maps. Centered bold white all-caps captions, selected key words red.
+
+**Voice and sound:** Grave, nearly continuous narration; restrained room tone and minimal low hits. Do not use triumphant music or sensational effects.
+
+**Adaptation:** Choose a documented ethical case with a clear action and interpretation. Keep the distinction between fact and analysis visible.
+
+Draft original lines against these beat roles; record them and replace the source intervals with real voice timings. Each shot must illustrate its current phrase. Use the source as a style reference, not a set of frames to reuse.
+
+**Check:** The reference concerns Holocaust atrocities. Verify details and depict victims respectfully.

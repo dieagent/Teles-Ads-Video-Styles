@@ -1,59 +1,38 @@
-# Petalpress style breakdown
+# Reference 03: Vintage tulip tutorial
 
-**Basis:** Observed. **Reference:** 3. **Format:** Vintage botanical story collage. The screenshot sheet samples five points across the clip. The analysis is based on visible frames and captions; exact narration words and mix levels are not asserted.
+**Original file:** `video_2026-11-06_14-30-13 (3).mp4`. **Runtime:** about 47 s. **Frame:** 9:16. This is a reconstruction of the clip’s visual and spoken structure, grounded in the supplied video and the [time-coded machine transcript](../../../../examples/TRANSCRIPTS.json). Exact words and factual claims require listening and independent verification.
 
-## Visual system
+## What makes this video recognizable
 
-Aged ivory paper, delicate serif headings, botanical cutouts, dark forest green and mustard circles, tiny archival-style labels.
+1. **Hook:** Display the finished antique botanical story card immediately, then reveal the method used to animate it.
+2. **Visual identity:** Aged ivory paper; fine serif titles and tiny plate labels; inked tulip, merchants and coins over mustard and deep green circles. Separate art is shown in a tidy specimen grid.
+3. **Narrative architecture:** Finished flower-story frame → five numbered production steps → price/result claim → return to the sample story and comment CTA.
+4. **Motion and transitions:** Favor gentle parallax, shifting cutouts and card swaps. Each numbered step has its own composition: reference stack, palette/rule card, scene prints, isolated objects, animated assembled plate.
+5. **Voice and sound:** Warm explanatory maker voice with explicit step markers; light paper texture and small tactile movement sounds. Let the final flower image breathe briefly.
 
-## Story grammar
+## Source timeline
 
-Use a sample botanical story as the visual hook, then reveal the numbered production method behind it. The object remains a recurring visual example.
+| Approximate interval | What is on screen | What the narration is doing |
+|---|---|---|
+| 0–5 s | Antique flower title and complete collage | Show the finished output |
+| 5–15 s | Reference stack and style rule card | Choose and describe the look |
+| 15–21 s | Three scene print cards | Generate consistent illustrations |
+| 21–27 s | Tulip, coins and people separated into a grid | Break art into independent parts |
+| 27–37 s | Pieces reassemble and move over code-like strip | Show code animation and result |
+| 37–47 s | The sample story returns, then a small style CTA | End with proof and invitation |
 
-## Motion and edit
+The intervals describe the *source*, not compulsory timestamps for a new voice take. Transfer the order and relationships, then retime to the new recording.
 
-Slow parallax of cutouts; isolated objects rearrange into scenes; small ornamental motion between otherwise still compositions.
+## Evidence
 
-## Voice and sound direction
+- [Full source video](../../../../examples/reference-videos/source-03.mp4)
+- [Sixteen-frame storyboard sheet](../../../../examples/style-atlas/source-03-storyboard.jpg)
+- [Five-frame contact sheet](../../../../examples/style-atlas/source-03-contact.jpg)
+- [Full-size midpoint still](../../../../examples/style-atlas/source-03-key.jpg)
+- [Worked topic adaptation](../../../../examples/styles/petalpress/EXAMPLE.md)
 
-Soft intimate narration, restrained period-like textures, purposeful quiet after the reversal. Avoid a fast trailer read.
+## Adaptation rule
 
-## Five-beat shape
+Use another antique subject, but preserve the sample-first, numbered-method, sample-return structure.
 
-1. Title the curiosity
-2. Reveal the visual grammar
-3. Show separated objects
-4. Build the desired object
-5. Reverse its value or meaning
-
-## Sampled frame evidence
-
-The contact sheet samples approximately 0%, 20%, 40%, 60% and 80% of the 47-second clip. The observations below are visual, not a full shot-by-shot transcript.
-
-| Approx. time | Visible event |
-|---:|---|
-| 0.0 s | “A Flower Worth a House” introduces a botanical composition. |
-| 9.4 s | “Teach Claude the style” shows a prompt card and three palette swatches. |
-| 18.8 s | A grid separates the flower, figures and props into layers. |
-| 28.2 s | The flower returns as a composed hero object. |
-| 37.6 s | “Then the Market Wilted” turns the same motif into collapse. |
-
-## Observed narration and script
-
-The opening claims the example is code animated, then counts five production steps and ends with an image-cost claim and comment CTA. The tulip story appears as the visual demonstration.
-
-Tutorial voice with explicit “Step” markers. Art transitions act as examples of the spoken method, not as a full independent flower narrative.
-
-An automated English transcript found about 107 spoken words across 46.7 seconds (about 2.3 words per second overall). This is a planning estimate, not a locked voice schedule. [Time-coded machine transcript](../../../../examples/TRANSCRIPTS.json) requires human correction before quoting or fact checking.
-
-Do not assume the flower images prove the historical story or the production costs for a different project.
-
-## Timing method
-
-Use the final recorded voice duration as the edit clock. Put each visual on the word or phrase it illustrates; hold a picture only while the thought remains active. Plan an intentional sound-only pause only when the beat benefits from it. Test the first 5 seconds, a middle transition and the ending at phone size before full rendering.
-
-## Boundaries
-
-Treat historical facts as research tasks; the aesthetic is evidence of style, not proof of an event.
-
-For exact frames and the complete reference video, see [the example](../../../../examples/styles/petalpress/EXAMPLE.md).
+The reference is a process tutorial, not a full standalone tulip documentary.

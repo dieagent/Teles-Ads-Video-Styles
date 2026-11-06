@@ -1,34 +1,25 @@
-# Lab Note: worked example
+# /labnote: Octopus fact-card cut
 
-**Try:** `/labnote How color makes a small object feel closer`
+**Try:** `/labnote Why an octopus has blue blood`
 
-**Reference basis:** Hybrid of sources 02 and 04, 2+4. The source clip is stored at [source-02.mp4](../../reference-videos/source-02.mp4) and [source-04.mp4](../../reference-videos/source-04.mp4). Screenshots are analysis samples, not assets to paste into a new production.
+This is the 0–8 seconds of source 04; the source clip is [source-04.mp4](../../reference-videos/source-04.mp4).
 
-![Five sampled frames from source 02](../../style-atlas/source-02-contact.jpg)
+![Sixteen samples of the source video](../../style-atlas/source-04-storyboard.jpg)
 
-![Five sampled frames from source 04](../../style-atlas/source-04-contact.jpg)
+## Original script sketch
 
-![Full-size midpoint frame from source 02](../../style-atlas/source-02-key.jpg)
+These are new example lines, not a transcript of the source. They show how spoken meaning maps to a shot. Measure an actual voice recording before assigning final seconds.
 
-## Visual notes
+| Beat | Spoken draft | Matching image |
+|---|---|---|
+| 1 | An octopus has more than one heart. | Big cobalt fact word over red circle |
+| 2 | Two send blood toward its gills. | Separated organ and tentacle pieces |
+| 3 | The third serves the rest of the body. | Assembled anatomical poster |
 
-Cream editorial cards and cut-paper assets from source 02, fused with blue-red mechanism graphics from source 04. Paper cards introduce components; diagrams animate only when the narration names an interaction.
+## The exact transferable style
 
-## Sample script and matching shots
+- three large cobalt/red fact cards, anatomical cutouts, red circles and one illustrated octopus.
+- Script progression: fact one → consequence → surprising exception.
+- Audio: quick science voice and crisp word impacts; no process-tutorial section.
 
-| Beat | Spoken line | Visual action | Sound cue |
-|---|---|---|---|
-| 1 | Here is the effect. | Final effect. | Voice first; a subtle cue only at the visual change. |
-| 2 | We begin with two colors. | Ingredients. | Voice first; a subtle cue only at the visual change. |
-| 3 | Move the red layer forward. | Numbered process. | Voice first; a subtle cue only at the visual change. |
-| 4 | Now your eye reads more depth. | One mechanism animation. | Voice first; a subtle cue only at the visual change. |
-
-The lines are an **original example**, not a transcript. Record them, measure each take, then assign real timestamps. Do not stretch the edit to a guessed runtime. End with the fifth beat as a visual resolution or question, with a final spoken line if the story needs one.
-
-## Production check
-
-- Every image changes in response to its line or a clearly planned silent beat.
-- Captions follow actual speech, and the first screen can be read on a phone.
-- The music remains below voice; no background cue competes with a key word.
-- The last frame resolves the short rather than lingering over empty space.
-- Mark this format as a new combination, not a direct copy of either source.
+Make original art and script for the new topic, record speech, then cut visuals and captions to the actual take. Verify the fact; this is the fact-first opening of source 04, not a new reference video.

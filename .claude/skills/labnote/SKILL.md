@@ -1,18 +1,10 @@
 ---
 name: labnote
-description: Make a editorial science process explainer short in the Lab Note treatment when the user invokes /labnote with a topic.
+description: Create the Octopus fact-card cut variant of specific supplied reference video 04; use for /labnote topic.
 ---
 
-# Lab Note
+# /labnote: Octopus fact-card cut
 
-Create a finished short from the topic after `/labnote`. Read [the observed breakdown](references/BREAKDOWN.md) and [the worked example](../../../examples/styles/labnote/EXAMPLE.md) first. Use the existing Arc Lab engine where its code animation, sound, captions and QA tools fit; adapt the rendering method when this treatment needs photos, 3D or collage. Do not force the Arc Lab chibi look onto this style.
+This command takes 0–8 seconds of source 04. Watch [source-04.mp4](../../../examples/reference-videos/source-04.mp4) and inspect [its sixteen-frame sheet](../../../examples/style-atlas/source-04-storyboard.jpg). Read [the exact variant map](references/BREAKDOWN.md) and [worked example](../../../examples/styles/labnote/EXAMPLE.md).
 
-## Production contract
-
-1. State the one-sentence point and make a beat table with time, exact spoken line, image, motion and sound. Keep claims that need research separate from artistic direction.
-2. Write for speech: usually 2–3 words per second and one clear idea per shot. Record or obtain the actual voice take before locking edit timing. Measure each take, then fit visuals to those measured intervals. No dead space between narration and its relevant image; any silence has a named story purpose.
-3. Build original visuals with the reference's composition, color, typography, pace and camera grammar. Do not copy people, logos or frames into a new video. Source screenshots guide analysis only.
-4. Cut captions on the words they represent. Keep text readable on a phone, within platform safe areas. Duck music and effects under speech.
-5. Review the whole export with sound. Check frame-to-voice alignment, spelling, legibility, continuity, loudness and source attribution for factual claims. Fix failures and repeat the review.
-
-Invocation: `/labnote How a visual experiment works`. Deliver a script, timed shot list, voice plan, visual plan, sound plan, draft, QA notes and final export when production tools/assets are available.
+Preserve three large cobalt/red fact cards, anatomical cutouts, red circles and one illustrated octopus. Its spoken structure is fact one → consequence → surprising exception. Use quick science voice and crisp word impacts; no process-tutorial section. Write new words and create new visuals. Record voice, time every shot to the relevant phrase, review the full export with sound and fix any gap between script, picture and captions. Verify the fact; this is the fact-first opening of source 04, not a new reference video.

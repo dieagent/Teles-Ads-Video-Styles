@@ -1,18 +1,10 @@
 ---
 name: pulpchronicle
-description: Make a illustrated adventure casefile short in the Pulp Chronicle treatment when the user invokes /pulpchronicle with a topic.
+description: Create the Viking reversal cut variant of specific supplied reference video 05; use for /pulpchronicle topic.
 ---
 
-# Pulp Chronicle
+# /pulpchronicle: Viking reversal cut
 
-Create a finished short from the topic after `/pulpchronicle`. Read [the observed breakdown](references/BREAKDOWN.md) and [the worked example](../../../examples/styles/pulpchronicle/EXAMPLE.md) first. Use the existing Arc Lab engine where its code animation, sound, captions and QA tools fit; adapt the rendering method when this treatment needs photos, 3D or collage. Do not force the Arc Lab chibi look onto this style.
+This command takes about 24–44 seconds of source 05. Watch [source-05.mp4](../../../examples/reference-videos/source-05.mp4) and inspect [its sixteen-frame sheet](../../../examples/style-atlas/source-05-storyboard.jpg). Read [the exact variant map](references/BREAKDOWN.md) and [worked example](../../../examples/styles/pulpchronicle/EXAMPLE.md).
 
-## Production contract
-
-1. State the one-sentence point and make a beat table with time, exact spoken line, image, motion and sound. Keep claims that need research separate from artistic direction.
-2. Write for speech: usually 2–3 words per second and one clear idea per shot. Record or obtain the actual voice take before locking edit timing. Measure each take, then fit visuals to those measured intervals. No dead space between narration and its relevant image; any silence has a named story purpose.
-3. Build original visuals with the reference's composition, color, typography, pace and camera grammar. Do not copy people, logos or frames into a new video. Source screenshots guide analysis only.
-4. Cut captions on the words they represent. Keep text readable on a phone, within platform safe areas. Duck music and effects under speech.
-5. Review the whole export with sound. Check frame-to-voice alignment, spelling, legibility, continuity, loudness and source attribution for factual claims. Fix failures and repeat the review.
-
-Invocation: `/pulpchronicle A historical character faces a decisive choice`. Deliver a script, timed shot list, voice plan, visual plan, sound plan, draft, QA notes and final export when production tools/assets are available.
+Preserve sepia warrior portraits on parchment, teal ship/sea imagery, red serif reversal words and an exploration map. Its spoken structure is accepted stereotype → “but” reversal → overlooked achievement → punchline. Use low documentary voice, small lift at the reversal and a decisive final hit. Write new words and create new visuals. Record voice, time every shot to the relevant phrase, review the full export with sound and fix any gap between script, picture and captions. Research history. This is a short variant of source 05, not an independently supplied clip.

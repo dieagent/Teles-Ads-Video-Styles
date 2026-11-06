@@ -1,32 +1,46 @@
-# Real Case: worked example
+# /realcase: Poisoned-drink 3D reconstruction
 
-**Try:** `/realcase The mislabeled bottle`
+**Source-specific command:** `/realcase The mislabeled vending-machine drink`
 
-**Reference basis:** Observed, 9. The source clip is stored at [source-09.mp4](../../reference-videos/source-09.mp4). Screenshots are analysis samples, not assets to paste into a new production.
+The [original clip](../../reference-videos/source-09.mp4) runs about 30 s in 9:16. Its source-specific structure is below. This new prompt uses the same audiovisual grammar with new wording and original visuals.
 
-![Five sampled frames from source 09](../../style-atlas/source-09-contact.jpg)
+![Sixteen samples across the exact reference video](../../style-atlas/source-09-storyboard.jpg)
 
-![Full-size midpoint frame from source 09](../../style-atlas/source-09-key.jpg)
+![Full-size midpoint frame](../../style-atlas/source-09-key.jpg)
 
-## Visual notes
+## Source beat map
 
-Bright photo-real scenes: vehicle, hospital, street confrontation, clean blue product close-up, shelf of bottles; small white bottom captions. Frequent direct cuts, subject action in each scene, product hero close-up near the end; no animated diagram detour.
+| Source interval | Source visual role | Script role |
+|---|---|---|
+| 0–7 s | Man drinking beside vehicle | Normal action and first symptom |
+| 7–11 s | Hospital bed | Consequence |
+| 11–17 s | Street machine and multiple people | Reveal wider pattern |
+| 17–22 s | Bottle, green poison and close insert | Explain mechanism |
+| 22–27 s | Sticker and rows of drinks | Show response |
+| 27–30 s | Unresolved figure or empty machine | End with uncertainty |
 
-## Sample script and matching shots
+## Original script sketch
 
-| Beat | Spoken line | Visual action | Sound cue |
-|---|---|---|---|
-| 1 | He picked up the bottle. | Person and setting. | Voice first; a subtle cue only at the visual change. |
-| 2 | Hours later, he was in the hospital. | Immediate consequence. | Voice first; a subtle cue only at the visual change. |
-| 3 | The label hid the mistake. | Public reaction. | Voice first; a subtle cue only at the visual change. |
-| 4 | Then investigators checked the shelf. | Object close-up. | Voice first; a subtle cue only at the visual change. |
+These are new example lines, not a transcript of the source. They show how spoken meaning maps to a shot. Measure an actual voice recording before assigning final seconds.
 
-The lines are an **original example**, not a transcript. Record them, measure each take, then assign real timestamps. Do not stretch the edit to a guessed runtime. End with the fifth beat as a visual resolution or question, with a final spoken line if the story needs one.
+| Beat | Spoken draft | Matching image |
+|---|---|---|
+| 1 | He bought one bottle before the trip. | Ordinary person and bottle |
+| 2 | By evening, something felt wrong. | Distress close-up |
+| 3 | The hospital could not explain it at first. | Clinical room |
+| 4 | Investigators checked the other bottles. | Isolated product and shelf |
+| 5 | The warning reached every machine. | Warning sticker and wider row |
 
-## Production check
+## New-topic production brief
 
-- Every image changes in response to its line or a clearly planned silent beat.
-- Captions follow actual speech, and the first screen can be read on a phone.
-- The music remains below voice; no background cue competes with a key word.
-- The last frame resolves the short rather than lingering over empty space.
-- For real incidents, identify sources and avoid fabricated details or misleading dramatization.
+**Hook:** Begin with an ordinary person using an everyday product, then turn quickly to an unexpected medical consequence.
+
+**Visual rules:** Bright, smooth 3D reenactment: vehicle/drink, green-tinted distress, hospital, street vending machine, isolated bottle with vivid green liquid, warning sticker and shelf. Small white sentence-case captions low on frame.
+
+**Voice and sound:** Tense neutral reporter voice, realistic atmosphere and a slight ominous pulse; do not make a sensational impact at the victim’s death.
+
+**Adaptation:** Use only a documented incident or label a fictional reconstruction. Preserve the repeated object and widening scope.
+
+Draft original lines against these beat roles; record them and replace the source intervals with real voice timings. Each shot must illustrate its current phrase. Use the source as a style reference, not a set of frames to reuse.
+
+**Check:** Do not invent victims, causes or outcomes while presenting an incident as real.

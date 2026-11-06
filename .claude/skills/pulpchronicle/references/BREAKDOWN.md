@@ -1,41 +1,16 @@
-# Pulp Chronicle style breakdown
+# Reference 05 variant: Viking reversal cut
 
-**Basis:** Hybrid of sources 05 and 07. **Reference:** 5+7. **Format:** Illustrated adventure casefile. The screenshot sheet samples five points across the clip. The analysis is based on visible frames and captions; exact narration words and mix levels are not asserted.
+**Exact source:** [source-05.mp4](../../../../examples/reference-videos/source-05.mp4), originally `video_2026-11-06_14-30-13 (5).mp4`. **Segment:** about 24–44 seconds of source 05. **Status:** a second command derived from one of the ten supplied videos; it is not an eleventh source.
 
-## Visual system
+## Style lock
 
-Parchment and teal-world establishing art from source 05, then expressive comic portraits and red caption words from source 07.
+- Visual: sepia warrior portraits on parchment, teal ship/sea imagery, red serif reversal words and an exploration map.
+- Narration: accepted stereotype → “but” reversal → overlooked achievement → punchline.
+- Sound: low documentary voice, small lift at the reversal and a decisive final hit.
+- Use the source’s 9:16 composition and typography. The [storyboard sheet](../../../../examples/style-atlas/source-05-storyboard.jpg) shows the whole clip, so focus on the named segment.
 
-## Story grammar
+## New topic adaptation
 
-Open with a large world event, narrow to one person and one irreversible choice, and end with the consequence.
+Example: `/pulpchronicle The sailors who were more than raiders`. The finished clip should be short and self-contained; do not append the original source’s unrelated tutorial or promotion. Time the edit to its own recorded voice. Research history. This is a short variant of source 05, not an independently supplied clip.
 
-## Motion and edit
-
-Wide panorama cut to close inked panel; objects and facial reactions carry the turning point.
-
-## Voice and sound direction
-
-Grave storyteller voice, location bed, one clean impact at the choice, then a quieter outcome.
-
-## Five-beat shape
-
-1. World and era
-2. Person
-3. Choice object
-4. Public consequence
-5. Closing question
-
-## Source evidence and synthesis
-
-This is a new combination. The two observed source guides supply separate visual grammars; no single supplied clip uses this complete format. Inspect [sagacut](../../sagacut/references/BREAKDOWN.md) and [inkcase](../../inkcase/references/BREAKDOWN.md) before production. Preserve the distinct contribution of each rather than claiming the hybrid was directly observed.
-
-## Timing method
-
-Use the final recorded voice duration as the edit clock. Put each visual on the word or phrase it illustrates; hold a picture only while the thought remains active. Plan an intentional sound-only pause only when the beat benefits from it. Test the first 5 seconds, a middle transition and the ending at phone size before full rendering.
-
-## Boundaries
-
-Mark fictionalized reconstruction clearly and verify any factual history.
-
-For exact frames and the complete reference video, see [the example](../../../../examples/styles/pulpchronicle/EXAMPLE.md).
+See [the worked example](../../../../examples/styles/pulpchronicle/EXAMPLE.md) and [machine transcript](../../../../examples/TRANSCRIPTS.json).

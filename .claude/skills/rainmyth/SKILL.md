@@ -1,18 +1,23 @@
 ---
 name: rainmyth
-description: Make a stylized 3d urban folklore short in the Rain Myth treatment when the user invokes /rainmyth with a topic.
+description: Create a short in the specific visual and edit grammar of supplied reference video 10 (Kuchisake-onna comic 3D short); use for /rainmyth topic.
 ---
 
-# Rain Myth
+# /rainmyth: Kuchisake-onna comic 3D short
 
-Create a finished short from the topic after `/rainmyth`. Read [the observed breakdown](references/BREAKDOWN.md) and [the worked example](../../../examples/styles/rainmyth/EXAMPLE.md) first. Use the existing Arc Lab engine where its code animation, sound, captions and QA tools fit; adapt the rendering method when this treatment needs photos, 3D or collage. Do not force the Arc Lab chibi look onto this style.
+The reference is [source-10.mp4](../../../examples/reference-videos/source-10.mp4), originally `video_2026-11-06_14-30-13.mp4`. This is a **specific reference treatment**, not a generic genre. Read [the shot-by-shot breakdown](references/BREAKDOWN.md), [the frame samples](../../../examples/style-atlas/source-10-storyboard.jpg), and [the worked example](../../../examples/styles/rainmyth/EXAMPLE.md) before writing.
 
-## Production contract
+## Style lock
 
-1. State the one-sentence point and make a beat table with time, exact spoken line, image, motion and sound. Keep claims that need research separate from artistic direction.
-2. Write for speech: usually 2–3 words per second and one clear idea per shot. Record or obtain the actual voice take before locking edit timing. Measure each take, then fit visuals to those measured intervals. No dead space between narration and its relevant image; any silence has a named story purpose.
-3. Build original visuals with the reference's composition, color, typography, pace and camera grammar. Do not copy people, logos or frames into a new video. Source screenshots guide analysis only.
-4. Cut captions on the words they represent. Keep text readable on a phone, within platform safe areas. Duck music and effects under speech.
-5. Review the whole export with sound. Check frame-to-voice alignment, spelling, legibility, continuity, loudness and source attribution for factual claims. Fix failures and repeat the review.
+- **Opening:** Open on a rainy street with a repeated threatening question and immediately identify the folklore premise.
+- **Image grammar:** Simple round-headed 3D characters, wet blue-gray Japanese street, transparent umbrella shapes and rain streaks, mask/scissors threat, bright red name card over the street. Child and antagonist remain visually distinct.
+- **Story grammar:** Legendary question → child in danger → expected answer trap → child rejects it → exaggerated martial-arts reversal → creature title and comic aftermath → irreverent sign-off.
+- **Edit grammar:** Hold the wide street for geography, cut to alternating faces for dialogue, then stage the fight as readable poses with clear cause and effect. Let the red title sit over a resolved action frame.
+- **Sound grammar:** Rain bed throughout; narrator and brief character lines remain distinguishable. Action hits land on contact, followed by comic space for the joke.
+- **Target:** approximately 57 s, 9:16, unless the spoken draft needs a different runtime.
 
-Invocation: `/rainmyth The slit-mouthed woman`. Deliver a script, timed shot list, voice plan, visual plan, sound plan, draft, QA notes and final export when production tools/assets are available.
+## Make the video
+
+Write an original script for the user’s topic using the same sequence of *functions* as the reference. Build a table of exact words, shot, camera/object motion, caption and sound. Record or obtain voice takes, measure them, then lock shots to the actual voice. Start each meaningful image at the phrase it illustrates; never pad narration with unrelated static background. Create original art or footage in the reference’s visual grammar without copying reference frames. Render a draft, watch and listen end to end, then correct timing, captions, visual relevance, motion and mix before handing over the final.
+
+Differentiate folklore adaptation from documented tradition; do not use the source character designs or dialogue verbatim.

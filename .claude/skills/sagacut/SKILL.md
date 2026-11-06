@@ -1,18 +1,23 @@
 ---
 name: sagacut
-description: Make a illustrated historical adventure short in the Saga Cut treatment when the user invokes /sagacut with a topic.
+description: Create a short in the specific visual and edit grammar of supplied reference video 05 (Viking parchment documentary); use for /sagacut topic.
 ---
 
-# Saga Cut
+# /sagacut: Viking parchment documentary
 
-Create a finished short from the topic after `/sagacut`. Read [the observed breakdown](references/BREAKDOWN.md) and [the worked example](../../../examples/styles/sagacut/EXAMPLE.md) first. Use the existing Arc Lab engine where its code animation, sound, captions and QA tools fit; adapt the rendering method when this treatment needs photos, 3D or collage. Do not force the Arc Lab chibi look onto this style.
+The reference is [source-05.mp4](../../../examples/reference-videos/source-05.mp4), originally `video_2026-11-06_14-30-13 (5).mp4`. This is a **specific reference treatment**, not a generic genre. Read [the shot-by-shot breakdown](references/BREAKDOWN.md), [the frame samples](../../../examples/style-atlas/source-05-storyboard.jpg), and [the worked example](../../../examples/styles/sagacut/EXAMPLE.md) before writing.
 
-## Production contract
+## Style lock
 
-1. State the one-sentence point and make a beat table with time, exact spoken line, image, motion and sound. Keep claims that need research separate from artistic direction.
-2. Write for speech: usually 2–3 words per second and one clear idea per shot. Record or obtain the actual voice take before locking edit timing. Measure each take, then fit visuals to those measured intervals. No dead space between narration and its relevant image; any silence has a named story purpose.
-3. Build original visuals with the reference's composition, color, typography, pace and camera grammar. Do not copy people, logos or frames into a new video. Source screenshots guide analysis only.
-4. Cut captions on the words they represent. Keep text readable on a phone, within platform safe areas. Duck music and effects under speech.
-5. Review the whole export with sound. Check frame-to-voice alignment, spelling, legibility, continuity, loudness and source attribution for factual claims. Fix failures and repeat the review.
+- **Opening:** Open with a grand historical contrast and a single rugged character or artifact before revealing the place and era.
+- **Image grammar:** Weathered parchment, sepia illustrated figures, vignette and grunge, bold red/dark historical serif type, deep teal sea, longships, treasure and map inserts.
+- **Story grammar:** Mythic hook → century/place → threat and raids → reversal: more than raiders → exploration/trade → punchline → separate project-file promotion.
+- **Edit grammar:** Wide ships and sea provide scale; punch in to warriors, props and maps on named nouns. Strong typography becomes the image at era and reversal beats. A commercial end card is visibly separate.
+- **Sound grammar:** Gravelly documentary narration with sea/wind texture, martial pulse for raids, lift at the reversal, then a clean tonal change for the promotion.
+- **Target:** approximately 50 s, 9:16, unless the spoken draft needs a different runtime.
 
-Invocation: `/sagacut A sailor finds an impossible map`. Deliver a script, timed shot list, voice plan, visual plan, sound plan, draft, QA notes and final export when production tools/assets are available.
+## Make the video
+
+Write an original script for the user’s topic using the same sequence of *functions* as the reference. Build a table of exact words, shot, camera/object motion, caption and sound. Record or obtain voice takes, measure them, then lock shots to the actual voice. Start each meaningful image at the phrase it illustrates; never pad narration with unrelated static background. Create original art or footage in the reference’s visual grammar without copying reference frames. Render a draft, watch and listen end to end, then correct timing, captions, visual relevance, motion and mix before handing over the final.
+
+Research historical claims; do not present the supplied narration as an authoritative source.

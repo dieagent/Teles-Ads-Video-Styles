@@ -1,59 +1,38 @@
-# Saga Cut style breakdown
+# Reference 05: Viking parchment documentary
 
-**Basis:** Observed. **Reference:** 5. **Format:** Illustrated historical adventure. The screenshot sheet samples five points across the clip. The analysis is based on visible frames and captions; exact narration words and mix levels are not asserted.
+**Original file:** `video_2026-11-06_14-30-13 (5).mp4`. **Runtime:** about 50 s. **Frame:** 9:16. This is a reconstruction of the clip’s visual and spoken structure, grounded in the supplied video and the [time-coded machine transcript](../../../../examples/TRANSCRIPTS.json). Exact words and factual claims require listening and independent verification.
 
-## Visual system
+## What makes this video recognizable
 
-Parchment-toned fantasy history, sepia figures, dark ink shadows, red serif emphasis, teal sea and ships, strong vignette.
+1. **Hook:** Open with a grand historical contrast and a single rugged character or artifact before revealing the place and era.
+2. **Visual identity:** Weathered parchment, sepia illustrated figures, vignette and grunge, bold red/dark historical serif type, deep teal sea, longships, treasure and map inserts.
+3. **Narrative architecture:** Mythic hook → century/place → threat and raids → reversal: more than raiders → exploration/trade → punchline → separate project-file promotion.
+4. **Motion and transitions:** Wide ships and sea provide scale; punch in to warriors, props and maps on named nouns. Strong typography becomes the image at era and reversal beats. A commercial end card is visibly separate.
+5. **Voice and sound:** Gravelly documentary narration with sea/wind texture, martial pulse for raids, lift at the reversal, then a clean tonal change for the promotion.
 
-## Story grammar
+## Source timeline
 
-A sequential tale told in big declarations and visual reveals; one new object or turn per beat.
+| Approximate interval | What is on screen | What the narration is doing |
+|---|---|---|
+| 0–7 s | Hero character on parchment with a historical claim | Set the mythic frame |
+| 7–15 s | Era title, Scandinavian coast, ships on teal sea | Place and threaten |
+| 15–25 s | Village and treasure objects; departure to sea | Show the raid sequence |
+| 25–34 s | Portraits and revised claim about the people | Reverse the simple stereotype |
+| 34–44 s | Map/reach/ship image and line of synthesis | Show wider legacy |
+| 44–50 s | Clearly separated project-file end card | Promotion only if requested |
 
-## Motion and edit
+The intervals describe the *source*, not compulsory timestamps for a new voice take. Transfer the order and relationships, then retime to the new recording.
 
-Ship sails slide over teal water, characters and treasure objects parallax, camera pushes into an illustration.
+## Evidence
 
-## Voice and sound direction
+- [Full source video](../../../../examples/reference-videos/source-05.mp4)
+- [Sixteen-frame storyboard sheet](../../../../examples/style-atlas/source-05-storyboard.jpg)
+- [Five-frame contact sheet](../../../../examples/style-atlas/source-05-contact.jpg)
+- [Full-size midpoint still](../../../../examples/style-atlas/source-05-key.jpg)
+- [Worked topic adaptation](../../../../examples/styles/sagacut/EXAMPLE.md)
 
-Storyteller voice with close pacing, sea/wind bed, one hit at the discovery; music supports rather than fills every pause.
+## Adaptation rule
 
-## Five-beat shape
+Use the same threat-to-reversal history arc for a researched subject. Keep an ad outro only when the user asks for one.
 
-1. Introduce the person or artifact
-2. Bring ships into view
-3. Reveal the opportunity
-4. Show a named role or obstacle
-5. End on a new mystery
-
-## Sampled frame evidence
-
-The contact sheet samples approximately 0%, 20%, 40%, 60% and 80% of the 49.7-second clip. The observations below are visual, not a full shot-by-shot transcript.
-
-| Approx. time | Visible event |
-|---:|---|
-| 0.0 s | A sepia character and axe enter over parchment. |
-| 9.9 s | Long ships arrive against teal sea and a large red headline. |
-| 19.9 s | Island hut and treasure chest create the opportunity. |
-| 29.8 s | A sailor portrait fills the vertical frame. |
-| 39.8 s | A new parchment title and signpost close on mystery. |
-
-## Observed narration and script
-
-A historical-sounding Viking hook, era and place, raid sequence, reversal to trade/exploration, punchline, then a brief project-file promotion.
-
-Broad documentary cadence with multi-second sentences and a stronger music bed at the adventure turns; the final promotion is a separate beat.
-
-An automated English transcript found about 108 spoken words across 49.8 seconds (about 2.2 words per second overall). This is a planning estimate, not a locked voice schedule. [Time-coded machine transcript](../../../../examples/TRANSCRIPTS.json) requires human correction before quoting or fact checking.
-
-Research history independently; the supplied video is a style reference rather than a scholarly source.
-
-## Timing method
-
-Use the final recorded voice duration as the edit clock. Put each visual on the word or phrase it illustrates; hold a picture only while the thought remains active. Plan an intentional sound-only pause only when the beat benefits from it. Test the first 5 seconds, a middle transition and the ending at phone size before full rendering.
-
-## Boundaries
-
-Do not present a fictional historical tale as documented history.
-
-For exact frames and the complete reference video, see [the example](../../../../examples/styles/sagacut/EXAMPLE.md).
+Research historical claims; do not present the supplied narration as an authoritative source.

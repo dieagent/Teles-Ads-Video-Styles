@@ -1,59 +1,37 @@
-# Fireline style breakdown
+# Reference 01: Fire escape reenactment
 
-**Basis:** Observed. **Reference:** 1. **Format:** Live-action emergency sequence. The screenshot sheet samples five points across the clip. The analysis is based on visible frames and captions; exact narration words and mix levels are not asserted.
+**Original file:** `video_2026-11-06_14-30-13 (10).mp4`. **Runtime:** about 33 s. **Frame:** 9:16. This is a reconstruction of the clip’s visual and spoken structure, grounded in the supplied video and the [time-coded machine transcript](../../../../examples/TRANSCRIPTS.json). Exact words and factual claims require listening and independent verification.
 
-## Visual system
+## What makes this video recognizable
 
-Photographic orange fire against deep brown and black interiors; close hands, a door handle and a full-body escape action; white low captions.
+1. **Hook:** Begin inside an already dangerous room, with the character and flames visible at once.
+2. **Visual identity:** Glossy 3D human reenactment; orange fire, black smoke, reflective floor, dark interior. Alternate a full body and extreme hand/door details. White lowercase captions sit near the bottom.
+3. **Narrative architecture:** Second-person conditional instruction: immediate safe movement → inspect the door → explain the danger if it is hot → show an alternate exit → show the cool-door route.
+4. **Motion and transitions:** The narrator’s words dictate the close-ups: body on “get low,” hand on “check,” door crack on “smoke,” window on the alternate route. Cut back to the human between object inserts.
+5. **Voice and sound:** Urgent but calm spoken instruction; constant low fire roar, small hand/door cues. The fire must never drown out the command.
 
-## Story grammar
+## Source timeline
 
-A command is demonstrated one physical step at a time. Each instruction is visible before the next one arrives.
+| Approximate interval | What is on screen | What the narration is doing |
+|---|---|---|
+| 0–6 s | Person in burning room lowers to the floor | State the immediate action and why |
+| 6–13 s | Hand and handle close-ups; smoke at door crack | Test before acting |
+| 13–18 s | Door opens toward a wall of flame | Show the consequence of a wrong choice |
+| 18–25 s | Window, blanket, broken-glass detail | Offer the alternate path |
+| 25–33 s | Cool handle, slow opening, door closes behind person | Complete the conditional route |
 
-## Motion and edit
+The intervals describe the *source*, not compulsory timestamps for a new voice take. Transfer the order and relationships, then retime to the new recording.
 
-Hard cuts between body, hand and door; heat and flame remain a moving background; use readable close-ups at each decision.
+## Evidence
 
-## Voice and sound direction
+- [Full source video](../../../../examples/reference-videos/source-01.mp4)
+- [Sixteen-frame storyboard sheet](../../../../examples/style-atlas/source-01-storyboard.jpg)
+- [Five-frame contact sheet](../../../../examples/style-atlas/source-01-contact.jpg)
+- [Full-size midpoint still](../../../../examples/style-atlas/source-01-key.jpg)
+- [Worked topic adaptation](../../../../examples/styles/fireline/EXAMPLE.md)
 
-Urgent but intelligible narrator; one short phrase per action; flame bed below speech, a distinct handle/door cue, no musical swell over an instruction.
+## Adaptation rule
 
-## Five-beat shape
+Choose another physical emergency with a verifiable action tree. Write each branch clearly before designing visuals.
 
-1. Immediate danger and body movement
-2. Show the hand or object involved
-3. Return to the hazard to maintain stakes
-4. One short cutaway for the consequence
-5. Close with the exit action
-
-## Sampled frame evidence
-
-The contact sheet samples approximately 0%, 20%, 40%, 60% and 80% of the 33.1-second clip. The observations below are visual, not a full shot-by-shot transcript.
-
-| Approx. time | Visible event |
-|---:|---|
-| 0.0 s | A person drops toward the floor with fire behind them; the caption finishes an instruction. |
-| 6.6 s | A close hand tests a door knob; the command is broken into small words. |
-| 13.2 s | The person returns in a wide fire shot; the danger is still visible. |
-| 19.9 s | A very close blurred insert briefly isolates broken glass. |
-| 26.5 s | The person reaches and closes a door as flames fill the edge. |
-
-## Observed narration and script
-
-Instructional second-person safety sequence. It moves from immediate action to a door test, an alternate window route, then a conditional door route.
-
-Direct, urgent narrator; clauses largely occupy continuous 6–7 second blocks. Background action must literally demonstrate each safety phrase.
-
-An automated English transcript found about 99 spoken words across 32.8 seconds (about 3.0 words per second overall). This is a planning estimate, not a locked voice schedule. [Time-coded machine transcript](../../../../examples/TRANSCRIPTS.json) requires human correction before quoting or fact checking.
-
-Do not repeat the source’s safety wording in a new video without checking current fire-safety guidance.
-
-## Timing method
-
-Use the final recorded voice duration as the edit clock. Put each visual on the word or phrase it illustrates; hold a picture only while the thought remains active. Plan an intentional sound-only pause only when the beat benefits from it. Test the first 5 seconds, a middle transition and the ending at phone size before full rendering.
-
-## Boundaries
-
-Never imply an unsafe emergency instruction from style alone; have practical safety wording checked against an authoritative source before publishing.
-
-For exact frames and the complete reference video, see [the example](../../../../examples/styles/fireline/EXAMPLE.md).
+Safety guidance is consequential. Verify each instruction with an authoritative safety source before making a factual video.

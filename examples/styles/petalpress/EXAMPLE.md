@@ -1,32 +1,46 @@
-# Petalpress: worked example
+# /petalpress: Vintage tulip tutorial
 
-**Try:** `/petalpress The tulip that bought a house`
+**Source-specific command:** `/petalpress How I animated a vintage map story`
 
-**Reference basis:** Observed, 3. The source clip is stored at [source-03.mp4](../../reference-videos/source-03.mp4). Screenshots are analysis samples, not assets to paste into a new production.
+The [original clip](../../reference-videos/source-03.mp4) runs about 47 s in 9:16. Its source-specific structure is below. This new prompt uses the same audiovisual grammar with new wording and original visuals.
 
-![Five sampled frames from source 03](../../style-atlas/source-03-contact.jpg)
+![Sixteen samples across the exact reference video](../../style-atlas/source-03-storyboard.jpg)
 
-![Full-size midpoint frame from source 03](../../style-atlas/source-03-key.jpg)
+![Full-size midpoint frame](../../style-atlas/source-03-key.jpg)
 
-## Visual notes
+## Source beat map
 
-Aged ivory paper, delicate serif headings, botanical cutouts, dark forest green and mustard circles, tiny archival-style labels. Slow parallax of cutouts; isolated objects rearrange into scenes; small ornamental motion between otherwise still compositions.
+| Source interval | Source visual role | Script role |
+|---|---|---|
+| 0–5 s | Antique flower title and complete collage | Show the finished output |
+| 5–15 s | Reference stack and style rule card | Choose and describe the look |
+| 15–21 s | Three scene print cards | Generate consistent illustrations |
+| 21–27 s | Tulip, coins and people separated into a grid | Break art into independent parts |
+| 27–37 s | Pieces reassemble and move over code-like strip | Show code animation and result |
+| 37–47 s | The sample story returns, then a small style CTA | End with proof and invitation |
 
-## Sample script and matching shots
+## Original script sketch
 
-| Beat | Spoken line | Visual action | Sound cue |
-|---|---|---|---|
-| 1 | One flower drew every eye. | Title the curiosity. | Voice first; a subtle cue only at the visual change. |
-| 2 | Its price kept climbing. | Reveal the visual grammar. | Voice first; a subtle cue only at the visual change. |
-| 3 | Then the market wilted. | Show separated objects. | Voice first; a subtle cue only at the visual change. |
-| 4 | The flower stayed. The fortune did not. | Build the desired object. | Voice first; a subtle cue only at the visual change. |
+These are new example lines, not a transcript of the source. They show how spoken meaning maps to a shot. Measure an actual voice recording before assigning final seconds.
 
-The lines are an **original example**, not a transcript. Record them, measure each take, then assign real timestamps. Do not stretch the edit to a guessed runtime. End with the fifth beat as a visual resolution or question, with a final spoken line if the story needs one.
+| Beat | Spoken draft | Matching image |
+|---|---|---|
+| 1 | This old map starts as a still picture. | Finished antique title plate |
+| 2 | First I chose its ink and paper. | Reference stack and palette |
+| 3 | Then I made matching scene cards. | Three art samples |
+| 4 | Each ship and label became its own layer. | Specimen grid |
+| 5 | Now the map can tell a moving story. | Reassembled parallax frame |
 
-## Production check
+## New-topic production brief
 
-- Every image changes in response to its line or a clearly planned silent beat.
-- Captions follow actual speech, and the first screen can be read on a phone.
-- The music remains below voice; no background cue competes with a key word.
-- The last frame resolves the short rather than lingering over empty space.
-- Treat historical facts as research tasks; the aesthetic is evidence of style, not proof of an event.
+**Hook:** Display the finished antique botanical story card immediately, then reveal the method used to animate it.
+
+**Visual rules:** Aged ivory paper; fine serif titles and tiny plate labels; inked tulip, merchants and coins over mustard and deep green circles. Separate art is shown in a tidy specimen grid.
+
+**Voice and sound:** Warm explanatory maker voice with explicit step markers; light paper texture and small tactile movement sounds. Let the final flower image breathe briefly.
+
+**Adaptation:** Use another antique subject, but preserve the sample-first, numbered-method, sample-return structure.
+
+Draft original lines against these beat roles; record them and replace the source intervals with real voice timings. Each shot must illustrate its current phrase. Use the source as a style reference, not a set of frames to reuse.
+
+**Check:** The reference is a process tutorial, not a full standalone tulip documentary.

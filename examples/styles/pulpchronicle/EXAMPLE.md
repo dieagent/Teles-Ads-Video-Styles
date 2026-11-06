@@ -1,34 +1,26 @@
-# Pulp Chronicle: worked example
+# /pulpchronicle: Viking reversal cut
 
-**Try:** `/pulpchronicle The sailor who refused the order`
+**Try:** `/pulpchronicle The sailors who were more than raiders`
 
-**Reference basis:** Hybrid of sources 05 and 07, 5+7. The source clip is stored at [source-05.mp4](../../reference-videos/source-05.mp4) and [source-07.mp4](../../reference-videos/source-07.mp4). Screenshots are analysis samples, not assets to paste into a new production.
+This is the about 24–44 seconds of source 05; the source clip is [source-05.mp4](../../reference-videos/source-05.mp4).
 
-![Five sampled frames from source 05](../../style-atlas/source-05-contact.jpg)
+![Sixteen samples of the source video](../../style-atlas/source-05-storyboard.jpg)
 
-![Five sampled frames from source 07](../../style-atlas/source-07-contact.jpg)
+## Original script sketch
 
-![Full-size midpoint frame from source 05](../../style-atlas/source-05-key.jpg)
+These are new example lines, not a transcript of the source. They show how spoken meaning maps to a shot. Measure an actual voice recording before assigning final seconds.
 
-## Visual notes
+| Beat | Spoken draft | Matching image |
+|---|---|---|
+| 1 | Everyone remembers the raiders. | Sepia warrior portrait |
+| 2 | But the sea carried traders too. | Red reversal card and teal ship |
+| 3 | Their routes reached far beyond home. | Map and moving ship |
+| 4 | The voyage changed the story. | Final parchment punchline |
 
-Parchment and teal-world establishing art from source 05, then expressive comic portraits and red caption words from source 07. Wide panorama cut to close inked panel; objects and facial reactions carry the turning point.
+## The exact transferable style
 
-## Sample script and matching shots
+- sepia warrior portraits on parchment, teal ship/sea imagery, red serif reversal words and an exploration map.
+- Script progression: accepted stereotype → “but” reversal → overlooked achievement → punchline.
+- Audio: low documentary voice, small lift at the reversal and a decisive final hit.
 
-| Beat | Spoken line | Visual action | Sound cue |
-|---|---|---|---|
-| 1 | The fleet reached the coast. | World and era. | Voice first; a subtle cue only at the visual change. |
-| 2 | One sailor saw the warning. | Person. | Voice first; a subtle cue only at the visual change. |
-| 3 | He refused the order. | Choice object. | Voice first; a subtle cue only at the visual change. |
-| 4 | By morning, the harbor was empty. | Public consequence. | Voice first; a subtle cue only at the visual change. |
-
-The lines are an **original example**, not a transcript. Record them, measure each take, then assign real timestamps. Do not stretch the edit to a guessed runtime. End with the fifth beat as a visual resolution or question, with a final spoken line if the story needs one.
-
-## Production check
-
-- Every image changes in response to its line or a clearly planned silent beat.
-- Captions follow actual speech, and the first screen can be read on a phone.
-- The music remains below voice; no background cue competes with a key word.
-- The last frame resolves the short rather than lingering over empty space.
-- Mark fictionalized reconstruction clearly and verify any factual history.
+Make original art and script for the new topic, record speech, then cut visuals and captions to the actual take. Research history. This is a short variant of source 05, not an independently supplied clip.

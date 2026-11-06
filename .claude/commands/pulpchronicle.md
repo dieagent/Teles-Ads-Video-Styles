@@ -1,6 +1,6 @@
 ---
-description: Make a Pulp Chronicle short from a topic
-argument-hint: <topic or question>
+description: Use the Viking reversal cut variant of reference video 05
+argument-hint: <new topic>
 ---
 
-Use the repository skill at `.claude/skills/pulpchronicle/SKILL.md` for this request: **$ARGUMENTS**. Read its breakdown and worked example. Create the script and voice-synced shot plan first, then produce and review the video with the available tools.
+Make **$ARGUMENTS** in the exact visual and narrative grammar of about 24–44 seconds of source 05, `examples/reference-videos/source-05.mp4`. Read `.claude/skills/pulpchronicle/SKILL.md`, its breakdown, and `examples/styles/pulpchronicle/EXAMPLE.md`. Keep sepia warrior portraits on parchment, teal ship/sea imagery, red serif reversal words and an exploration map; structure the voice as accepted stereotype → “but” reversal → overlooked achievement → punchline; use low documentary voice, small lift at the reversal and a decisive final hit. Record voice before timing shots, make original visuals, then watch and listen to the complete export.

@@ -1,32 +1,45 @@
-# Fireline: worked example
+# /fireline: Fire escape reenactment
 
-**Try:** `/fireline What to do when a kitchen fire blocks the door`
+**Source-specific command:** `/fireline How to leave a smoke-filled hallway`
 
-**Reference basis:** Observed, 1. The source clip is stored at [source-01.mp4](../../reference-videos/source-01.mp4). Screenshots are analysis samples, not assets to paste into a new production.
+The [original clip](../../reference-videos/source-01.mp4) runs about 33 s in 9:16. Its source-specific structure is below. This new prompt uses the same audiovisual grammar with new wording and original visuals.
 
-![Five sampled frames from source 01](../../style-atlas/source-01-contact.jpg)
+![Sixteen samples across the exact reference video](../../style-atlas/source-01-storyboard.jpg)
 
-![Full-size midpoint frame from source 01](../../style-atlas/source-01-key.jpg)
+![Full-size midpoint frame](../../style-atlas/source-01-key.jpg)
 
-## Visual notes
+## Source beat map
 
-Photographic orange fire against deep brown and black interiors; close hands, a door handle and a full-body escape action; white low captions. Hard cuts between body, hand and door; heat and flame remain a moving background; use readable close-ups at each decision.
+| Source interval | Source visual role | Script role |
+|---|---|---|
+| 0–6 s | Person in burning room lowers to the floor | State the immediate action and why |
+| 6–13 s | Hand and handle close-ups; smoke at door crack | Test before acting |
+| 13–18 s | Door opens toward a wall of flame | Show the consequence of a wrong choice |
+| 18–25 s | Window, blanket, broken-glass detail | Offer the alternate path |
+| 25–33 s | Cool handle, slow opening, door closes behind person | Complete the conditional route |
 
-## Sample script and matching shots
+## Original script sketch
 
-| Beat | Spoken line | Visual action | Sound cue |
-|---|---|---|---|
-| 1 | The room flashes orange. | Immediate danger and body movement. | Voice first; a subtle cue only at the visual change. |
-| 2 | Get low. Feel the door. | Show the hand or object involved. | Voice first; a subtle cue only at the visual change. |
-| 3 | If it is hot, turn back. | Return to the hazard to maintain stakes. | Voice first; a subtle cue only at the visual change. |
-| 4 | Find another way out. | One short cutaway for the consequence. | Voice first; a subtle cue only at the visual change. |
+These are new example lines, not a transcript of the source. They show how spoken meaning maps to a shot. Measure an actual voice recording before assigning final seconds.
 
-The lines are an **original example**, not a transcript. Record them, measure each take, then assign real timestamps. Do not stretch the edit to a guessed runtime. End with the fifth beat as a visual resolution or question, with a final spoken line if the story needs one.
+| Beat | Spoken draft | Matching image |
+|---|---|---|
+| 1 | Smoke fills the hall. Get low. | Wide character and smoke, then floor-level camera |
+| 2 | Check the door before opening it. | Hand and handle close-up |
+| 3 | Heat means the danger is behind it. | A visible hot-door consequence |
+| 4 | Find the marked alternate exit. | Window or route graphic |
+| 5 | Leave carefully, then close the barrier. | Full-body exit and closing door |
 
-## Production check
+## New-topic production brief
 
-- Every image changes in response to its line or a clearly planned silent beat.
-- Captions follow actual speech, and the first screen can be read on a phone.
-- The music remains below voice; no background cue competes with a key word.
-- The last frame resolves the short rather than lingering over empty space.
-- Never imply an unsafe emergency instruction from style alone; have practical safety wording checked against an authoritative source before publishing.
+**Hook:** Begin inside an already dangerous room, with the character and flames visible at once.
+
+**Visual rules:** Glossy 3D human reenactment; orange fire, black smoke, reflective floor, dark interior. Alternate a full body and extreme hand/door details. White lowercase captions sit near the bottom.
+
+**Voice and sound:** Urgent but calm spoken instruction; constant low fire roar, small hand/door cues. The fire must never drown out the command.
+
+**Adaptation:** Choose another physical emergency with a verifiable action tree. Write each branch clearly before designing visuals.
+
+Draft original lines against these beat roles; record them and replace the source intervals with real voice timings. Each shot must illustrate its current phrase. Use the source as a style reference, not a set of frames to reuse.
+
+**Check:** Safety guidance is consequential. Verify each instruction with an authoritative safety source before making a factual video.

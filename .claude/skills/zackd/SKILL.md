@@ -1,18 +1,23 @@
 ---
 name: zackd
-description: Make a dark kinetic business or thought explainer in the Zackd treatment when the user invokes /zackd with a topic.
+description: Create a short in the specific visual and edit grammar of supplied reference video 08 (Sears-style kinetic 3D history); use for /zackd topic.
 ---
 
-# Zackd
+# /zackd: Sears-style kinetic 3D history
 
-Create a finished short from the topic after `/zackd`. Read [the observed breakdown](references/BREAKDOWN.md) and [the worked example](../../../examples/styles/zackd/EXAMPLE.md) first. Use the existing Arc Lab engine where its code animation, sound, captions and QA tools fit; adapt the rendering method when this treatment needs photos, 3D or collage. Do not force the Arc Lab chibi look onto this style.
+The reference is [source-08.mp4](../../../examples/reference-videos/source-08.mp4), originally `video_2026-11-06_14-30-13 (8).mp4`. This is a **specific reference treatment**, not a generic genre. Read [the shot-by-shot breakdown](references/BREAKDOWN.md), [the frame samples](../../../examples/style-atlas/source-08-storyboard.jpg), and [the worked example](../../../examples/styles/zackd/EXAMPLE.md) before writing.
 
-## Production contract
+## Style lock
 
-1. State the one-sentence point and make a beat table with time, exact spoken line, image, motion and sound. Keep claims that need research separate from artistic direction.
-2. Write for speech: usually 2–3 words per second and one clear idea per shot. Record or obtain the actual voice take before locking edit timing. Measure each take, then fit visuals to those measured intervals. No dead space between narration and its relevant image; any silence has a named story purpose.
-3. Build original visuals with the reference's composition, color, typography, pace and camera grammar. Do not copy people, logos or frames into a new video. Source screenshots guide analysis only.
-4. Cut captions on the words they represent. Keep text readable on a phone, within platform safe areas. Duck music and effects under speech.
-5. Review the whole export with sound. Check frame-to-voice alignment, spelling, legibility, continuity, loudness and source attribution for factual claims. Fix failures and repeat the review.
+- **Opening:** Start with a familiar modern comparison, then reveal a historical person who solved the same customer problem earlier.
+- **Image grammar:** Stylized, cartoonlike 3D human scenes alternate with black and crimson voids. Giant white/red block type punches selected words; bright cyan sky fields open the beginning and promotional ending. An old catalog and product objects become hero props.
+- **Story grammar:** Modern comparison → historical date/person → customer problem → simple new delivery mechanism → scale of products → business principle → clearly separate course CTA.
+- **Edit grammar:** Cut between character reenactment and almost empty high-contrast type. Make products pop into isolated dark spaces; change visual mode on a major idea, not on every syllable.
+- **Sound grammar:** Fast, conversational explainer narrator, hard hits on business turns, brief quiet before the business principle, brighter sales sound only in the outro.
+- **Target:** approximately 38 s, 9:16, unless the spoken draft needs a different runtime.
 
-Invocation: `/zackd Why I'm afraid`. Deliver a script, timed shot list, voice plan, visual plan, sound plan, draft, QA notes and final export when production tools/assets are available.
+## Make the video
+
+Write an original script for the user’s topic using the same sequence of *functions* as the reference. Build a table of exact words, shot, camera/object motion, caption and sound. Record or obtain voice takes, measure them, then lock shots to the actual voice. Start each meaningful image at the phrase it illustrates; never pad narration with unrelated static background. Create original art or footage in the reference’s visual grammar without copying reference frames. Render a draft, watch and listen end to end, then correct timing, captions, visual relevance, motion and mix before handing over the final.
+
+The reference is a commerce-history explainer; the example topic is a new application of its audiovisual grammar.

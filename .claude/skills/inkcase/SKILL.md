@@ -1,18 +1,23 @@
 ---
 name: inkcase
-description: Make a illustrated dramatic casefile short in the Ink Case treatment when the user invokes /inkcase with a topic.
+description: Create a short in the specific visual and edit grammar of supplied reference video 07 (Illustrated moral casefile); use for /inkcase topic.
 ---
 
-# Ink Case
+# /inkcase: Illustrated moral casefile
 
-Create a finished short from the topic after `/inkcase`. Read [the observed breakdown](references/BREAKDOWN.md) and [the worked example](../../../examples/styles/inkcase/EXAMPLE.md) first. Use the existing Arc Lab engine where its code animation, sound, captions and QA tools fit; adapt the rendering method when this treatment needs photos, 3D or collage. Do not force the Arc Lab chibi look onto this style.
+The reference is [source-07.mp4](../../../examples/reference-videos/source-07.mp4), originally `video_2026-11-06_14-30-13 (7).mp4`. This is a **specific reference treatment**, not a generic genre. Read [the shot-by-shot breakdown](references/BREAKDOWN.md), [the frame samples](../../../examples/style-atlas/source-07-storyboard.jpg), and [the worked example](../../../examples/styles/inkcase/EXAMPLE.md) before writing.
 
-## Production contract
+## Style lock
 
-1. State the one-sentence point and make a beat table with time, exact spoken line, image, motion and sound. Keep claims that need research separate from artistic direction.
-2. Write for speech: usually 2–3 words per second and one clear idea per shot. Record or obtain the actual voice take before locking edit timing. Measure each take, then fit visuals to those measured intervals. No dead space between narration and its relevant image; any silence has a named story purpose.
-3. Build original visuals with the reference's composition, color, typography, pace and camera grammar. Do not copy people, logos or frames into a new video. Source screenshots guide analysis only.
-4. Cut captions on the words they represent. Keep text readable on a phone, within platform safe areas. Duck music and effects under speech.
-5. Review the whole export with sound. Check frame-to-voice alignment, spelling, legibility, continuity, loudness and source attribution for factual claims. Fix failures and repeat the review.
+- **Opening:** Ask a provocative historical question while showing the person performing an ordinary administrative act.
+- **Image grammar:** Consistent hand-painted comic panels with warm brown offices and streets, expressive faces, official papers and maps. Centered bold white all-caps captions, selected key words red.
+- **Story grammar:** Question → identify person → list concrete acts → arrest and trial → the subject’s defense → an observer’s interpretation → quiet, chilling final restatement.
+- **Edit grammar:** One close visual per clause. Alternate desk, map, signature, street and observer; return to the subject for the final moral turn. Captions are large and change word by word.
+- **Sound grammar:** Grave, nearly continuous narration; restrained room tone and minimal low hits. Do not use triumphant music or sensational effects.
+- **Target:** approximately 33 s, 9:16, unless the spoken draft needs a different runtime.
 
-Invocation: `/inkcase The officer who followed the wrong order`. Deliver a script, timed shot list, voice plan, visual plan, sound plan, draft, QA notes and final export when production tools/assets are available.
+## Make the video
+
+Write an original script for the user’s topic using the same sequence of *functions* as the reference. Build a table of exact words, shot, camera/object motion, caption and sound. Record or obtain voice takes, measure them, then lock shots to the actual voice. Start each meaningful image at the phrase it illustrates; never pad narration with unrelated static background. Create original art or footage in the reference’s visual grammar without copying reference frames. Render a draft, watch and listen end to end, then correct timing, captions, visual relevance, motion and mix before handing over the final.
+
+The reference concerns Holocaust atrocities. Verify details and depict victims respectfully.

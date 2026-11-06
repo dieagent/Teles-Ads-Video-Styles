@@ -1,32 +1,41 @@
-# Med Archive: worked example
+# /medarchive: Fleming fifteen-second archive
 
-**Try:** `/medarchive The laboratory that changed a city`
+**Source-specific command:** `/medarchive A laboratory accident that changed a treatment`
 
-**Reference basis:** Observed, 6. The source clip is stored at [source-06.mp4](../../reference-videos/source-06.mp4). Screenshots are analysis samples, not assets to paste into a new production.
+The [original clip](../../reference-videos/source-06.mp4) runs about 16 s in 16:9. Its source-specific structure is below. This new prompt uses the same audiovisual grammar with new wording and original visuals.
 
-![Five sampled frames from source 06](../../style-atlas/source-06-contact.jpg)
+![Sixteen samples across the exact reference video](../../style-atlas/source-06-storyboard.jpg)
 
-![Full-size midpoint frame from source 06](../../style-atlas/source-06-key.jpg)
+![Full-size midpoint frame](../../style-atlas/source-06-key.jpg)
 
-## Visual notes
+## Source beat map
 
-16:9 letterbox, pale olive and mustard paper, old city silhouettes, cutout hand imagery, a seated historical figure, scientific specimen close-ups. Fast collage transitions within a narrow central image band; scale and pan on archival-style materials.
+| Source interval | Source visual role | Script role |
+|---|---|---|
+| 0–5 s | Year/city collage and claim | Set date and importance |
+| 5–10 s | Scientist portrait against red/pale panels | Name the observer and strange clue |
+| 10–16 s | Specimen close-up with labels | Explain the finding and name its result |
 
-## Sample script and matching shots
+## Original script sketch
 
-| Beat | Spoken line | Visual action | Sound cue |
-|---|---|---|---|
-| 1 | In 1928, a new idea appeared. | Date or setting. | Voice first; a subtle cue only at the visual change. |
-| 2 | A doctor tested the clue. | Big claim on screen. | Voice first; a subtle cue only at the visual change. |
-| 3 | The specimen changed the question. | Human figure or inventor. | Voice first; a subtle cue only at the visual change. |
-| 4 | The work traveled beyond the lab. | Scientific image. | Voice first; a subtle cue only at the visual change. |
+These are new example lines, not a transcript of the source. They show how spoken meaning maps to a shot. Measure an actual voice recording before assigning final seconds.
 
-The lines are an **original example**, not a transcript. Record them, measure each take, then assign real timestamps. Do not stretch the edit to a guessed runtime. End with the fifth beat as a visual resolution or question, with a final spoken line if the story needs one.
+| Beat | Spoken draft | Matching image |
+|---|---|---|
+| 1 | In one small laboratory, an accident left a clue. | Year and city card |
+| 2 | A researcher noticed an unusual pattern. | Scientist portrait and red panel |
+| 3 | The specimen changed the question. | Petri-style close-up and labels |
 
-## Production check
+## New-topic production brief
 
-- Every image changes in response to its line or a clearly planned silent beat.
-- Captions follow actual speech, and the first screen can be read on a phone.
-- The music remains below voice; no background cue competes with a key word.
-- The last frame resolves the short rather than lingering over empty space.
-- The reference date and medical premise are stylistic cues only; research any real-world claim before using it.
+**Hook:** Lead with a year and a claim about an accidental discovery.
+
+**Visual rules:** True horizontal frame, pale yellow-green paper, red rectangular panels, old city skyline, cutout scientist portrait, circular microscope/petri specimen and tiny yellow labels.
+
+**Voice and sound:** One continuous calm factual voice, very little pause across the three sentences; crisp transitional swooshes only.
+
+**Adaptation:** Choose a different verified discovery that fits three sentences and three visual families. Keep a 16:9 export.
+
+Draft original lines against these beat roles; record them and replace the source intervals with real voice timings. Each shot must illustrate its current phrase. Use the source as a style reference, not a set of frames to reuse.
+
+**Check:** Fact-check the date, person and discovery.

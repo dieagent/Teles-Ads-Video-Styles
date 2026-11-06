@@ -1,32 +1,46 @@
-# Rain Myth: worked example
+# /rainmyth: Kuchisake-onna comic 3D short
 
-**Try:** `/rainmyth The woman at the crossing`
+**Source-specific command:** `/rainmyth The umbrella woman at the crossing`
 
-**Reference basis:** Observed, 10. The source clip is stored at [source-10.mp4](../../reference-videos/source-10.mp4). Screenshots are analysis samples, not assets to paste into a new production.
+The [original clip](../../reference-videos/source-10.mp4) runs about 57 s in 9:16. Its source-specific structure is below. This new prompt uses the same audiovisual grammar with new wording and original visuals.
 
-![Five sampled frames from source 10](../../style-atlas/source-10-contact.jpg)
+![Sixteen samples across the exact reference video](../../style-atlas/source-10-storyboard.jpg)
 
-![Full-size midpoint frame from source 10](../../style-atlas/source-10-key.jpg)
+![Full-size midpoint frame](../../style-atlas/source-10-key.jpg)
 
-## Visual notes
+## Source beat map
 
-Rainy blue-gray streets, simple round-headed 3D characters, dark umbrella silhouettes, red traffic light, a bold red creature-name card. Rain streaks throughout; lateral street travel, character turns and a short threat pose; title card holds over the action.
+| Source interval | Source visual role | Script role |
+|---|---|---|
+| 0–10 s | Rainy street, masked figure, child approach | Introduce question and setting |
+| 10–18 s | Alternating face close-ups, mask reveal | Define the trap |
+| 18–28 s | Child’s unexpected response and antagonist reaction | Reverse expectation |
+| 28–38 s | Clear grappling action in a few wide poses | Pay off reversal |
+| 38–45 s | Red creature title over street | Name and resolve |
+| 45–57 s | Child and aftermath, direct comic sign-off | Close the joke |
 
-## Sample script and matching shots
+## Original script sketch
 
-| Beat | Spoken line | Visual action | Sound cue |
-|---|---|---|---|
-| 1 | She waits by the crossing. | Wide rainy setting. | Voice first; a subtle cue only at the visual change. |
-| 2 | Under the umbrella, she smiles. | Threat under umbrella. | Voice first; a subtle cue only at the visual change. |
-| 3 | The boy remembers the warning. | Child reaction. | Voice first; a subtle cue only at the visual change. |
-| 4 | He walks past without answering. | Name and reveal. | Voice first; a subtle cue only at the visual change. |
+These are new example lines, not a transcript of the source. They show how spoken meaning maps to a shot. Measure an actual voice recording before assigning final seconds.
 
-The lines are an **original example**, not a transcript. Record them, measure each take, then assign real timestamps. Do not stretch the edit to a guessed runtime. End with the fifth beat as a visual resolution or question, with a final spoken line if the story needs one.
+| Beat | Spoken draft | Matching image |
+|---|---|---|
+| 1 | Who walks under the clear umbrella? | Rainy street wide |
+| 2 | The stranger asks the same question twice. | Alternating masked figure and child close-ups |
+| 3 | The child answers with a ridiculous trick. | Unexpected response and antagonist reaction |
+| 4 | One clumsy move turns the chase around. | Readable wide action poses |
+| 5 | By morning, the legend has a new ending. | Red creature title and comic aftermath |
 
-## Production check
+## New-topic production brief
 
-- Every image changes in response to its line or a clearly planned silent beat.
-- Captions follow actual speech, and the first screen can be read on a phone.
-- The music remains below voice; no background cue competes with a key word.
-- The last frame resolves the short rather than lingering over empty space.
-- Do not claim a folklore detail is authentic without research; present original adaptations as such.
+**Hook:** Open on a rainy street with a repeated threatening question and immediately identify the folklore premise.
+
+**Visual rules:** Simple round-headed 3D characters, wet blue-gray Japanese street, transparent umbrella shapes and rain streaks, mask/scissors threat, bright red name card over the street. Child and antagonist remain visually distinct.
+
+**Voice and sound:** Rain bed throughout; narrator and brief character lines remain distinguishable. Action hits land on contact, followed by comic space for the joke.
+
+**Adaptation:** Invent a new urban legend scene with a question/trap and a surprising comic reversal. Keep action readable and the joke tied to the established danger.
+
+Draft original lines against these beat roles; record them and replace the source intervals with real voice timings. Each shot must illustrate its current phrase. Use the source as a style reference, not a set of frames to reuse.
+
+**Check:** Differentiate folklore adaptation from documented tradition; do not use the source character designs or dialogue verbatim.
