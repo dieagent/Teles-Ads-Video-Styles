@@ -1,6 +1,6 @@
 ---
 name: zackd
-description: Make a dark kinetic thought short in the Zackd treatment when the user invokes /zackd with a topic.
+description: Make a dark kinetic business or thought explainer in the Zackd treatment when the user invokes /zackd with a topic.
 ---
 
 # Zackd

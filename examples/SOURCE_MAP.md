@@ -1,6 +1,6 @@
 # Reference source map
 
-The ten videos were supplied by the user. Each source is kept unchanged; the JPEG sheet samples five points across the timeline. “Audio present” means an AAC track exists, not that its words were independently transcribed. Visual observations are in the individual skill breakdowns.
+The ten videos were supplied by the user. Each source is kept unchanged; the JPEG sheet samples five points across the timeline. Each AAC track was machine-transcribed after the visual sampling; names and exact wording still need human review. Visual observations are in the individual skill breakdowns.
 
 | ID | Original filename | Duration | Frame | Audio | Screenshot sheet |
 |---|---|---:|---|---|---|
