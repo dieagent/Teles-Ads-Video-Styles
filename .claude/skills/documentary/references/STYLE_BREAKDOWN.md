@@ -1,6 +1,6 @@
 # Source-specific breakdown: snakebite explainer
 
-**Reference:** [unaltered source clip](../../../../examples/documentary/reference/snakebite-source.mp4). **Measured properties:** 127.37 s, 1080 × 1920, vertical 9:16, approximately 29.8 fps, H.264/AAC. This is one clip, not a universal documentary formula. [Twenty-four-frame sheet](../../../../examples/documentary/reference/storyboard-24.jpg), [second-half sheet](../../../../examples/documentary/reference/second-half.jpg), and [14 full-size stills](../../../../examples/documentary/reference/frames/) show the evidence behind this description.
+**Reference:** [unaltered source clip](../../../../examples/documentary/reference/snakebite-source.mp4). **Measured properties:** 127.37 s, 1080 × 1920, vertical 9:16, approximately 29.8 fps, H.264/AAC. This is one clip, not a universal documentary formula. [Three-second sampling sheet](../../../../examples/documentary/reference/deep-3s-sheet.jpg), [twenty-four-frame sheet](../../../../examples/documentary/reference/storyboard-24.jpg), [second-half sheet](../../../../examples/documentary/reference/second-half.jpg), and [14 full-size stills](../../../../examples/documentary/reference/frames/) show the evidence behind this description.
 
 ## Story and edit map
 
@@ -18,6 +18,10 @@
 The intervals are observation windows, not mandatory timestamps for a new topic. The machine transcript in `examples/documentary/reference/machine-transcript.json` is rough and mistranscribes some Hindi; use the visual map and listen to the clip, then verify exact words independently. A sampled-frame review found no article screenshot in the source. Do not claim one is part of its fixed pattern.
 
 ## Specific edit behavior
+
+A frame-difference pass detected approximately **25 hard cuts** in 127 seconds at a 0.24 scene threshold. That count excludes object movement, graphic swaps, and transitions within shots. The three-second sheet makes the density visible: close details, wide geography, labeled diagrams, human-scale scenes, and color resets replace each other throughout. A film made from four reused backgrounds and slow zooms does not reproduce this edit, even if it shares a palette and typeface.
+
+Text is intermittent. The source does not pin a logo or a citation footer to every frame. At each new clause, first ask what **physical thing** the viewer should see: a hand, globe, snake, clock, bed, horse or vial. Then pick framing and motion. A data card belongs only where a number is the actual point.
 
 The first section progresses from a familiar claim to a question before giving the answer. The middle uses **visual causality**: geography becomes risk; a bite becomes a dry-bite explanation; venom becomes a moving biological path; a clock represents lost treatment time. The night section is a deliberate location/palette reset, then the antivenom section returns to brighter explanation. Captions are short explanatory headlines, not continuous full subtitles. A few words can occupy a large fraction of the upper half of frame, but the illustrated action remains visible underneath or beside them.
 

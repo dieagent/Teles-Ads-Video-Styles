@@ -1,23 +1,24 @@
 # China grew fast. Did India go down?
 
-The first completed `/documentary` film: [watch the 103-second vertical MP4](renders/china-india-documentary.mp4). The one-line prompt was `/documentary how china grow so fast and indian go down`. The film treats “India went down” as a question and explains the difference between accumulated income and current annual growth.
+Production example for `/documentary how china grow so fast and indian go down`.
 
-## Project files
+**Current cut:** [reference-paced V2 MP4](renders/china-india-documentary-v2.mp4). The [first cut](renders/china-india-documentary.mp4) is kept for comparison; its four repeated scene plates, long holds, persistent title/source strip and chart-heavy edit did not match the supplied snakebite documentary.
 
-- [Full Hindi narration and shot instructions](SCRIPT.md)
-- [Source ledger, numerical checks and limits](RESEARCH.md)
-- [Voice-locked 11-beat production score](score.json)
-- [Unedited World Bank data page capture](evidence/world-bank-data-page-tall.png), with a readable crop inserted in beat 2
-- [Four original 3D illustrated scene plates](assets/), generated for this film and animated with code
-- [Final storyboard](renders/final-storyboard.jpg), [sidecar Hindi captions](renders/captions.srt), and [narrator WAV](voice/narration.wav)
-- [Voice builder](build_voice.py) and [animation renderer](render_video.py)
+## The revised edit
 
-The uploaded snakebite reference informed the type, chapter colors, tactile illustrated scenes and cause-and-effect edit. No source-video frame appears in the output. The World Bank page is evidence for its own values; the miniature scenes are illustrations.
+V2 is voice-locked to a 117.59-second Hindi narration. Its [35-shot cut map](shot_plan_v2.json) changes composition roughly every 2–4 seconds and ties each action to one spoken claim. The visual argument moves from a misleading speed comparison to the World Bank values, a farm, coastal zone, production line, container, ship, export loop, India’s reforms and service economy, a worker facing an unfinished job chain, then the current growth comparison and choices for jobs. Ten new [original illustrated scene plates](assets/v2/) support those cuts. The source clip is never used as output footage.
+
+The revised edit uses upper-left short headline cards where useful, physical object cues, an amber/blue chapter shift and a World Bank source insert only at the data claim. It removes the permanent brand and citation strip. It is still a **2.5D composite of generated scene plates**, not native character animation or a frame-for-frame reproduction of the reference. See [the reference’s three-second sheet](../reference/deep-3s-sheet.jpg) and [this cut’s storyboard](renders/v2-storyboard.jpg) to judge the remaining gap directly.
+
+## Full project
+
+- [Hindi script and argument](SCRIPT.md), [primary-source ledger and caveats](RESEARCH.md), [voice-locked score](score.json) and [35-shot cut map](shot_plan_v2.json).
+- [Original World Bank page capture](evidence/world-bank-data-page-tall.png). The screenshot shown in the film is cropped from this page; the displayed values are current US dollars, not PPP or a complete measure of living standards.
+- [Narrator audio](voice/narration.wav), [revised renderer](render_video_v2.py), [voice builder](build_voice.py), [sidecar captions](renders/captions.srt) and [all 35 inspection frames](renders/).
+- [Reference comparison and revision notes](V2_REVIEW.md).
 
 ## Rebuild
 
-Install `requirements.txt` into the chosen Python environment, then run `python build_voice.py` and `python render_video.py`. The voice builder uses Microsoft's `hi-IN-MadhurNeural` synthetic voice through Edge TTS, trims unusually long sentence gaps, and writes exact beat times back to `score.json`. The renderer creates charts, paths, large headline cards, ambient sound and MP4 locally using Pillow and FFmpeg through `imageio-ffmpeg`. `python render_video.py --stills` makes one still from each beat.
+Install [Python dependencies](requirements.txt). Run `python build_voice.py`, then `python render_video_v2.py --stills` for the shot frames and contact sheet, and `python render_video_v2.py` for the MP4. The voice builder uses `hi-IN-MadhurNeural` through Edge TTS and writes the measured line times to `score.json`. Validate with `node engine/director/validate_score.mjs examples/documentary/china-india-growth/score.json` from the repository root.
 
-## QA and scope
-
-The exported MP4 was checked at 1080 × 1920, 24 fps, 103.33 seconds, H.264/AAC. The score passed `engine/director/validate_score.mjs`. Automated audio inspection found zero silent stretches longer than 0.6 seconds at −38 dB. A rendered storyboard and key frames were inspected for the source insert, chart labels, chapter changes and legibility. The narration is synthetic and was checked for timing and continuity; no claim of a human-audited pronunciation pass is made. Data was checked on 2026-11-06 and should be refreshed for future reuse.
+Data was checked on 2026-11-06. Refresh numerical claims and source captures before publishing a later remake.

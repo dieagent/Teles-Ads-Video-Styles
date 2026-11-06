@@ -7,6 +7,7 @@ The chosen voice is Microsoft's Hindi neural narrator; no voice clone is used.
 
 import asyncio
 import json
+import re
 import subprocess
 from pathlib import Path
 
@@ -23,13 +24,43 @@ RATE = 24000
 PAUSE = 0.16
 
 
+def srt_time(seconds):
+    milliseconds = round(seconds * 1000)
+    hours, milliseconds = divmod(milliseconds, 3_600_000)
+    minutes, milliseconds = divmod(milliseconds, 60_000)
+    secs, milliseconds = divmod(milliseconds, 1000)
+    return f"{hours:02d}:{minutes:02d}:{secs:02d},{milliseconds:03d}"
+
+
+def write_captions(score):
+    """Keep the optional sidecar captions aligned when the voice is rebuilt."""
+    cues = []
+    for beat in score["beats"]:
+        sentences = [s.strip() for s in re.findall(r"[^।?!;]+[।?!;]?", beat["voice"]) if s.strip()]
+        lengths = [max(1, len(s)) for s in sentences]
+        total = sum(lengths)
+        start, end = beat["start"], beat["end"]
+        cursor = start
+        for index, (sentence, length) in enumerate(zip(sentences, lengths)):
+            following = end if index == len(sentences) - 1 else cursor + (end - start) * length / total
+            cues.append((cursor, following, sentence))
+            cursor = following
+    renders = ROOT / "renders"
+    renders.mkdir(exist_ok=True)
+    body = "\n\n".join(
+        f"{i}\n{srt_time(start)} --> {srt_time(end)}\n{line}"
+        for i, (start, end, line) in enumerate(cues, 1)
+    )
+    (renders / "captions.srt").write_text(body + "\n", encoding="utf-8")
+
+
 async def speak(beat, sem):
     target = VOICE / f"{beat['id'].lower()}.mp3"
     async with sem:
         for attempt in range(3):
             try:
                 await edge_tts.Communicate(
-                    beat["voice"], "hi-IN-MadhurNeural", rate="+15%"
+                    beat["voice"], "hi-IN-MadhurNeural", rate="+0%"
                 ).save(str(target))
                 return target
             except Exception:
@@ -97,9 +128,10 @@ async def main():
     peak = max(float(np.max(np.abs(full))), 1e-6)
     full = full * min(0.82 / peak, 1.0)
     sf.write(VOICE / "narration.wav", full, RATE, subtype="PCM_16")
-    score["timing"] = {"status": "voice_locked", "voiceFile": "voice/narration.wav", "voice": "hi-IN-MadhurNeural", "rate": "+15%"}
+    score["timing"] = {"status": "voice_locked", "voiceFile": "voice/narration.wav", "voice": "hi-IN-MadhurNeural", "rate": "+0%"}
     score["targetSeconds"] = round(len(full) / RATE, 3)
     SCORE.write_text(json.dumps(score, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    write_captions(score)
     print(f"Voice locked: {len(full)/RATE:.2f}s")
 
 

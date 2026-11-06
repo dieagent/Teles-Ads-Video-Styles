@@ -4,7 +4,7 @@
   "fiction": false,
   "style": "documentary",
   "styleReason": "Uses the snakebite reference's visual question, 3D miniatures, cause-and-effect diagrams, color-chaptered mechanism, real evidence screenshot, and answer reversal without reusing reference frames.",
-  "targetSeconds": 103.326,
+  "targetSeconds": 117.586,
   "story": {
     "goal": "Explain the long-run China–India income gap.",
     "obstacle": "The prompt conflates a country's income level with its current growth rate and incorrectly implies India shrank.",
@@ -15,7 +15,7 @@
     "status": "voice_locked",
     "voiceFile": "voice/narration.wav",
     "voice": "hi-IN-MadhurNeural",
-    "rate": "+15%"
+    "rate": "+0%"
   },
   "sources": [
     {
@@ -83,7 +83,7 @@
       ],
       "purpose": "Correct the apparent premise.",
       "start": 0.0,
-      "end": 7.287,
+      "end": 8.238,
       "intentionalSilence": false
     },
     {
@@ -99,8 +99,8 @@
         "R6"
       ],
       "purpose": "Show the accumulated gap and metric limit.",
-      "start": 7.447,
-      "end": 20.06,
+      "start": 8.398,
+      "end": 22.803,
       "intentionalSilence": false
     },
     {
@@ -116,8 +116,8 @@
         "R5"
       ],
       "purpose": "Begin China reform chronology.",
-      "start": 20.22,
-      "end": 28.85,
+      "start": 22.963,
+      "end": 32.78,
       "intentionalSilence": false
     },
     {
@@ -132,8 +132,8 @@
         "R2"
       ],
       "purpose": "Show export mechanism.",
-      "start": 29.01,
-      "end": 36.379,
+      "start": 32.94,
+      "end": 41.353,
       "intentionalSilence": false
     },
     {
@@ -148,8 +148,8 @@
         "R2"
       ],
       "purpose": "Explain compounding industrial feedback.",
-      "start": 36.539,
-      "end": 45.164,
+      "start": 41.513,
+      "end": 51.321,
       "intentionalSilence": false
     },
     {
@@ -164,8 +164,8 @@
         "R3"
       ],
       "purpose": "Introduce India's distinct growth path.",
-      "start": 45.324,
-      "end": 54.088,
+      "start": 51.481,
+      "end": 61.467,
       "intentionalSilence": false
     },
     {
@@ -181,8 +181,8 @@
         "R4"
       ],
       "purpose": "Show job creation constraint.",
-      "start": 54.248,
-      "end": 64.188,
+      "start": 61.627,
+      "end": 73.009,
       "intentionalSilence": false
     },
     {
@@ -197,8 +197,8 @@
         "R3"
       ],
       "purpose": "Prove both countries grew.",
-      "start": 64.348,
-      "end": 75.128,
+      "start": 73.169,
+      "end": 85.499,
       "intentionalSilence": false
     },
     {
@@ -213,8 +213,8 @@
         "R6"
       ],
       "purpose": "Separate current speed from accumulated distance.",
-      "start": 75.288,
-      "end": 84.885,
+      "start": 85.659,
+      "end": 96.628,
       "intentionalSilence": false
     },
     {
@@ -231,8 +231,8 @@
         "R3"
       ],
       "purpose": "Answer the central question.",
-      "start": 85.044,
-      "end": 95.174,
+      "start": 96.788,
+      "end": 108.367,
       "intentionalSilence": false
     },
     {
@@ -247,8 +247,8 @@
         "R4"
       ],
       "purpose": "Close on a concrete development question.",
-      "start": 95.334,
-      "end": 103.166,
+      "start": 108.527,
+      "end": 117.426,
       "intentionalSilence": false
     }
   ]

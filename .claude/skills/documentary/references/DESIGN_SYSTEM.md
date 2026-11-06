@@ -23,10 +23,10 @@ Use the colors to *teach*: a chapter shift should mean a change in setting or ex
 
 ## Type and caption motion
 
-- Use an extremely bold condensed sans serif with uppercase English keywords over Hindi/Hinglish narration. The source uses brief cards such as `SO DOES IT WORK?`, `DRY BITE`, `IT BITES SLEEPERS` and `NOT JHAAD-PHOONK / NOT A ROPE`.
+- Use a bold condensed sans serif with uppercase English keywords over Hindi/Hinglish narration. The source uses brief cards such as `SO DOES IT WORK?`, `DRY BITE`, `IT BITES SLEEPERS` and `NOT JHAAD-PHOONK / NOT A ROPE`.
 - Prefer 2–6 words per card, at most two or three stacked lines. One phrase can be white, the answer/reversal amber or red. Keep the scene readable; do not show every spoken word as a giant card.
 - Type enters on the word it labels: quick vertical reveal, scale settle, or hard cut. Let it hold long enough to read, then clear on the next concept. Use a separate small citation line for provenance, not a third giant slogan.
-- Retain a subtitle track for accessibility if the delivery platform needs it, with a separate type treatment and safe zone. The large cards are emphases, not a substitute for accurate captions.
+- Retain a subtitle track for accessibility if the delivery platform needs it, with a separate type treatment and safe zone. The large cards are emphases, not a substitute for accurate captions. Do not keep branding, a title bug, or a source strip on every shot; they flatten the scene changes that make the reference work.
 
 ## Animation language
 
@@ -39,7 +39,7 @@ Use the colors to *teach*: a chapter shift should mean a change in setting or ex
 | Change emotional chapter | Blue nighttime room, off-axis light and low snake camera | New location with purposeful palette/light reset |
 | Prove a treatment or answer | Horse/antibody/vial transformation | Archival document → decision consequence, or model → verified outcome |
 
-Animate position, depth, occlusion and cause. A moving wallpaper with static text does not meet this style. Use easing for camera travel, but let hard impacts land on revelations. Revisit a visual motif at the end to close the question.
+Animate position, depth, occlusion and cause. A moving wallpaper with static text does not meet this style. A line or box drawn on top of an image also fails when it does not move the depicted object or reveal a mechanism. Use easing for camera travel, but let hard impacts land on revelations. Revisit a visual motif at the end to close the question.
 
 ## Voice, music, sound
 
@@ -53,4 +53,4 @@ If a document screenshot is used, preserve the true page in the archive and crea
 
 ## Quality gate
 
-At draft review, check every 3–5 seconds: what did the voice just say, what on screen demonstrates it, and what changed since the last beat? If the answer is only “the camera zoomed,” replace the shot. Check one phone-size frame per scene, spellings, dates, source credits, subtitle placement, voice/music balance and the final question.
+At draft review, compare a three-second sample sheet against the source. Check every 3–5 seconds: what did the voice just say, what on screen demonstrates it, and what changed since the last beat? If the answer is only “the camera zoomed,” replace the shot. A two-minute cut should have many distinct compositions and animated changes within them, rather than looping a few plates. Check one phone-size frame per scene, spellings, dates, source credits, subtitle placement, voice/music balance and the final question.

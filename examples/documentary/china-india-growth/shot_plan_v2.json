@@ -1,0 +1,483 @@
+{
+  "title": "China India documentary — reference-paced edit",
+  "reference": "examples/documentary/reference/snakebite-source.mp4",
+  "voiceFile": "voice/narration.wav",
+  "cutCount": 34,
+  "shots": [
+    {
+      "id": "S01",
+      "beatId": "B1",
+      "start": 0,
+      "end": 1.812,
+      "asset": "speed-distance",
+      "headline": "CHINA UP?",
+      "action": "gauge-left",
+      "purpose": "China's visible lead asks the opening question",
+      "sourceIds": [
+        "R1",
+        "R6"
+      ]
+    },
+    {
+      "id": "S02",
+      "beatId": "B1",
+      "start": 1.812,
+      "end": 3.707,
+      "asset": "speed-distance",
+      "headline": "INDIA DOWN?",
+      "action": "gauge-right",
+      "purpose": "Challenge the visual inference",
+      "sourceIds": [
+        "R1",
+        "R6"
+      ]
+    },
+    {
+      "id": "S03",
+      "beatId": "B1",
+      "start": 3.707,
+      "end": 5.767,
+      "asset": "opening-diorama",
+      "headline": "LOOK AGAIN",
+      "action": "rise-india",
+      "purpose": "Show India's platform rising",
+      "sourceIds": [
+        "R1",
+        "R6"
+      ]
+    },
+    {
+      "id": "S04",
+      "beatId": "B1",
+      "start": 5.767,
+      "end": 8.238,
+      "asset": "speed-distance",
+      "headline": "INDIA ROSE TOO",
+      "action": "pillars",
+      "purpose": "Replace the false falling metaphor",
+      "sourceIds": [
+        "R1",
+        "R6"
+      ]
+    },
+    {
+      "id": "S05",
+      "beatId": "B2",
+      "start": 8.398,
+      "end": 11.855,
+      "asset": "speed-distance",
+      "headline": "1990: CLOSE",
+      "action": "bars-1990",
+      "purpose": "Show near-equal current-dollar income levels",
+      "sourceIds": [
+        "R1",
+        "R6"
+      ]
+    },
+    {
+      "id": "S06",
+      "beatId": "B2",
+      "start": 11.855,
+      "end": 15.601,
+      "asset": "speed-distance",
+      "headline": "2025: THE GAP",
+      "action": "bars-2025",
+      "purpose": "Show the accumulated fivefold nominal gap",
+      "sourceIds": [
+        "R1",
+        "R6"
+      ]
+    },
+    {
+      "id": "S07",
+      "beatId": "B2",
+      "start": 15.601,
+      "end": 19.634,
+      "asset": "world-bank-page",
+      "headline": "THE DATA",
+      "action": "evidence",
+      "purpose": "Show the actual World Bank value",
+      "sourceIds": [
+        "R1",
+        "R6"
+      ]
+    },
+    {
+      "id": "S08",
+      "beatId": "B2",
+      "start": 19.634,
+      "end": 22.803,
+      "asset": "speed-distance",
+      "headline": "NOT ALL OF LIFE",
+      "action": "scale",
+      "purpose": "Limit the GDP-per-person metric",
+      "sourceIds": [
+        "R1",
+        "R6"
+      ]
+    },
+    {
+      "id": "S09",
+      "beatId": "B3",
+      "start": 22.963,
+      "end": 26.104,
+      "asset": "farm",
+      "headline": "1978",
+      "action": "seedling",
+      "purpose": "Begin reforms at the farm",
+      "sourceIds": [
+        "R2",
+        "R5"
+      ]
+    },
+    {
+      "id": "S10",
+      "beatId": "B3",
+      "start": 26.104,
+      "end": 29.246,
+      "asset": "farm",
+      "headline": "NEW INCENTIVES",
+      "action": "farm-hand",
+      "purpose": "Connect new rules to output",
+      "sourceIds": [
+        "R2",
+        "R5"
+      ]
+    },
+    {
+      "id": "S11",
+      "beatId": "B3",
+      "start": 29.246,
+      "end": 32.78,
+      "asset": "coastal-globe",
+      "headline": "COASTAL ZONES",
+      "action": "ports",
+      "purpose": "Reveal experimental zones along the coast",
+      "sourceIds": [
+        "R2",
+        "R5"
+      ]
+    },
+    {
+      "id": "S12",
+      "beatId": "B4",
+      "start": 32.94,
+      "end": 35.632,
+      "asset": "factory-line",
+      "headline": "FOREIGN CAPITAL",
+      "action": "factory-light",
+      "purpose": "Show investment entering production",
+      "sourceIds": [
+        "R2"
+      ]
+    },
+    {
+      "id": "S13",
+      "beatId": "B4",
+      "start": 35.632,
+      "end": 38.408,
+      "asset": "factory-line",
+      "headline": "MAKE",
+      "action": "conveyor",
+      "purpose": "Move a product into a box",
+      "sourceIds": [
+        "R2"
+      ]
+    },
+    {
+      "id": "S14",
+      "beatId": "B4",
+      "start": 38.408,
+      "end": 41.353,
+      "asset": "cargo-lift",
+      "headline": "SHIP",
+      "action": "container",
+      "purpose": "Lift a container and send it to the ship",
+      "sourceIds": [
+        "R2"
+      ]
+    },
+    {
+      "id": "S15",
+      "beatId": "B5",
+      "start": 41.513,
+      "end": 44.75,
+      "asset": "growth-loop",
+      "headline": "SELL MORE",
+      "action": "loop-first",
+      "purpose": "Exports enter the loop",
+      "sourceIds": [
+        "R2"
+      ]
+    },
+    {
+      "id": "S16",
+      "beatId": "B5",
+      "start": 44.75,
+      "end": 47.986,
+      "asset": "growth-loop",
+      "headline": "BUILD MORE",
+      "action": "loop-second",
+      "purpose": "Investment expands roads and machines",
+      "sourceIds": [
+        "R2"
+      ]
+    },
+    {
+      "id": "S17",
+      "beatId": "B5",
+      "start": 47.986,
+      "end": 51.321,
+      "asset": "cargo-lift",
+      "headline": "REPEAT",
+      "action": "ship-route",
+      "purpose": "The chain reaches the next buyer",
+      "sourceIds": [
+        "R2"
+      ]
+    },
+    {
+      "id": "S18",
+      "beatId": "B6",
+      "start": 51.481,
+      "end": 54.677,
+      "asset": "reform-file",
+      "headline": "1991",
+      "action": "file-open",
+      "purpose": "Open India's reform file",
+      "sourceIds": [
+        "R3"
+      ]
+    },
+    {
+      "id": "S19",
+      "beatId": "B6",
+      "start": 54.677,
+      "end": 57.672,
+      "asset": "reform-file",
+      "headline": "MARKET OPENS",
+      "action": "gate",
+      "purpose": "Move through the opening gate",
+      "sourceIds": [
+        "R3"
+      ]
+    },
+    {
+      "id": "S20",
+      "beatId": "B6",
+      "start": 57.672,
+      "end": 61.467,
+      "asset": "it-office",
+      "headline": "SERVICES + IT",
+      "action": "data-cables",
+      "purpose": "Show services growing",
+      "sourceIds": [
+        "R3"
+      ]
+    },
+    {
+      "id": "S21",
+      "beatId": "B7",
+      "start": 61.627,
+      "end": 65.383,
+      "asset": "it-office",
+      "headline": "SKILLED WORK",
+      "action": "office",
+      "purpose": "Focus on skill-intensive employment",
+      "sourceIds": [
+        "R3",
+        "R4"
+      ]
+    },
+    {
+      "id": "S22",
+      "beatId": "B7",
+      "start": 65.383,
+      "end": 69.139,
+      "asset": "worker-gap",
+      "headline": "MILLIONS NEED JOBS",
+      "action": "worker",
+      "purpose": "Cut to the workshop worker",
+      "sourceIds": [
+        "R3",
+        "R4"
+      ]
+    },
+    {
+      "id": "S23",
+      "beatId": "B7",
+      "start": 69.139,
+      "end": 73.009,
+      "asset": "worker-gap",
+      "headline": "THE MISSING LINK",
+      "action": "bridge",
+      "purpose": "The goods route stops at a broken bridge",
+      "sourceIds": [
+        "R3",
+        "R4"
+      ]
+    },
+    {
+      "id": "S24",
+      "beatId": "B8",
+      "start": 73.169,
+      "end": 77.361,
+      "asset": "speed-distance",
+      "headline": "BOTH GREW",
+      "action": "pillars",
+      "purpose": "Correct the idea of decline",
+      "sourceIds": [
+        "R3"
+      ]
+    },
+    {
+      "id": "S25",
+      "beatId": "B8",
+      "start": 77.361,
+      "end": 81.43,
+      "asset": "speed-distance",
+      "headline": "INDIA 6.7%",
+      "action": "bar-india",
+      "purpose": "Show India's 2000-19 annual average",
+      "sourceIds": [
+        "R3"
+      ]
+    },
+    {
+      "id": "S26",
+      "beatId": "B8",
+      "start": 81.43,
+      "end": 85.499,
+      "asset": "speed-distance",
+      "headline": "CHINA 9.1%",
+      "action": "bar-china",
+      "purpose": "Show China's higher annual average",
+      "sourceIds": [
+        "R3"
+      ]
+    },
+    {
+      "id": "S27",
+      "beatId": "B9",
+      "start": 85.659,
+      "end": 89.169,
+      "asset": "speed-distance",
+      "headline": "INDIA FASTER NOW",
+      "action": "needle-india",
+      "purpose": "Show current annual speed",
+      "sourceIds": [
+        "R6"
+      ]
+    },
+    {
+      "id": "S28",
+      "beatId": "B9",
+      "start": 89.169,
+      "end": 92.789,
+      "asset": "speed-distance",
+      "headline": "2025: 7.6 / 5.0",
+      "action": "bars-current",
+      "purpose": "Show the sourced annual rates",
+      "sourceIds": [
+        "R6"
+      ]
+    },
+    {
+      "id": "S29",
+      "beatId": "B9",
+      "start": 92.789,
+      "end": 96.628,
+      "asset": "speed-distance",
+      "headline": "SPEED ≠ DISTANCE",
+      "action": "distance",
+      "purpose": "Contrast rate with accumulated income",
+      "sourceIds": [
+        "R6"
+      ]
+    },
+    {
+      "id": "S30",
+      "beatId": "B10",
+      "start": 96.788,
+      "end": 100.262,
+      "asset": "opening-diorama",
+      "headline": "INDIA DIDN'T FALL",
+      "action": "rise-india",
+      "purpose": "Answer the false premise",
+      "sourceIds": [
+        "R1",
+        "R2",
+        "R3"
+      ]
+    },
+    {
+      "id": "S31",
+      "beatId": "B10",
+      "start": 100.262,
+      "end": 104.199,
+      "asset": "growth-loop",
+      "headline": "CHINA'S LONG CHAIN",
+      "action": "loop-full",
+      "purpose": "Recall decades of export compounding",
+      "sourceIds": [
+        "R1",
+        "R2",
+        "R3"
+      ]
+    },
+    {
+      "id": "S32",
+      "beatId": "B10",
+      "start": 104.199,
+      "end": 108.367,
+      "asset": "it-office",
+      "headline": "A DIFFERENT PATH",
+      "action": "data-cables",
+      "purpose": "Recall India's service path",
+      "sourceIds": [
+        "R1",
+        "R2",
+        "R3"
+      ]
+    },
+    {
+      "id": "S33",
+      "beatId": "B11",
+      "start": 108.527,
+      "end": 111.464,
+      "asset": "jobs-choice",
+      "headline": "SKILLS?",
+      "action": "choice-book",
+      "purpose": "First concrete future choice",
+      "sourceIds": [
+        "R4"
+      ]
+    },
+    {
+      "id": "S34",
+      "beatId": "B11",
+      "start": 111.464,
+      "end": 114.4,
+      "asset": "jobs-choice",
+      "headline": "FACTORIES?",
+      "action": "choice-machine",
+      "purpose": "Second concrete future choice",
+      "sourceIds": [
+        "R4"
+      ]
+    },
+    {
+      "id": "S35",
+      "beatId": "B11",
+      "start": 114.4,
+      "end": 117.426,
+      "asset": "jobs-choice",
+      "headline": "LOGISTICS?",
+      "action": "choice-truck",
+      "purpose": "Third concrete future choice and ending",
+      "sourceIds": [
+        "R4"
+      ]
+    }
+  ]
+}
