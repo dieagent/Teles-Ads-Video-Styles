@@ -1,10 +1,10 @@
 # Director's script: The First American Mann Ki Baat
 
-**Prompt:** `/director what if Modi became president of the USA`  
-**Format:** 45-second fictional satire, 9:16  
-**Chosen style:** `/zackd` / reference video 08. Its stylized 3D people, sudden red/black type cards and bright ending support a quick political alternate reality. This uses the **visual grammar**, while the new plot is original.  
-**Opening label:** `FICTIONAL SATIRE · ALTERNATE UNIVERSE`  
-**Voice:** Original, neutral comic narrator; no imitation of Modi's real voice.  
+**Prompt:** `/director what if Modi became president of the USA`
+**Format:** 45-second fictional satire, 9:16
+**Chosen style:** `/zackd` / reference video 08. Its stylized 3D people, sudden red/black type cards and bright ending support a quick political alternate reality. This uses the **visual grammar**, while the new plot is original.
+**Opening label:** `FICTIONAL SATIRE · ALTERNATE UNIVERSE`
+**Voice:** Original, neutral comic narrator; no imitation of Modi's real voice.
 **Status:** Script and visual direction are ready. Timings below are estimates until a voice take is recorded.
 
 ## Story spine
