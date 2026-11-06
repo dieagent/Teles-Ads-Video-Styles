@@ -1,0 +1,255 @@
+{
+  "title": "China grew fast. Did India go down?",
+  "premise": "How did China build a much larger income lead, and is India actually declining?",
+  "fiction": false,
+  "style": "documentary",
+  "styleReason": "Uses the snakebite reference's visual question, 3D miniatures, cause-and-effect diagrams, color-chaptered mechanism, real evidence screenshot, and answer reversal without reusing reference frames.",
+  "targetSeconds": 103.326,
+  "story": {
+    "goal": "Explain the long-run China–India income gap.",
+    "obstacle": "The prompt conflates a country's income level with its current growth rate and incorrectly implies India shrank.",
+    "turn": "Show China's early export-manufacturing loop and India's later service-led path, then reveal India's faster recent growth.",
+    "payoff": "India grew; China accumulated a larger income lead. The future question is broad job creation."
+  },
+  "timing": {
+    "status": "voice_locked",
+    "voiceFile": "voice/narration.wav",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+15%"
+  },
+  "sources": [
+    {
+      "id": "R1",
+      "kind": "official",
+      "claim": "World Bank 1990/2025 GDP per capita in current US dollars and 2025 annual GDP growth for China and India.",
+      "url": "https://databank.worldbank.org/reports.aspx?country=CHN%2CIND&series=NY.GDP.PCAP.CD&source=2",
+      "published": "2026 data access",
+      "use": "Opening gap; paired with World Bank country comparison page for 2025 growth and screenshot."
+    },
+    {
+      "id": "R2",
+      "kind": "official",
+      "claim": "World Bank history of China's opening, 1980 special economic zones, ports, foreign investment and exports.",
+      "url": "https://documents1.worldbank.org/curated/en/099355105182214741/pdf/IDU0252045cf029fb04b3c0a3b8015c08103310d.pdf",
+      "published": "2024",
+      "use": "China farm-to-factory-to-port mechanism."
+    },
+    {
+      "id": "R3",
+      "kind": "official",
+      "claim": "World Bank India Country Economic Memorandum: 1990s reforms, service-led growth, and 2000-2019 average real GDP growth of 6.7% India versus 9.1% China.",
+      "url": "https://thedocs.worldbank.org/en/doc/400139d320ead96a0ec624d3608d9b56-0310012025/original/India-Country-Economic-Memorandum-2024-0227c.pdf",
+      "published": "2024",
+      "use": "India growth path, comparison, job challenge."
+    },
+    {
+      "id": "R4",
+      "kind": "official",
+      "claim": "World Bank India overview: per-person income nearly tripled since 2000 and more/better jobs, skills and productivity remain challenges.",
+      "url": "https://www.worldbank.org/ext/en/country/india",
+      "published": "2026 access",
+      "use": "Closing jobs question and framing India as growing."
+    },
+    {
+      "id": "R5",
+      "kind": "official",
+      "claim": "World Bank summary of China's 1978 opening and rural/agricultural reforms.",
+      "url": "https://blogs.worldbank.org/en/eastasiapacific/reflections-on-forty-years-of-china-reforms",
+      "published": "2018",
+      "use": "Origin of the China reform timeline."
+    },
+    {
+      "id": "R6",
+      "kind": "official",
+      "claim": "World Bank comparison page reports 2025 GDP growth of 5.0% China and 7.6% India, and current-dollar GDP per capita.",
+      "url": "https://data.worldbank.org/?locations=CN-IN",
+      "published": "2026 access",
+      "use": "On-screen evidence screenshot and 2025 growth comparison."
+    }
+  ],
+  "jokes": [],
+  "beats": [
+    {
+      "id": "B1",
+      "act": "setup",
+      "voice": "चीन ऊपर गया, भारत नीचे? यह चार्ट ऐसा क्यों लगता है? ज़रा रुकिए। भारत की अर्थव्यवस्था गिरी नहीं है।",
+      "caption": "CHINA UP / INDIA DOWN?",
+      "visual": "opening-diorama.png; two miniature city platforms both rise, China higher, India still rising.",
+      "motion": "Split reveal; camera pushes between models; India platform moves upward before question card flips.",
+      "sound": "One dry impact, then low pulse.",
+      "sourceIds": [
+        "R1",
+        "R6"
+      ],
+      "purpose": "Correct the apparent premise.",
+      "start": 0.0,
+      "end": 7.287,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B2",
+      "act": "setup",
+      "voice": "उन्नीस सौ नब्बे में दोनों की प्रति व्यक्ति जी डी पी, मौजूदा डॉलर में, काफ़ी करीब थी। दो हज़ार पच्चीस में चीन का आंकड़ा भारत से करीब पाँच गुना था। यह आय का एक पैमाना है, पूरी ज़िंदगी का नहीं।",
+      "caption": "THE GAP GREW",
+      "visual": "Evidence crop from World Bank WDI; animate two dimensional bars for 1990 and 2025, label CURRENT US DOLLARS.",
+      "motion": "1990 bars appear close; 2025 bars grow to their sourced ratios; World Bank page comes forward behind figures.",
+      "sound": "Two restrained data clicks; music ducks under figures.",
+      "sourceIds": [
+        "R1",
+        "R6"
+      ],
+      "purpose": "Show the accumulated gap and metric limit.",
+      "start": 7.447,
+      "end": 20.06,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B3",
+      "act": "setup",
+      "voice": "यह फासला एक साल में नहीं बना। चीन ने उन्नीस सौ अठहत्तर से खेती और व्यापार के नियम बदले। फिर तट पर खास आर्थिक क्षेत्र खोले।",
+      "caption": "1978 → OPENING",
+      "visual": "china-reform.png; farm foreground, factory and coastal zone background.",
+      "motion": "Camera travels along the road from farm to port; year pin advances from 1978 to 1980.",
+      "sound": "Road texture and a soft industrial pulse.",
+      "sourceIds": [
+        "R2",
+        "R5"
+      ],
+      "purpose": "Begin China reform chronology.",
+      "start": 20.22,
+      "end": 28.85,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B4",
+      "act": "escalation",
+      "voice": "वहाँ विदेशी निवेश, कारखाने और बंदरगाह जुड़े। सामान बनता, कंटेनर में चढ़ता, और जहाज़ से दुनिया तक जाता।",
+      "caption": "FACTORY → PORT → WORLD",
+      "visual": "export-chain.png; 3D diagram overlays connect factory, container, ship and customer globe.",
+      "motion": "Gold route draws itself phrase by phrase; one container lifts on spoken 'कंटेनर'.",
+      "sound": "Small machinery and ship cues below narration.",
+      "sourceIds": [
+        "R2"
+      ],
+      "purpose": "Show export mechanism.",
+      "start": 29.01,
+      "end": 36.379,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B5",
+      "act": "escalation",
+      "voice": "निर्यात बढ़ा, तो नई मशीनें और नए रास्ते बने। उसी नेटवर्क ने और उत्पादन आसान किया। चीन का यह इंजन दशकों तक चलता रहा।",
+      "caption": "A GROWTH LOOP",
+      "visual": "export-chain.png; dimensional flywheel showing exports, investment and infrastructure.",
+      "motion": "Three ring segments illuminate in order; camera orbits the chain, then exits via ship route.",
+      "sound": "Rhythmic gear ticks, no overpowering engine noise.",
+      "sourceIds": [
+        "R2"
+      ],
+      "purpose": "Explain compounding industrial feedback.",
+      "start": 36.539,
+      "end": 45.164,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B6",
+      "act": "escalation",
+      "voice": "भारत ने भी उन्नीस सौ इक्यानवे से बाजार खोला। उसकी तेज़ उड़ान खासकर सेवाओं और आई टी में दिखी। यह भी बड़ी आर्थिक सफलता थी।",
+      "caption": "INDIA'S PATH",
+      "visual": "india-path.png; reform gate opens toward offices and digital cable network.",
+      "motion": "Track through gate to office; digital strands light in sequence.",
+      "sound": "Warm tonal lift; light keyboard texture.",
+      "sourceIds": [
+        "R3"
+      ],
+      "purpose": "Introduce India's distinct growth path.",
+      "start": 45.324,
+      "end": 54.088,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B7",
+      "act": "escalation",
+      "voice": "लेकिन हुनर मांगने वाली सेवाएं, कम पढ़े लिखे हर मज़दूर के लिए बड़ी संख्या में नौकरी नहीं बना पाईं। फैक्ट्री, कौशल और ढुलाई की कड़ियाँ उतनी तेज़ी से नहीं जुड़ीं।",
+      "caption": "THE JOBS QUESTION",
+      "visual": "india-path.png; workers, workshops and port connected by incomplete bridge segments.",
+      "motion": "As voice names jobs, connectors try to join office, workshop and port; one gap remains visibly unclosed.",
+      "sound": "Pulse slows; one restrained gap hit.",
+      "sourceIds": [
+        "R3",
+        "R4"
+      ],
+      "purpose": "Show job creation constraint.",
+      "start": 54.248,
+      "end": 64.188,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B8",
+      "act": "escalation",
+      "voice": "फिर भी भारत नीचे नहीं गया। विश्व बैंक के मुताबिक, दो हज़ार से दो हज़ार उन्नीस तक भारत की औसत सालाना वृद्धि छह दशमलव सात प्रतिशत थी; चीन की नौ दशमलव एक।",
+      "caption": "BOTH GREW",
+      "visual": "Original 3D bar chart with World Bank citation, 2000-2019 real GDP growth averages.",
+      "motion": "Both bars rise; China rises further; tilt reveals interval label.",
+      "sound": "Clean two-step rise; no alarm.",
+      "sourceIds": [
+        "R3"
+      ],
+      "purpose": "Prove both countries grew.",
+      "start": 64.348,
+      "end": 75.128,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B9",
+      "act": "escalation",
+      "voice": "और दो हज़ार पच्चीस में भारत की ग्रोथ सात दशमलव छह प्रतिशत रही, चीन की पाँच प्रतिशत। आज की रफ्तार अलग है; पिछले दशकों का जमा फासला अलग।",
+      "caption": "SPEED ≠ DISTANCE",
+      "visual": "Evidence screenshot and 3D speedometer beside accumulated height blocks.",
+      "motion": "India speed needle passes China; then camera widens to show China height block still larger.",
+      "sound": "Quick needle tick, then a quiet reveal.",
+      "sourceIds": [
+        "R6"
+      ],
+      "purpose": "Separate current speed from accumulated distance.",
+      "start": 75.288,
+      "end": 84.885,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B10",
+      "act": "payoff",
+      "voice": "तो जवाब यह है: भारत गिरा नहीं। चीन ने पहले शुरू करके कारखाने, बंदरगाह और निर्यात की लंबी चेन बनाई। भारत बढ़ा, मगर सेवाओं वाले अलग रास्ते पर।",
+      "caption": "THE REAL ANSWER",
+      "visual": "opening-diorama.png returns; China export path and India service path traced in different colors.",
+      "motion": "Two routes draw; camera returns to both rising city models; no falling India arrow.",
+      "sound": "Main theme resolves without victory cue.",
+      "sourceIds": [
+        "R1",
+        "R2",
+        "R3"
+      ],
+      "purpose": "Answer the central question.",
+      "start": 85.044,
+      "end": 95.174,
+      "intentionalSilence": false
+    },
+    {
+      "id": "B11",
+      "act": "payoff",
+      "voice": "अगला सवाल है: भारत ज़्यादा लोगों के लिए अच्छे काम कैसे बनाए? आपके हिसाब से शुरुआत किससे हो—कौशल, कारखाने, या ढुलाई?",
+      "caption": "WHAT BUILDS JOBS?",
+      "visual": "india-path.png; three tactile tokens labeled SKILLS, FACTORIES, LOGISTICS appear over the city.",
+      "motion": "Tokens land one by one, then hold on the question.",
+      "sound": "Three soft taps; finish clean after voice.",
+      "sourceIds": [
+        "R4"
+      ],
+      "purpose": "Close on a concrete development question.",
+      "start": 95.334,
+      "end": 103.166,
+      "intentionalSilence": false
+    }
+  ]
+}
