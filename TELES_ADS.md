@@ -1,6 +1,10 @@
 # Teles Ads
 
-Use one command to match a **specific supplied video**, then give a new topic. Ten primary commands map one-to-one to the ten supplied clips. Two additional commands use distinct, short segments of videos 04 and 05. All twelve skills live in `.claude/skills/` and the slash commands live in `.claude/commands/`.
+## One-line director
+
+Use `/director what if Modi became president of the USA` for a researched story, original character-specific jokes, a timed shot script and a video made in a selected style. The [director skill](.claude/skills/teles-director/SKILL.md) researches both the person's own humor and public jokes, then chooses one of the reference styles below. See the [worked script](examples/director/modi-us-president/SCRIPT.md), [source ledger](examples/director/modi-us-president/RESEARCH.md) and [open-source research](docs/DIRECTOR_OPEN_SOURCE.md). The example is explicitly fictional satire.
+
+Use one command to match a **specific supplied video**, then give a new topic. Ten primary commands map one-to-one to the ten supplied clips. Two additional commands use distinct, short segments of videos 04 and 05. All twelve video-style skills and the director skill live in `.claude/skills/`; the slash commands live in `.claude/commands/`.
 
 | Command | Video-number alias | Exact reference treatment | Source |
 |---|---|---|---|

@@ -1,6 +1,6 @@
 # Teles Ads
 
-Twelve source-specific short-video skills, ten direct video-number aliases, ten supplied video references, sixteen-frame sheets, timed breakdowns and worked examples. Start with [the command catalog](TELES_ADS.md).
+Use `/director <one-line idea>` for research, story, jokes, style selection and a voice-to-shot production score. Twelve source-specific short-video skills, ten direct video-number aliases, ten supplied video references, sixteen-frame sheets, timed breakdowns and worked examples support production. Start with [the command catalog](TELES_ADS.md).
 
 This repository also preserves the Arc Lab Series v1.0.2 source below.
 
