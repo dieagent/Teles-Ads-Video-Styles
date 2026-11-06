@@ -1,3 +1,11 @@
+# Teles Ads
+
+A library of twelve short-video commands with ten supplied video references, screenshot sheets, deep style breakdowns and original worked examples. Start with [the command catalog](TELES_ADS.md).
+
+This repository also preserves the Arc Lab Series v1.0.2 source below.
+
+---
+
 # Arc Lab Series Skill (v1.0.2)
 
 One Claude Code skill: your idea in, a voted, animated story series out. Claude writes the series bible and each
